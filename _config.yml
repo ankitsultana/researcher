@@ -1,0 +1,9 @@
+title: Prateek Behera
+url: "http://127.0.0.1:4000"
+baseurl: "/researcher"
+
+markdown: kramdown
+
+sass:
+    style: compressed
+    sass_dir: _sass

@@ -1,0 +1,8 @@
+- name: "About"
+  link: "https://google.com"
+
+- name: "Resume"
+  link: "https://google.com"
+
+- name: "Publications"
+  link: "#"
