@@ -1,8 +1,8 @@
 - name: "About"
-  link: "https://google.com"
+  link: "/researcher/"
 
 - name: "Resume"
-  link: "https://google.com"
+  link: "resume.pdf"
 
 - name: "Contact"
-  link: "#"
+  link: "contact"
