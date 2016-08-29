@@ -12,6 +12,8 @@ Here is a [link](#)
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
+I study at IPC, eat at Redi and *shit* at Mal.
+
 ## Publications
 
 1. A. Jain, D.Das and A.Saxena. Planit: A crowdsourcing approach for learning to plan paths from large scale preference feedback. Tech Report, ICRA, in press

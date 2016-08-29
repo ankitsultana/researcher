@@ -59,7 +59,11 @@
             <a id="author-name" class="alignable pull-left" href="{{ site.url }}{{ site.baseurl }}">{{ site.title }}</a>
             <ul class="aligable pull-right navbar-ul">
                 {% for x in site.data.nav %}
-                <li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a> / </li>
+                    {% if x.name == "Resume" %}
+                        <li class="alignable pull-right nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a> / </li>
+                    {% else %}
+                        <li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a> / </li>
+                    {% endif %}
                 {% endfor %}
             </ul>
         </div>
@@ -70,7 +74,6 @@
         </div>
     </div>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
-    <script src="/js/rrssb.min.js"></script>
 
     {% if site.tracking_id %}
         {% include analytics.html %}
