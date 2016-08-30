@@ -30,7 +30,7 @@
         padding: 2px 8px 2px 8px;
         font-style: italic;
     }
-    img {
+    .profile-picture {
         height: $image-size;
         width: $image-size;
         position: relative;
@@ -46,5 +46,9 @@
                 margin-top: -5px;
             }
         }
+    }
+    img {
+        text-align: center;
+        width: 100%;
     }
 }
