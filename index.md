@@ -14,6 +14,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum a
 
 I study at IPC, eat at Redi and *shit* at Mal.
 
+> Here is a blockquote
+
 ## Publications
 
 1. A. Jain, D.Das and A.Saxena. Planit: A crowdsourcing approach for learning to plan paths from large scale preference feedback. Tech Report, ICRA, in press

@@ -5,11 +5,13 @@ is_contact: true
 
 ## Mailing Address
 
-3135, Gandhi Bhawan
-
-BITS Pilani, Pilani
-
-Vidya Vihar, Rajasthan
+> 3135, Gandhi Bhawan
+>
+> BITS Pilani, Pilani
+>
+> Vidya Vihar, Rajasthan
+>
+> India
 
 ## Social
 
