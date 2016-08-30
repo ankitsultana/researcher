@@ -22,7 +22,7 @@ Simply fork the repository and edit away.
 
 * You can setup google analytics, by setting `tracking_id` in `_config.yml`
 
-**Note:** Customizing the accent color might cause merge conflicts if you try to merge from `bk2dcradle/researcher` (in case you have forked).
+**Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
 
 ### License
 
