@@ -2,7 +2,7 @@
 
 ### [Demo Website](https://ankitsultana.me/researcher)
 
-A clean, jekyll based resume template
+A clean, single column, monospace resume template built for jekyll
 
 ### Installation
 
