@@ -35,6 +35,7 @@ hr {
 #author-name {
     font-size: 30px;
     color: #272727;
+    display: inline-block;
 }
 .navbar {
     padding: 50px 0 50px 0;
@@ -43,11 +44,11 @@ hr {
     display: inline-block;
     margin: 0;
     padding: 5px 0 5px 0;
-    // padding-top: 20px;
+    margin-left: 20px;
 }
 .nav-list {
     list-style-type: none;
-    margin: 0 5px 0 5px;
+    margin: 0 5px 0 10px;
 }
 .alignable {
     display: inline-block;
@@ -74,8 +75,6 @@ hr {
 /* Mobile */
 
 @media (max-width: 800px) {
-    body {
-    }
     .container {
         max-width: $med-width;
         transition: 0.3s ease all;
@@ -87,14 +86,13 @@ hr {
         max-width: 83%;
     }
     .navbar-ul {
-        margin-top: 13px;
+        margin-top: 5px;
     }
 }
 
 @media (max-width: 580px) {
     #author-name {
-        display: block;
-        float: none;
+        display: inline-block;
     }
 }
 
