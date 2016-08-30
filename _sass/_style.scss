@@ -71,4 +71,35 @@ hr {
     min-height: 100%;
 }
 
+/* Mobile */
+
+@media (max-width: 800px) {
+    body {
+    }
+    .container {
+        max-width: $med-width;
+        transition: 0.3s ease all;
+    }
+}
+
+@media (max-width: 650px) {
+    .container {
+        max-width: 83%;
+    }
+}
+
+@media (max-width: 580px) {
+    body {
+        background: #f0f0f0;
+    }
+    #author-name {
+        display: block;
+        float: none;
+    }
+    .navbar-ul {
+        display: block;
+        float: none;
+    }
+}
+
 @import "typography";
