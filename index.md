@@ -16,6 +16,11 @@ I study at IPC, eat at Redi and *shit* at Mal.
 
 > Here is a blockquote
 
+Here is an unordered list
+
+* Point one is this one
+* Point two is not one
+
 ## Publications
 
 1. A. Jain, D.Das and A.Saxena. Planit: A crowdsourcing approach for learning to plan paths from large scale preference feedback. Tech Report, ICRA, in press
@@ -23,5 +28,5 @@ I study at IPC, eat at Redi and *shit* at Mal.
 
 ## References
 
-1. Some Instructor, God at Stilwell
-2. More Instructor, Prof at some show
+* Some Instructor, God at Stilwell
+* More Instructor, Prof at some show

@@ -12,6 +12,9 @@
         margin-top: 5px;
         margin-bottom: 5px;
     }
+    ul > li {
+        margin: 5px 0 5px 0;
+    }
     ol > li:before {
         content: "[" counter(list, decimal) "] ";
         counter-increment: list;
