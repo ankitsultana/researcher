@@ -1,3 +1,5 @@
+@import "vars";
+
 .content {
     a:hover {
         text-decoration: underline;
@@ -22,10 +24,27 @@
         left: -30px;
     }
     blockquote {
-        background: #EEEEEE;
         //border: 1px solid black;
-        border-left: 5px solid #000;
-        margin: 0;
+        border-left: 5px solid #333333;
+        margin: 20px 0 20px 0;
         padding: 2px 8px 2px 8px;
+        font-style: italic;
+    }
+    img {
+        height: $image-size;
+        width: $image-size;
+        position: relative;
+        margin: -10px 0 0 15px;
+        float: right;
+        border-radius: 50%;
+        p & {
+            padding: 0;
+            margin: 0;
+        }
+        @media (max-width: $small-width) {
+            img {
+                margin-top: -5px;
+            }
+        }
     }
 }

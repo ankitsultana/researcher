@@ -2,19 +2,20 @@
 layout: default
 is_contact: true
 ---
+
 * Email: [foo@xyz.com](mailto:foo@xyz.com)
 
 * Phone: [+91-123123](tel:+91-123123)
 
+---
+
 ## Mailing Address
 
-> 3135, Gandhi Bhawan
+> 221B, Baker Street
 >
-> BITS Pilani, Pilani
+> London
 >
-> Vidya Vihar, Rajasthan
->
-> India
+> United Kingdom
 
 ---
 

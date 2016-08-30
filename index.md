@@ -4,6 +4,8 @@ layout: default
 
 ## About Me
 
+<img src="sherlock.jpg">
+
 Hi! I am a junior year student of MSc. Economics at Birla Institute of Technology and Science, Pilani.
 
 Here is a [link](https://google.com){:target="_blank"}

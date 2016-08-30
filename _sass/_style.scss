@@ -86,17 +86,13 @@ hr {
     .container {
         max-width: 83%;
     }
+    .navbar-ul {
+        margin-top: 13px;
+    }
 }
 
 @media (max-width: 580px) {
-    body {
-        background: #f0f0f0;
-    }
     #author-name {
-        display: block;
-        float: none;
-    }
-    .navbar-ul {
         display: block;
         float: none;
     }
