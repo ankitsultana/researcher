@@ -28,6 +28,9 @@ Simply fork the repository and edit away.
 <img class="profile-picture" src="sherlock.jpg">
 ```
 
+* You can remove/customize the footer as you like by setting the
+appropriate variables in `_config.yml`
+
 **Note:** Customizing the accent color might cause merge conflicts if you later try to merge from `bk2dcradle/researcher` to fetch updates/patches etc. (applicable only if you have forked).
 
 ### License
