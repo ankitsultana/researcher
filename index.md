@@ -21,6 +21,7 @@ My role is currently based at UNE. I have been a part of a number of research pr
 #### Strategic initiatives:
 * Chairing the university's eResearch Committee, a committee sponsored by the DVCR, since August 2016, which as included modernising the Committee's structure, reporting to the University Research Committee and the DVCR, and investigating various university eResearch capabilities.
 * Initiating and leading a year-long, university-wide Research Data Management project to build awareness amongst researchers, streamline corporate workflows, advocate for further investment into infrastructure capabilities, and establish and maintain weekly reports on UNE researchers' usage of the institutional cloud storage platform, [Cloud.UNE](cloud.une.edu.au).
+* Undertook a [web-scraping and text analysis project](https://github.com/paddytobias/eResearchImpactEngagement) to support UNE's preparation for the Research Engagement and Impact assessment, using 2014 submissions to the UK REF Impact assessment.  
 
 #### Research projects
 * Working with Dr Jason Stoessel on his ARC Discovery project on researching canonic techniques between 1300-1500 and supporting the successful application for a successive ARC Discovery grant awarded to Dr Stoessel and his colleague, Dr Denis Collins. My work in this project has involved leading the transforming and migrating ~5,000 data records from a FileMaker Pro database into an open source online database repository called Muscat using database techniques; scripting bug fixes in Python and SQL; and supporting a positive relationship between Dr Stoessel and Intersect's Engineering team. This [Canonic Techniques  website (currently in staging)](https://canons-staging.intersect.org.au/catalog) is live. 
@@ -50,14 +51,13 @@ My role is currently based at UNE. I have been a part of a number of research pr
 2007-2009
 
 ## Languages
-* R 
+* R (RStudio)
 * Python
-* SQL
-* 
+* SQL (SQLite, Postgres and MySQL)
 
-
-
-## Research Interests
+## Research side projects
+* [Cleaning 2015 Census data for Timor-Leste](https://github.com/paddytobias/15census_timor_dataclean/settings)
+* [Identifying patterns in language in Peace and Conflict Studies literature](https://paddytobias.github.io/language-in-peacebuilding/)
 
 
 ## Selected Publications
