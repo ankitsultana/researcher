@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="photo.jpg">
+<img class="profile-picture" src="../photo.jpg">
 
 Hi! I am the eResearch Analyst employed by Intersect Australia, based at the University of New England, Armidale. I have been in this role for two years and based at UNE for 9 years. I moved here from Melbourne to undertake a PhD in 2010. 
 
