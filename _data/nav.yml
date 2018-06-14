@@ -5,7 +5,7 @@
   link: "resume.pdf"
 
 - name: "About"
-  link: "resume/about/"
+  link: "about/"
 
 - name: "GitHub"
   link: "https://github.com/paddytobias"
