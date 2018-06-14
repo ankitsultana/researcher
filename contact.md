@@ -3,24 +3,17 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [paddytobias@me.com](mailto:paddytobias@me.com)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+61-403 328 864](tel:+61-403328864)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> 9 Roslyn Avenue
 >
-> London
+> Armidale, NSW
 >
-> United Kingdom
+> Australia. 2350
 
----
-
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
