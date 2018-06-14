@@ -6,9 +6,9 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I am the eResearch Analyst employed by Intersect Australia, based at the University of New England, Armidale. I have been with UNE for 9 years, having moved here to undertake a PhD in 2010. 
+Hi! I am the eResearch Analyst employed by Intersect Australia, based at the University of New England, Armidale. I have been in this role for two years and based at UNE for 9 years. I moved here from Melbourne to undertake a PhD in 2010. 
 
-My academic research training is in Sociology, Political Science and International Relations, with a particular focus on Peace and Conflict Studies. Whilst I don't have a computer science background leading into my current position, I have worked hard to embed myself in computational methods. I am now quite fluent in R and SQL, and starting to pick up Python. I am particularly interested in exploring the possibilities that advanced computational techniques brings to the Arts and Humanities by way of natural language processing and semantic analysis, and as such have began a Masters of Data Science. 
+My academic research training is in Sociology, Political Science and International Relations, with a particular focus on Peace and Conflict Studies. Whilst my research background is somewhat unusual for my role as an eResearch Analyst, I bring a number of years of academic and industry research experience. Since taking on this role a couple of years ago, I have worked hard to familiarise myself with computational methods having taught myself R and SQL, and now picking up Python as well. I am particularly interested in the possibilities that advanced computational techniques bring to the Arts and Humanities research areas by way of natural language processing and semantic analysis, and as such have began a Masters of Data Science. 
 
 You can find much of my coding projects on [GitHub](https://github.com/paddytobias)
 
@@ -16,15 +16,22 @@ You can find much of my coding projects on [GitHub](https://github.com/paddytobi
 **eResearch Analyst, Intersect Australia**
 May 2016-ongoing
 
-My role has been based at UNE. I have been a part of a number of research projects and strategic university initiatives:
+My role is currently based at UNE. I have been a part of a number of research projects, strategic university initiatives and training events:
 
 ### Strategic initiatives:
 * Chairing the university's eResearch Committee, a committee sponsored by the DVCR, since August 2016, which as included modernising the Committee's structure, reporting to the University Research Committee and the DVCR, and investigating various university eResearch capabilities.
 * Initiating and leading a year-long, university-wide Research Data Management project to build awareness amongst researchers, streamline corporate workflows, advocate for further investment into infrastructure capabilities, and establish and maintain weekly reports on UNE researchers' usage of the institutional cloud storage platform, [Cloud.UNE](cloud.une.edu.au).
 
 ### Research projects
-* Working with Dr Jason Stoessel on his ARC Discovery project on researching canonic techniques between 1300-1500 and supporting the successful application for a successive ARC Discovery grant awarded to Dr Stoessel and his colleague, Dr Denis Collins. My work in this project has involved leading the transforming and migrating ~5,000 data records from a FileMaker Pro database into an open source online database repository called Muscat using database techniques; scripting bug fixes in Python and SQL; and supporting a positive relationship between Dr Stoessel and Intersect's Engineering team.
+* Working with Dr Jason Stoessel on his ARC Discovery project on researching canonic techniques between 1300-1500 and supporting the successful application for a successive ARC Discovery grant awarded to Dr Stoessel and his colleague, Dr Denis Collins. My work in this project has involved leading the transforming and migrating ~5,000 data records from a FileMaker Pro database into an open source online database repository called Muscat using database techniques; scripting bug fixes in Python and SQL; and supporting a positive relationship between Dr Stoessel and Intersect's Engineering team. This [Canonic Techniques  website (currently in staging)](https://canons-staging.intersect.org.au/catalog) is live. 
 * Initiating and leading the [Ngan'gi Language Collection](https://ngangi.net/) project for A/Prof. Nick Reid, funded by the Australian National Data Service. This including scoping realistic web-based solutions for A/Prof Reid's requirements, and undertaking user acceptance testing and content migration. A/Prof and I present the project at the 2017 eResearch Australasia conference.
+
+### Education & Training
+* Currently managing Intersect's training program at UNE, delivering many of the courses myself as well as coordinating two on-campus trainers. 
+* Regularly presenting to researchers and staff on eResearch capabilities, and data and software management techniques. 
+* Currently a member of the organising committee for [Sydney ResBaz (3-5 July)](https://resbaz.github.io/resbaz2018/sydney/), primarily to oversee an increase in the representation from regional NSW universities at this year's event, with which I have been reasonably successful.
+I will also be the lead instructor of the Introductory R stream at this year's event. 
+
 
 ## Education
 **PhD**, University of New England, Armidale
