@@ -1,6 +1,6 @@
 skills:
     title: Skills &amp; Proficiency
-        skills:
+    skills:
         - skill:
         name: Python & Django
         level: 98%
