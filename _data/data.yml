@@ -2,21 +2,21 @@ skills:
     title: Skills &amp; Proficiency
     skills:
         - skill:
-          name: Python & Django
-          level: 98%
-        - skill:
-          name: Javascript & jQuery
-          level: 98%
-        - skill:
-          name: Angular
-          level: 98%
-        - skill:
-          name: HTML5 & CSS
-          level: 95%
-        - skill:
-          name: Ruby on Rails
+          name: R (RStudio)
           level: 85%
         - skill:
-          name: Sketch & Photoshop
-          level: 10%
+          name: Python
+          level: 55%
+        - skill:
+          name: SQL (SQLite, Postgres and MySQL)
+          level: 80%
+        - skill:
+          name: GitHub, GitLab
+          level: 90%
+        - skill:
+          name: Bash
+          level: 70%
+        - skill:
+          name: grep, sed
+          level: 40%
 
