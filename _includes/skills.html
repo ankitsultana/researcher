@@ -8,13 +8,13 @@
         {% for skill in site.data.data.skills.skills %}
         <div class="item">
             
-            <h3 class="level-title">{{ skill.name }}</h3>
+            <h3 class="level-title">{{ skill.name }}
             
             <div class="level-bar">
                 <div class="level-bar-inner" style="{{ skill.level }}">
                 </div>
             </div><!--//level-bar-->
-            
+            </h3>
         </div><!--//item-->
         {% endfor %}
         
