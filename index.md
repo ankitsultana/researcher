@@ -59,8 +59,8 @@ I am currently based at UNE for Intersect Australia. In this role I have been a 
 {% include skills.html %}
 
 ## Side projects
-* [Cleaning 2015 Census data for Timor-Leste](https://github.com/paddytobias/15census_timor_dataclean/settings)
-* [Identifying patterns in language in Peace and Conflict Studies literature](https://paddytobias.github.io/language-in-peacebuilding/)
+* 2016, [Cleaning 2015 Census data for Timor-Leste](https://github.com/paddytobias/15census_timor_dataclean/settings)
+* 2018, [Identifying patterns in language in Peace and Conflict Studies literature](https://paddytobias.github.io/language-in-peacebuilding/)
 
 
 ## Selected Publications
