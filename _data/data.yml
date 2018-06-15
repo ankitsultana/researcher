@@ -3,20 +3,20 @@ skills:
     skills:
         - skill:
           name: R (RStudio)
-          level: 85%
+          level: 85px
         - skill:
           name: Python
-          level: 55%
+          level: 55px
         - skill:
           name: SQL (SQLite, Postgres and MySQL)
-          level: 80%
+          level: 80px
         - skill:
           name: GitHub, GitLab
-          level: 90%
+          level: 90px
         - skill:
           name: Bash
-          level: 70%
+          level: 70px
         - skill:
           name: grep, sed
-          level: 40%
+          level: 40px
 
