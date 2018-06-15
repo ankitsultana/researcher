@@ -3,20 +3,18 @@ skills:
     skills:
         - skill:
           name: R (RStudio)
-          level: "width:310px;"
+          level: "width:370px;"
         - skill:
           name: Python
-          level: "width:220px;"
+          level: "width:280px;"
         - skill:
           name: SQL (SQLite, Postgres and MySQL) and database design
-          level: "width:300px;"
+          level: "width:380px;"
         - skill:
           name: GitHub
-          level: "width:330px;"
+          level: "width:350px;"
         - skill:
-          name: Bash
-          level: "width:200px;"
-        - skill:
-          name: grep, sed
-          level: "width:200px;"
+          name: Bash, grep, sed
+          level: "width:250px;"
+  
 
