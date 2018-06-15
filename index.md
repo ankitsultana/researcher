@@ -48,14 +48,6 @@ I am currently based at UNE for Intersect Australia. In this role I have been a 
 *Distinction*
 2007-2009
 
-## Skills
-* R (RStudio)
-* Python
-* SQL (SQLite, Postgres and MySQL)
-* Bash
-* grep, sed
-* GitHub, GitLab
-
 {% include skills.html %}
 
 ## Side projects
