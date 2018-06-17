@@ -39,7 +39,7 @@ Through these various relationships I have been an active member of a number of 
 
 
 ## Education
-**PhD**, *Cum laude*. University of New England, 2010-2015
+**Ph.D**, *Cum laude*. University of New England, 2010-2015
 
 
 **M.DataScience**. University of New England, 2018-ongoing
