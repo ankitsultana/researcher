@@ -4,10 +4,10 @@ baseurl: "/resume"
 
 markdown: kramdown
 
-tracking_id: #
+tracking_id: UA-120932006-1
 
 footer: yes
-footer_url: "https://paddytobias.github.io/researcher/"
+footer_url: "https://paddytobias.github.io/resume/"
 footer_text: "Resumé of Dr Paddy Tobias"
 
 sass:
