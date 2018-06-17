@@ -37,6 +37,7 @@ Through these relationships I have been an active member of a number of UNE's gr
 * Research Fellow (2014), *Queen's University* (Belfast)
 * Lead consultant (2013), Women’s Empowerment and Access to Justice project in Timor-Leste for *Search for Common Ground* (Washington)
 
+---
 
 ## Education
 **Ph.D**, *Cum laude*. University of New England, 2010-2015
@@ -47,8 +48,11 @@ Through these relationships I have been an active member of a number of UNE's gr
 
 **B.IntRelations**, *Distinction*. Deakin University, 2007-2009
 
+---
+
 {% include skills.html %}
 
+---
 ## Selected Publications
 
 1. Tobias, P. & N Reid, 2017, 'Improving the online profile of the Ngan’gi Language Collection', [eResearch Australasia](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/), Brisbane
