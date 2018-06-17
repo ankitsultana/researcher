@@ -34,10 +34,10 @@ Through these relationships I have been an active member of a number of UNE's gr
 
 ## Other experience
 * Corporate Communications Officer (2015-2016), *UNE*
-* Casual lecturer and tutor (2015), *UNE*
+* Casual academic lecturer and tutor (2015), *UNE*
 * Research Fellow (2014), *Queen's University* (Belfast)
 * Lead consultant (2013), Women’s Empowerment and Access to Justice project in Timor-Leste for *Search for Common Ground* (Washington)
-* Casual lecturer and tutor (2011-13), *UNE*
+* Casual academic lecturer and tutor (2011-13), *UNE*
 
 ---
 
