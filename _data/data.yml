@@ -3,13 +3,13 @@ skills:
     skills:
         - skill:
           name: R (RStudio)
-          level: "width:660px;"
+          level: "width:650px;"
         - skill:
           name: Python
           level: "width:500px;"
         - skill:
           name: SQL (SQLite, Postgres and MySQL) and database design
-          level: "width:650px;"
+          level: "width:610px;"
         - skill:
           name: GitHub and version control
           level: "width:650px;"
