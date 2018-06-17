@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="photo.jpg">
 
-Hi! I am the eResearch Analyst employed by Intersect Australia, based at the University of New England, Armidale, NSW. I have been in this role for two years and based at UNE for nine years. I moved to Armidale from Melbourne to undertake a PhD in 2010 in the inter-disciplinary field of peace and conflict studies. My PhD was focused on the [socio-cultural impacts of the democratisation of Timor-Leste](https://osf.io/fmsnh/). 
+Hi! I am the eResearch Analyst employed by Intersect Australia, based at the University of New England, Armidale, NSW. I have been in this role for two years and based at UNE for nine years. I moved to Armidale from Melbourne to undertake a PhD in 2010 in the inter-disciplinary field of peace and conflict studies. My PhD focused on the [socio-cultural impacts of democratisation in Timor-Leste](https://osf.io/fmsnh/). 
 
 [Read more here...](/resume/about)
 
