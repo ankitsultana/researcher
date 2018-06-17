@@ -14,7 +14,9 @@ Hi! I am the eResearch Analyst employed by Intersect Australia, based at the Uni
 ### eResearch Analyst, Intersect Australia
 *May 2016-ongoing*
 
-For Intersect Australia I am currently based at UNE, reporting to the Deputy Vice Chancellor - Research, Prof. Heiko Daniel. Whilst in the Research Services Directorate, the role demands working cooperatively with the University Library and the IT Directorate, as well as the faculties. Through these various relationships I have been an active member of a number of UNE's grant-funded research projects, strategic university-wide eResearch initiatives, and researcher training events. I have included a selection below:
+For Intersect Australia I am currently based at UNE, reporting to the Deputy Vice Chancellor - Research, Prof. Heiko Daniel. Whilst based in the Research Services Directorate, the role demands working collaboratively with the University Library and the IT Directorate, as well as the faculties. 
+
+Through these various relationships I have been an active member of a number of UNE's grant-funded research projects, strategic university-wide eResearch initiatives, and researcher training events. I have included a selection below:
 
 #### Strategic initiatives
 * Chairing the university's [eResearch Committee](http://www.une.edu.au/research/digital-research-support/eresearch-committee), a committee sponsored by the DVCR, since August 2016, established to advance the universities eResearch services. Since my time as chair, I have overseen the Committee's restructure and renewal; continuously reported to the University Research Committee and the DVCR; and led the investigation of various university eResearch capabilities.
