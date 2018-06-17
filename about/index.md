@@ -12,4 +12,8 @@ My academic research training is in Sociology, Political Science and Internation
 
 Since taking on this role a couple of years ago, I have been learning computational methods and languages including R and SQL, and recently Python as well. I am particularly interested in the possibilities that advanced computational techniques and database solutions bring to the Arts and Humanities research areas by way of natural language processing and semantic analysis, and as such have began a Masters of Data Science. 
 
-You can find much of my projects on [GitHub](https://github.com/paddytobias)
+## Side projects
+* 2016, [Cleaning 2015 Census data for Timor-Leste](https://github.com/paddytobias/15census_timor_dataclean/settings)
+* 2018, [Identifying patterns in language in Peace and Conflict Studies literature](https://paddytobias.github.io/language-in-peacebuilding/)
+
+You can find many of my projects on [GitHub](https://github.com/paddytobias)

@@ -49,14 +49,10 @@ Through these various relationships I have been an active member of a number of 
 
 {% include skills.html %}
 
-## Side projects
-* 2016, [Cleaning 2015 Census data for Timor-Leste](https://github.com/paddytobias/15census_timor_dataclean/settings)
-* 2018, [Identifying patterns in language in Peace and Conflict Studies literature](https://paddytobias.github.io/language-in-peacebuilding/)
-
 ## Selected Publications
 
-1. Tobias, P. & N Reid, 2017, 'Improving the online profile of the Ngan’gi Language Collection', [eResearch Australasia](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/)
-2. Reeson, R & P Tobias, 2017, 'Working towards the “end-to-end”: Research Data Management Capability Development at UNE', [eResearch Australasia](https://conference.eresearch.edu.au/2017/09/working-towards-the-end-to-end-research-data-management-capability-development-at-une/)
+1. Tobias, P. & N Reid, 2017, 'Improving the online profile of the Ngan’gi Language Collection', [eResearch Australasia](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/), Brisbane
+2. Reeson, R & P Tobias, 2017, 'Working towards the “end-to-end”: Research Data Management Capability Development at UNE', [eResearch Australasia](https://conference.eresearch.edu.au/2017/09/working-towards-the-end-to-end-research-data-management-capability-development-at-une/), Brisbane
 
 #### Other academic publications
 1. Tobias, P. 2017, ‘Truth and Reconciliation in Timor-Leste: Some reflections ten years on’, in Reconciliation in conflict affected communities: Experiences and insights from the Asia-Pacific, Springer.
