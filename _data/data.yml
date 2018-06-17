@@ -16,5 +16,8 @@ skills:
         - skill:
           name: Bash, grep, sed
           level: "width:250px;"
+        - skill:
+          name: Qualtrics
+          level: "width:330px;"
   
 

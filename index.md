@@ -39,16 +39,13 @@ Through these various relationships I have been an active member of a number of 
 
 
 ## Education
-**PhD**, University of New England, Armidale
-*Cum laude*
-2010-2015
+**PhD**, *Cum laude*. University of New England, 2010-2015
 
-**M.DataScience**, University of New England, Armidale
-2018-ongoing
 
-**B.IntRelations**, Deakin University, Burwood
-*Distinction*
-2007-2009
+**M.DataScience**. University of New England, 2018-ongoing
+
+
+**B.IntRelations**, *Distinction*. Deakin University, 2007-2009
 
 {% include skills.html %}
 
