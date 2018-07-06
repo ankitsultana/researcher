@@ -55,7 +55,7 @@ I am currently based at UNE in this role, reporting to the Deputy Vice Chancello
 ---
 ## Software projects
 1. Tobias, P. 2018. [eventbriteR](https://github.com/paddytobias/eventbriteR). A package for R that can call the Eventbrite API for event, order and user information. 
-2. Tobias, P. 2018. [Join data check for Muscat](https://github.com/IntersectAustralia/muscat-join-script). A Python program to ensure linking data exists between authority tables.
+2. Tobias, P. 2018. [Join data check for Muscat](https://github.com/IntersectAustralia/muscat-join-script). A Python program to ensure linking data exists between authority tables in Muscat.
 
 ## Selected Publications
 
