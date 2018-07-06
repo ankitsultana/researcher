@@ -53,6 +53,10 @@ I am currently based at UNE in this role, reporting to the Deputy Vice Chancello
 {% include skills.html %}
 
 ---
+## Software projects
+1. Tobias, P. 2018. [eventbriteR](https://github.com/paddytobias/eventbriteR). A package for R that can call the Eventbrite API for event, order and user information. 
+2. Tobias, P. 2018. [Join data check for Muscat](https://github.com/IntersectAustralia/muscat-join-script). A Python program to ensure linking data exists between authority tables.
+
 ## Selected Publications
 
 1. Tobias, P. & N Reid, 2017, 'Improving the online profile of the Ngan’gi Language Collection', [eResearch Australasia](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/), Brisbane
