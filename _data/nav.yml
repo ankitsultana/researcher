@@ -1,8 +1,8 @@
 - name: "Contact"
   link: "contact"
 
-- name: "Resume"
-  link: "resume.pdf"
+- name: "Notes"
+  link: "notes"
 
 - name: "About"
   link: "/"
