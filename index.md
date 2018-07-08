@@ -39,6 +39,28 @@ Here is a blockquote
 
 > To a great mind, nothing is little
 
+Here is some `inline code`
+
+Here is a code block
+
+```python
+import pandas as pd
+import numpy as np
+
+def silly_function(x):
+    silly = True
+    return(silly)
+```
+
+Here is some inline $$\LaTeX$$
+
+Here is a $$\LaTeX$$ block:
+
+$$
+E = MC^2
+$$
+
+
 ## References
 
 * Foo Bar: Head of Department, Placeholder Names, Lorem

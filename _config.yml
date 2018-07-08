@@ -1,14 +1,20 @@
 title: Researcher
-url: "https://ankitsultana.com"
-baseurl: "/researcher"
+url: "https://adamgil.es"
+baseurl: ""
 
 markdown: kramdown
+highlighter: rouge
+
+kramdown:
+    input: GFM
+    auto_ids: true
+    syntax_highlighter: rouge
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/bk2dcradle"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/giqles/giqles.github.io"
+footer_text: "Forked from a design by Ankit Sultana"
 
 sass:
     style: compressed
