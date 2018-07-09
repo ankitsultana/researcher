@@ -10,7 +10,7 @@ kramdown:
     auto_ids: true
     syntax_highlighter: rouge
 
-tracking_id: #
+tracking_id: UA-122038209-1
 
 footer: yes
 footer_url: "https://github.com/giqles/giqles.github.io"
