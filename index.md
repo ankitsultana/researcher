@@ -8,11 +8,18 @@ layout: default
 
 I'm an economist based in London working for the UK Financial Conduct Authority.
 
+I'm interested in embedding good research practice
+in quantitative economics work. That includes designing
+strong empirical frameworks, using modern statistical methods, 
+and following good working practices for data and code.
+
 ## Research Interests
 
-My work focuses on using rich microdata to understand consumer behaviour and policy impacts.
+My work focuses on using rich microdata to understand consumer behaviour and 
+policy impacts in financial markets.
 
-In particular, I'm interested in applying methods and ideas from machine learning to econometrics.
+In particular, I'm interested in applying methods and ideas from machine 
+learning to econometrics.
 
 ## Education
 
