@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+[paddytobias@me.com](mailto:paddytobias@me.com)
+
+[+61 403 328 864](tel:+61-403328864)
 
 ## About Me
 
@@ -10,7 +13,7 @@ Hi! I am the eResearch Analyst employed by Intersect Australia, based at the Uni
 
 [Read more here...](/resume/about)
 
-## Experience
+## Current position
 ### eResearch Analyst, Intersect Australia
 *May 2016-ongoing*
 
@@ -26,16 +29,20 @@ I am currently based at UNE in this role, reporting to the Deputy Vice Chancello
 * In 2016-17, I initiated and lead the [Ngan'gi Language Collection Enhancement](https://projects.ands.org.au/id/CEP13) project for A/Prof. Nick Reid, funded by the Australian National Data Service. This including scoping realistic web-based solutions for A/Prof Reid's requirements; managing the execution of the project from start to finish; and coordinating user acceptance testing, content migration and training. A/Prof Reid and I [presented the project](https://conference.eresearch.edu.au/2017/08/improving-the-online-profile-of-the-ngangi-language-collection/) at the 2017 eResearch Australasia conference.
 
 #### Education & Training
-* I currently coordinate Intersect's training program at UNE, delivering many of the programming and data science courses myself with the help of two on-campus trainers. Over the past two years I have worked to improve researcher guidance on course scheduling and systematised the notification of courses to participants once they have been booked. Earlier this year I also completed the Software Carpentry accreditation. I am currently developing new courseware for [teaching the survey tool, Qualtrics](https://github.com/IntersectAustralia/surveys-with-qualtrics), with input from the Sydney-based Qualtrics office, and [research software management](https://github.com/paddytobias/research-software-management). 
-* I regularly present to researchers and staff on eResearch capabilities, including data and software management techniques, and help researchers in their scripting tasks. 
-* I currently sit on the organising committee for [Sydney ResBaz (3-5 July)](https://resbaz.github.io/resbaz2018/sydney/), primarily to oversee an increase in the representation from regional NSW universities at this year's event. I will also be lead instructor of the [*Introductory R* stream](https://paddytobias.github.io/2018-07-03-resbaz-syd-intro-r/) at this year's event. 
+* I currently coordinate Intersect's training program at UNE, delivering many of the programming, data science and data management courses myself with the help of two on-campus trainers. I manage two on-campus trainers and between the three of us, we deliver the only research training program at UNE. 
+* Over the past two years I have worked to improve the experience of participants inside and outside of the courses, through building up a network of interested researchers and systematically notifying them when courses become available. I have found that this has created a community atmosphere to the training, which has facilitated peer-to-peer learning. 
+* Earlier this year I also completed the [Software Carpentry](https://software-carpentry.org/) accreditation. I am currently developing new courseware for [teaching the survey tool, Qualtrics](https://github.com/IntersectAustralia/surveys-with-qualtrics), with input from the Sydney-based Qualtrics office, as well as [research software management](https://github.com/paddytobias/research-software-management). 
+* I regularly present to researchers and staff on data and software management techniques, eResearch capabilities, and help researchers in their projects through consultation and advice. 
+* I currently sit on the organising committee for [Sydney ResBaz (3-5 July, 2018)](https://resbaz.github.io/resbaz2018/sydney/). The event was held at Macquarie University and was a huge success. I was lead instructor for the [*Introductory R* stream](https://paddytobias.github.io/2018-07-03-resbaz-syd-intro-r/), coordinating three other trainers as well. 
 
 ## Other experience
 * Corporate Communications Officer (2015-2016), *UNE*
-* Casual academic lecturer and tutor (2015), *UNE*
+In this position I reported to the Office of the Vice Chancellor and spearheaded the Research Communications Strategy for the university. 
+* Casual academic lecturer and tutor (2011-2015), *UNE*
+I have held various short-term academic contracts in Sociology, Political Science and International Relations, Peace anf Conflict Studies and Education. 
 * Research Fellow (2014), *Queen's University* (Belfast)
 * Lead consultant (2013), Women’s Empowerment and Access to Justice project in Timor-Leste for *Search for Common Ground* (Washington)
-* Casual academic lecturer and tutor (2011-13), *UNE*
+
 
 ---
 
@@ -47,6 +54,9 @@ I am currently based at UNE in this role, reporting to the Deputy Vice Chancello
 
 
 **B.IntRelations**, *Distinction*. Deakin University, 2007-2009
+
+### Other qualifications
+**[Software Carpentry instructor](https://software-carpentry.org/) accreditation**, 2018
 
 ---
 
@@ -68,3 +78,20 @@ I am currently based at UNE in this role, reporting to the Deputy Vice Chancello
 3. Tobias, P. 2014, ‘Modernisation in Timor Leste: The “Community” at Stake’, in The Love of Education: Learning to Live Together, Bangkok: UNESCO, Asia-Pacific Programme of Educational Innovation for Development.
 4. Tobias, P 2014, ‘Keeping Community: Traditional Culture and Implications for Maintaining Peace in Post-Conflict Society in Aileu, Timor Leste,’ in H Ware, B Jenkins, M Branagan & D Subedi (eds), Cultivating Peace: Contexts, Practices and Multidimensional Models, Cambridge Scholar Publishing, Newcastle upon Tyne.
 5. Tobias, P, 2012, ‘Maintaining a Civic Nation: social cohesion in Timor Leste’, M Leach, NC Mendes, AB. da Silva, B Boughton & A da Costa Ximenes (eds.), New Research in Timor Leste, Melbourne: Swinburne Press. 
+
+
+## References
+Prof Heiko Daniel
+Deputy Vice Chancellor - Research
+University of New England
+[dvcr@une.edu.au](mailto:dvcr@une.edu.au) | [+612 6773 2080](tel:+61-267732080)
+
+Dr Jonathan Arthur
+National Services Manager
+Intersect Australia
+[jonathan@intersect.org.au](mailto:jonathan@intersect.org.au) | [+614 309 690 502](tel:+61-4309690502)
+
+Dr Eliza Kent
+Deputy Director, Graduate Studies
+University of New England
+[ekent@une.edu.au](mailto:ekent@une.edu.au) | [[+612 6773 3715](tel:+61-267733715)
