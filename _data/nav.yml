@@ -1,8 +1,11 @@
 - name: "Contact"
-  link: "contact"
+  link: "contact/"
 
 - name: "Resume"
   link: "resume.pdf"
 
 - name: "About"
-  link: "/researcher/"
+  link: "about/"
+
+- name: "GitHub"
+  link: "https://github.com/paddytobias"

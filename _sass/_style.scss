@@ -71,6 +71,27 @@ hr {
 .wrapper {
     min-height: 100%;
 }
+.skillset {
+    .item {
+        margin-bottom: 15px;
+        overflow: hidden;
+    }
+    .level-title {
+        font-size: 14px;
+        margin-top: 0;
+        margin-bottom: 12px;
+    }
+    .level-bar {
+        height: 16px;
+        width: 700px;
+        background: #f5f5f5;
+    }
+    .level-bar-inner {
+        height: 16px;
+        background: lighten(#2293ad, 15%);
+    }
+}
+
 
 /* Mobile */
 
@@ -95,6 +116,7 @@ hr {
         display: inline-block;
     }
 }
+
 
 @import "typography";
 @import "tables";
