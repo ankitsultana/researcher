@@ -3,4 +3,4 @@ _site
 .sass-cache/
 .DS_Store
 .ruby-version
-.gem
+*.gem
