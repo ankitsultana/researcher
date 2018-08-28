@@ -8,7 +8,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{A Jekyll Theme ideal for resumes}
   spec.homepage      = "https://ankitsultana.com/researcher"
-  spec.license       = "MIT"
+  spec.license       = "GPL-3.0-only"
 
   spec.files         = `git ls-files -z`.split("\x0").select { |f| f.match(%r{^(_layouts|_includes|_sass|LICENSE|README)/i}) }
 
