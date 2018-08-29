@@ -16,7 +16,17 @@ Simply fork the repository and edit away.
 
 * To set the heading, edit the `title` variable in `_config.yml`
 
-* To edit the `links` mentioned on the navigation bar, edit the file `_data/nav.yml`
+* To edit the `links` mentioned on the navigation bar, you can edit `_config.yml`. For example:
+
+```
+nav:
+ - name: "Contact"
+   link: "contact"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "About"
+   link: "/researcher/"
+```
 
 * You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
 
