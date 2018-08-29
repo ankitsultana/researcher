@@ -10,6 +10,8 @@ footer: yes
 footer_url: "https://github.com/ankitsultana"
 footer_text: "Page design by Ankit Sultana"
 
+# remote_theme: ankitsultana/researcher@gh-pages
+
 sass:
     style: compressed
     sass_dir: _sass
