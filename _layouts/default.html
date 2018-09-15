@@ -57,14 +57,14 @@
     <div class="wrapper">
         <div class="navbar container">
             <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}">{{ site.title }}</a>
-            <ul class="alignable pull-right navbar-ul">
+            <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
-                        <li class="alignable pull-right nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-left nav-list"><a target="_blank" href="{{ x.link }}">{{ x.name }}</a>
                     {% else %}
-                        <li class="alignable pull-right nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
+                        <li class="alignable pull-left nav-list"><a href="{{ x.link }}">{{ x.name }}</a>
                     {% endif %}
-                    {% if forloop.first == false %}
+                    {% if forloop.last == false %}
                         /
                     {% endif %}
                         </li>
