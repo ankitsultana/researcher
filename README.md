@@ -20,12 +20,12 @@ Simply fork the repository and edit away.
 
 ```
 nav:
- - name: "Contact"
-   link: "contact"
- - name: "Resume"
-   link: "resume.pdf"
  - name: "About"
    link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
 ```
 
 * You can change the accent (color of hyperlinks) by editing the `accent` variable in `_sass/vars.scss`
