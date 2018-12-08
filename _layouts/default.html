@@ -56,6 +56,9 @@
 <body>
     <div class="wrapper">
         <div class="navbar container">
+            {% if site.ins_logo %}
+                <img id="ins-logo" src="{{ site.ins_logo }}" />
+            {% endif %}
             <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}">{{ site.title }}</a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
@@ -79,12 +82,12 @@
             <div class="container content">
         {% endif %}
                 {{ content }}
-				{% if site.footer == true %}
-					<hr />
-					<p style="text-align: center; margin-bottom: 10px">
-					<a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
-					</p>
-				{% endif %}
+                {% if site.footer == true %}
+                    <hr />
+                    <p style="text-align: center; margin-bottom: 10px">
+                    <a href="{{ site.footer_url }}" style="color: black"><small>{{ site.footer_text }}</small></a>
+                    </p>
+                {% endif %}
             </div>
     </div>
     {% if site.tracking_id %}
