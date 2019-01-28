@@ -4,42 +4,20 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="gokul.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I am an apprentice at [SEFCOM](http://sefcom.asu.edu/), [Arizona State University](https://www.asu.edu/). My research interests focus on software security, including automated binary analysis and Web Security. I completed my Undergrad from [Amrita University](https://www.amrita.edu/), India.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+I play CTF's with [Shellphish](http://shellphish.com/) and [Team bi0s](https://bi0s.in/). You can find the write-ups that I occasionally write [here](blog.com)
 
-## Research Interest
+## Research Experience
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+1. Research Assistant at [SEFCOM](http://sefcom.asu.edu/), Arizona State University.
 
-## Publications
+## Academic Experience
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Teaching Assistant for [CSE-591](https://www.tiffanybao.com/courses/cse591/) course at Arizona State University.
 
-## Typography
+## Education
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
----
-
-Here is a blockquote
-
-> To a great mind, nothing is little
-
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+1. B. Tech in Computer Science, [Amrita University](https://www.amrita.edu/)

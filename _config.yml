@@ -1,15 +1,15 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Gokul
+url: "https://zer0xlab.com"
 baseurl: "/researcher"
 
 markdown: kramdown
-#ins_logo: "./bits-logo.png"
+#ins_logo: "./asu.jpg"
 
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/gokulkrishna01"
+footer_text: "Hosted on GitHub"
 
 sass:
     style: compressed
@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "Blog"
+   link: "blog"
  - name: "Contact"
    link: "contact"
