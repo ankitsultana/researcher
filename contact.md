@@ -5,7 +5,7 @@ is_contact: true
 
 * Email: [heupchurch@gmail.com](mailto:heupchurch@gmail.com)
 
-* Ricochet:
+* ricochet:vmcp7jt6qigjcuxp
 
 ## Social
 
