@@ -1,6 +1,6 @@
 title: H. E. Upchurch
 url: "https://heupchurch.github.io"
-baseurl: "/home"
+baseurl: "https://heupchurch.github.io"
 icon: "opsecface.jpg"
 
 markdown: kramdown
