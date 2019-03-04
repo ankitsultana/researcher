@@ -9,9 +9,6 @@ is_contact: true
 
 ## Social
 
-    - icon: fa-twitter
-      link: "https://twitter.com/heupchurch"
-    - icon: fa-medium
-      link: "https://medium.com/@h.e.upchurch"
-    - icon: fa-github
-      link: "https://github.com/heupchurch"
+[Twitter](https://twitter.com/heupchurch)
+[Medium](https://medium.com/@h.e.upchurch)
+[GitHub](https://github.com/heupchurch)

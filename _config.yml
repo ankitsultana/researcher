@@ -2,12 +2,6 @@ title: H. E. Upchurch
 url: "https://heupchurch.github.io"
 #baseurl:
 
-gems:
-  - jekyll-font-awesome-sass
-
-font-awesome:
-  assets: true
-
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
