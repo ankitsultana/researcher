@@ -1,6 +1,7 @@
 title: H. E. Upchurch
 url: "https://heupchurch.github.io"
 #baseurl:
+icon: "opsecface.jpg"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
