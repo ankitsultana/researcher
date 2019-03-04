@@ -9,6 +9,6 @@ is_contact: true
 
 ## Social
 
-[Twitter](https://twitter.com/heupchurch)
-[Medium](https://medium.com/@h.e.upchurch)
-[GitHub](https://github.com/heupchurch)
+1. [Twitter](https://twitter.com/heupchurch)
+2. [Medium](https://medium.com/@h.e.upchurch)
+3. [GitHub](https://github.com/heupchurch)
