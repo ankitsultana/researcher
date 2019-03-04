@@ -3,8 +3,7 @@ layout: default
 is_contact: true
 ---
 
-* Email: [heupchurch@gmail.com](mailto:heupchurch@gmail.com)
-
+* [heupchurch@gmail.com](mailto:heupchurch@gmail.com)
 * ricochet:vmcp7jt6qigjcuxp
 
 ## Social
