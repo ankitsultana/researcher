@@ -3,24 +3,15 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [heupchurch@gmail.com](mailto:heupchurch@gmail.com)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
-
----
+* Ricochet:
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+    - icon: fa-twitter
+      link: "https://twitter.com/heupchurch"
+    - icon: fa-medium
+      link: "https://medium.com/@h.e.upchurch"
+    - icon: fa-github
+      link: "https://github.com/heupchurch"
