@@ -8,7 +8,7 @@ First year AU-SIS GGPS.  I think about social media manipulation, the democratiz
 
 ## OSINT
 
-### Geolocation
+### Projects
 [Geolocating Russian Anti-Ship Missiles in Occupied Crimea](https://medium.com/@h.e.upchurch/geolocating-russian-anti-ship-missiles-in-occupied-crimea-d49baa0bb73e)
 
 ### Tools
