@@ -1,3 +1,6 @@
+$fa-font-path: "fonts/font-awesome/";
+@import 'font-awesome';
+
 @import "vars";
 
 /*
@@ -129,7 +132,3 @@ hr {
 
 @import "typography";
 @import "tables";
-
-/* Font Awesome */
-$fa-font-path: "fonts/font-awesome/";
-@import 'font-awesome';
