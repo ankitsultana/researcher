@@ -1,5 +1,5 @@
 title: Archit Rungta
-url: "https://ankitsultana.com"
+url: "https://archit.me"
 baseurl: ""
 
 markdown: kramdown
@@ -8,8 +8,8 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_url: "https://github.com/ankitsultana"
-footer_text: "Page design by Ankit Sultana"
+footer_url: "https://github.com/archit120"
+footer_text: "With love"
 
 sass:
     style: compressed
