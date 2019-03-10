@@ -30,7 +30,7 @@ Hit me up if you've got a cool idea regarding any of those and wish to collabora
 
 * Wrote a 3D perspetive projector from scratch using C++ and Windows API as highschool senior year CS project. 
 
-* Developed some of the most popular mods for Call of Duty : Modern Warfare 3 back in 8th grade. Including (External RCON)[https://www.itsmods.com/forum/Thread-Release-BigBrotherBot-External-Rcon-0-5-Chat-viewer-0-2-beta.html] and (MapEdit)[https://www.itsmods.com/forum/Thread-Release-MapEdit-for-MW3-1-4.html].
+* Developed some of the most popular mods for Call of Duty : Modern Warfare 3 back in 8th grade. Including [External RCON](https://www.itsmods.com/forum/Thread-Release-BigBrotherBot-External-Rcon-0-5-Chat-viewer-0-2-beta.html) and [MapEdit](https://www.itsmods.com/forum/Thread-Release-MapEdit-for-MW3-1-4.html).
 
 * Attended the Indian Informatics Olympiad Training Camp in 2017 and 2018. First participant from my state ever and the youngest one at 'TC 2017. 
 
