@@ -1,6 +1,6 @@
-title: Researcher
+title: Archit Rungta
 url: "https://ankitsultana.com"
-baseurl: "/researcher"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "index"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
