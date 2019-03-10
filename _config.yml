@@ -18,12 +18,12 @@ sass:
 
 nav:
  - name: "About"
-   link: "index"
+   link: "/index"
  - name: "Resume"
-   link: "resume.pdf"
+   link: "/resume.pdf"
  - name: "Contact"
    link: "contact"
  - name: "Blog"
-   link: "blog"
+   link: "b/log"
 
 theme: jekyll-theme-minimal
