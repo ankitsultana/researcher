@@ -16,9 +16,11 @@ Hit me up if you've got a cool idea regarding any of those and wish to collabora
 
 * Getting a quadcopter to fly using NEAT networks. NEAT is a special kind of genetic algorithm which evolves neural networks with extremely unconventional designs and find the optimal weights at the same time. At ARL, I'm currently trying to get quadcopters to hold position and change heights with unprecedented stability using reinforcement learning.
 
-* Figuring out the gender of Hindi words using Convolutional Neural Networks! This is being done in collaboration with Samriddhi Sinha. An online demo of the network is [here](sangita-demo.html). Coded in Python using Keras and TensorFlow. A publication is expected soon.
+* Figuring out the gender of Hindi words using Convolutional Neural Networks! This is being done in collaboration with [Samriddhi Sinha](https://www.linkedin.com/in/samriddhisinha/). An online demo of the network is [here](sangita-demo.html). Coded in Python using Keras and TensorFlow. A publication is expected soon.
 
 * Trying to measure the convergence of a chaotic sequence. The intended goal is to find suitable learning rates for gradient descent automatically and create a new class of optimizers. Based on Kullback–Leibler divergence and Logistic Distribution. 
+
+* You can find me on codeforces as [architrungta120](https://codeforces.com/profile/architrungta120). I've recently started dipping my toes in competetive programming again.
 
 ## Past
 
@@ -28,7 +30,7 @@ Hit me up if you've got a cool idea regarding any of those and wish to collabora
 
 * Wrote a 3D perspetive projector from scratch using C++ and Windows API as highschool senior year CS project. 
 
-* Developerd some of the most popular mods for Call of Duty : Modern Warfare 3 back in 8th grade. Including (External RCON)[https://www.itsmods.com/forum/Thread-Release-BigBrotherBot-External-Rcon-0-5-Chat-viewer-0-2-beta.html] and MapEdit[https://www.itsmods.com/forum/Thread-Release-MapEdit-for-MW3-1-4.html].
+* Developed some of the most popular mods for Call of Duty : Modern Warfare 3 back in 8th grade. Including (External RCON)[https://www.itsmods.com/forum/Thread-Release-BigBrotherBot-External-Rcon-0-5-Chat-viewer-0-2-beta.html] and (MapEdit)[https://www.itsmods.com/forum/Thread-Release-MapEdit-for-MW3-1-4.html].
 
 * Attended the Indian Informatics Olympiad Training Camp in 2017 and 2018. First participant from my state ever and the youngest one at 'TC 2017. 
 
@@ -38,7 +40,9 @@ Hit me up if you've got a cool idea regarding any of those and wish to collabora
 
 * Graduate?
 
-* ....
+* More research?
+
+* ...
 
 ## Random
 
