@@ -58,6 +58,7 @@ Hit me up if you've got a cool idea regarding any of those and wish to collabora
 
 Hopefully coming soon!
 
+<img src="https://imgs.xkcd.com/comics/machine_learning_2x.png">
 
 
 
