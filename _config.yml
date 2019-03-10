@@ -1,7 +1,8 @@
 title: Archit Rungta
 url: "https://archit.me"
 baseurl: ""
-
+author: Archit Rungta
+description: "Archit Rungta's portfolio webpage"
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
 
