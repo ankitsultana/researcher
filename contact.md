@@ -3,24 +3,23 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [archit120@iitkgp.ac.in](mailto:archit120@iitkgp.ac.in)
 
-* Phone: [+91-123123](tel:+91-123123)
+* Phone: [+91-8084207992](tel:+91-8084207992)
 
 ---
 
 ## Mailing Address
 
-> 221B, Baker Street
+> D 208, LBS
 >
-> London
+> IIT KGP, Kharagpur
 >
-> United Kingdom
+> India
 
 ---
 
 ## Social
 
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
+1. [Facebook](https://www.facebook.com/archit.rungta3)
+2. [LinkedIn](https://www.linkedin.com/in/archit-r-6675a288/)
