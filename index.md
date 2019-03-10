@@ -2,13 +2,13 @@
 layout: default
 ---
 
+> "An unexamined life is not worth living" - Plato
+
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="archit.png">
 
-Hi! I am Archit a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+Hi! I am Archit, a freshman at Indian Institute of Technology, Kharagpur completing a BS+MS in Mathematics and Computing. 
 
 ## Research Interest
 
