@@ -23,5 +23,7 @@ nav:
    link: "resume.pdf"
  - name: "Contact"
    link: "contact"
+ - name: "Blog"
+   link: "blog"
 
 theme: jekyll-theme-minimal

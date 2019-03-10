@@ -6,7 +6,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="archit.png">
+<img class="profile-picture" src="archit.jpg">
 
 Hi! I am Archit, a freshman at Indian Institute of Technology, Kharagpur currently completing a BS+MS in Mathematics and Computing. I've had stints with competetive programming and software development.  Currently, I'm a software team member at Aerial Robotics Lab, Kharagpur and an independent researcher into NLP, Reinforcement Learning and Image Processing.
 
@@ -24,7 +24,7 @@ Hit me up if you've got a cool idea regarding any of those and wish to collabora
 
 ## Past
 
-* Made a glove that uses IMU sensor to map the entire hand with all its motions. As a sample use, created neural networks to learn sign language symbols and interpret. The p roject was coded in C++ and Python.  [Video demonstration](https://youtu.be/Rl1C584UrW0).
+* Made a glove that uses IMU sensor to map the entire hand with all its motions. As a sample use, created neural networks to learn sign language symbols and interpret. The project was coded in C++ and Python.  [Video demonstration](https://youtu.be/Rl1C584UrW0).
 
 * Had a stint with PoW cryptocurrency miners. Wrote the first [GPU miner for Keccak PoW](https://bitcointalk.org/index.php?topic=453573.0). Collaborated with [Dr. Dave Anderson](https://www.cs.cmu.edu/~dga/) from CMU to port his Linux CUDA miner for Momentum to Windows. Also wrote one of the first two Monero mining pools. 
 
