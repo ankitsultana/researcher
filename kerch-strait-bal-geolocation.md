@@ -26,12 +26,12 @@ A third video, containing the footage from the first two clips cut together, was
 
 The best clue was the mural on the retaining wall behind the parked transporter-launchers. On the leftmost edge of the mural, there is a St. George ribbon emerging from behind a red shape:
 
-[33.654451 44.606703](../assets/images/kerch-strait-bal-geolocation/balmural.png)
+![33.654451 44.606703](../assets/images/kerch-strait-bal-geolocation/balmural.png)
 
 The same mural, commemorating Sevastopol’s 225th anniversary, appears on Yandex Street View imagery on Highway P27 at 33.654451 44.606703.
 
-[Yandex SV](../assets/images/kerch-strait-bal-geolocation/yandexbalmural.png)
+![Yandex SV](../assets/images/kerch-strait-bal-geolocation/yandexbalmural.png)
 
 The rest of the footage takes place along a single stretch of road beginning at a cut in the hillside.
 
-[The signage has changed since 2010 but the curb, wall, and hillside match](../assets/images/kerch-strait-bal-geolocation/yandexhill1.png) [33.654451 44.606703](../assets/images/kerch-strait-bal-geolocation/ruptlyhill1.png)
+![The signage has changed since 2010 but the curb, wall, and hillside match](../assets/images/kerch-strait-bal-geolocation/yandexhill1.png) ![33.654451 44.606703](../assets/images/kerch-strait-bal-geolocation/ruptlyhill1.png)
