@@ -1,5 +1,7 @@
 ---
 layout: default
+title: Identity Evropa's Radicalization and Recruitment Tactics
+description: Chat transcripts linked by Unicorn Riot reveal that Identity Evropa had a coordinated plan to join College Republicans clubs and turn them to white nationalism.
 ---
 # Identity Evropa's Radicalization and Recruitment Tactics | 14 March 2019
 
