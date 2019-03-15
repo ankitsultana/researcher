@@ -47,6 +47,7 @@ The Pastebins link to Vespa's account of his dispute with the administration.  I
   * IE's leadership believes that they are adequately vetting members.
   * Some members are confident enough in IE vetting to use their real names as their server handles.
   * IE is invested in shielding its members from the social consequences of their actions.
+
 We don't know how Unicorn Riot got the transcripts, but it seems more likely that it was through weaknesses in IE's vetting process than through an intrusion.
 
 A search for "Michael Vespa Raritan Valley Community College" will not bring up any further details of the incident, but it does reveal [an article in the college paper about Vespa's SGA campaign](http://www.rvcctherecord.com/2017/03/21/sga-election-results/) and [another about the College Republicans club he founded](http://www.rvcctherecord.com/2018/02/19/the-young-republicans-club-rvccs-first-political-club/).
