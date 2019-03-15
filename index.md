@@ -13,7 +13,7 @@ First year AU-SIS GGPS.  I think about social media manipulation, the democratiz
 [Identity Europa's Recruitment and Radicalization](https://heupchurch.github.io/ie-entryism)
 
 ### Tools
-[Instaspy](https://github.com/heupchurch/instaspy)
+[Instaspy](https://github.com/heupchurch/instaspy-quick)
 
 ## Writing
 
