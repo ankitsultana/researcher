@@ -18,11 +18,11 @@ This footage was subsequently [uploaded to RT’s Youtube channel](https://www.y
 
 A second video appeared on YouTube at 15:38 UTC by 15 минут, an account operated by Ukrainian broadcaster ATR, but, from the watermark, the video source was an RT broadcast.
 
-{% include youtubePlayer.html id=V8ksHa34AGw %}
+<iframe width="935" height="526" src="https://www.youtube.com/embed/V8ksHa34AGw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 A third video, containing the footage from the first two clips cut together, was uploaded to RT’s Youtube channel at 16:10 UTC.
 
-{% include youtubePlayer.html id=bGjGUOO8X4o %}
+<iframe width="935" height="526" src="https://www.youtube.com/embed/bGjGUOO8X4o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The best clue was the mural on the retaining wall behind the parked transporter-launchers. On the leftmost edge of the mural, there is a St. George ribbon emerging from behind a red shape:
 
@@ -57,4 +57,4 @@ So far no evidence has emerged to conclusively verify that the footage was shot 
 
 Recut into its proper order, the footage looks like this:
 
-{% include youtubePlayer.html id=hRD8v4YAVTI %}
+<iframe width="935" height="526" src="https://www.youtube.com/embed/hRD8v4YAVTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
