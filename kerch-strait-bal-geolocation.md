@@ -37,8 +37,6 @@ The rest of the footage takes place along a single stretch of road beginning at 
 :-------------------------:|:-------------------------:
 ![](../assets/images/kerch-strait-bal-geolocation/yandexhill1.png)|![](../assets/images/kerch-strait-bal-geolocation/ruptlyhill1.png)
 The signage has changed since 2010 but the curb, wall, and hillside match.|(33.654451, 44.606703)
-
-:-------------------------:|:-------------------------:
 ![](../assets/images/kerch-strait-bal-geolocation/yandexhill2.png)|![](../assets/images/kerch-strait-bal-geolocation/ruptlyhill2.png)
 The truck unfortunately obscures the end of the wall, but the signage matches.|(35.032128, 45.009658)
 
