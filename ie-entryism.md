@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-# Identity Evropa's Radicalization and Recruitment Tactics | 7 March 2019
+# Identity Evropa's Radicalization and Recruitment Tactics | 14 March 2019
 
 _No bloody thanks at all to Medium._
 
