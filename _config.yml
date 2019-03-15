@@ -5,7 +5,7 @@ baseurl: "https://heupchurch.github.io"
 icon: "opsecface.jpg"
 
 twitter_image: "https://heupchurch.github.io/assets/images/opsecface.jpg"
-twitter_username: @heupchurch
+twitter_username: heupchurch
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
