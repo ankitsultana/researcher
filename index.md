@@ -10,7 +10,7 @@ First year AU-SIS GGPS.  I think about social media manipulation, the democratiz
 
 ### Projects
 [Geolocating Russian Anti-Ship Missiles in Occupied Crimea](https://heupchurch.github.io/kerch-strait-bal-geolocation)  
-[Identity Europa's Recruitment and Radicalization](https://heupchurch.github.io/ie-entryism)
+[Identity Europa's Radicalization and Recruitment Tactics](https://heupchurch.github.io/ie-entryism)
 
 ### Tools
 [Instaspy](https://github.com/heupchurch/instaspy-quick)
