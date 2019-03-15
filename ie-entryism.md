@@ -1,6 +1,3 @@
----
-layout: default
----
 ##Identity Evropa's Radicalization and Recruitment Tactics
 
 _No bloody thanks at all to Medium._
