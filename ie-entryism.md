@@ -3,15 +3,13 @@ layout: default
 title: Identity Evropa's Radicalization and Recruitment Tactics
 description: Chat transcripts linked by Unicorn Riot reveal that Identity Evropa had a coordinated plan to join College Republicans clubs and turn them to white nationalism.
 ---
-# Identity Evropa's Radicalization and Recruitment Tactics | 14 March 2019
+# Identity Evropa's Social Media Coordinator & His Entryist Tactics| 14 March 2019
 
 _No bloody thanks at all to Medium._
 
 When the [Identity Evropa Discord leaks](https://discordleaks.unicornriot.ninja/discord/server/34) dropped at Unicorn Riot last week, I went straight for [the social media coordinator](https://discordleaks.unicornriot.ninja/discord/view/1364518?q=#msg), expecting him to suffer, as do most social media coordinators, from the Awlaki Dilemma, and I was not disappointed.
 
 Identity Evropa's social media coordinator "Brunswick" is one Michael Vespa, formerly of Raritan Valley Community College, now at Rutgers.  He is a member of the Rutgers College Republicans.  The leaked transcripts reveal that IE had a coordinated plan to join College Republicans clubs to turn those organizations towards full-blown white nationalism.  It seems likely they will continue this project as the American Identity Movement.
-
-***
 
 Michael Vespa was identifiable because he was not adequately concerned with infiltrators in the server.  He reveals his real name himself, in [a discussion from 9 November 2017](https://discordleaks.unicornriot.ninja/discord/view/1396913?q=#msg) about a dispute he's having with the administration at the community college he attends (reformatted for clarity):
 
