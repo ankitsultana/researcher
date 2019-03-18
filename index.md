@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="./assets/images/opsecface.jpg">
 
-First year AU-SIS GGPS.  I think about social media manipulation, the democratization of SIGINT and GEOINT, and doxxing terrorists.
+First year AU-SIS GGPS.  I think about social media manipulation, the democratization of SIGINT and GEOINT, and disrupting assorted terrorists.
 
 ## OSINT
 
