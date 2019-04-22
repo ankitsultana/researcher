@@ -11,6 +11,8 @@ When the [Identity Evropa Discord leaks](https://discordleaks.unicornriot.ninja/
 
 Identity Evropa's social media coordinator "Brunswick" is one Michael Vespa, formerly of Raritan Valley Community College, now at Rutgers.  He is a member of the Rutgers College Republicans.  The leaked transcripts reveal that IE had a coordinated plan to join College Republicans clubs to turn those organizations towards full-blown white nationalism.  It seems likely they will continue this project as the American Identity Movement.
 
+##Identifying Evropa
+
 Michael Vespa was identifiable because he was not adequately concerned with infiltrators in the server.  He reveals his real name himself, in [a discussion from 9 November 2017](https://discordleaks.unicornriot.ninja/discord/view/1396913?q=#msg) about a dispute he's having with the administration at the community college he attends (reformatted for clarity):
 
 >Brunswick  
@@ -43,14 +45,11 @@ Michael Vespa was identifiable because he was not adequately concerned with infi
 >2017-11-09 23:04:35  
 >Yea  
 
-The Pastebins link to Vespa's account of his dispute with the administration.  I haven't attempted to verify it, since I am not interested in Vespa's personal life, merely in where and how his organization operates.  The exchange indicates, in no particular order, that:
-  * IE's leadership believes that they are adequately vetting members.
-  * Some members are confident enough in IE vetting to use their real names as their server handles.
-  * IE is invested in shielding its members from the social consequences of their actions.
-
-We don't know how Unicorn Riot got the transcripts, but it seems more likely that it was through weaknesses in IE's vetting process than through an intrusion.
+The Pastebins link to Vespa's account of his dispute with the administration.  I haven't attempted to verify it, since I am not interested in Vespa's personal life, merely in where and how his organization operates.
 
 A search for "Michael Vespa Raritan Valley Community College" will not bring up any further details of the incident, but it does reveal [an article in the college paper about Vespa's SGA campaign](http://www.rvcctherecord.com/2017/03/21/sga-election-results/) and [another about the College Republicans club he founded](http://www.rvcctherecord.com/2018/02/19/the-young-republicans-club-rvccs-first-political-club/).
+
+##How Do You Do Fellow Young Republicans
 
 Vespa founded the RVCC College Republicans as part of IE's effort to target College Republican organizations with their entryist tactics.  Vespa appears to be involved both as a local operative, and nationally in his capacity as social media coordinator.  A search for "College Republicans" in the transcripts turns up several conversations about this project, [including one reproduced below](https://discordleaks.unicornriot.ninja/discord/view/1393950?q=#msg), which describes an IE Discord server disguised as a forum for young Republicans.
 
@@ -107,3 +106,14 @@ Vespa has since [transferred to Rutgers](https://discordleaks.unicornriot.ninja/
 >We have a few guys at Rutgers already and i'll likely become an officer in the club next semester
 
 The extent of his activism with the College Republicans is unclear.  [An op-ed by a Michael Vespa](http://www.dailytargum.com/article/2019/03/solution-to-poverty-is-in-individual-acts) appears on the Daily Targum: it holds up charity and volunteerism as alternatives to state welfare, and makes no mention of race.  The Michael Vespa of the op-ed is a junior studying political science, which fits with Brunswick's transfer date and his major as listed in the RVCC graduation in 2018.  If the Michael Vespa of the op-ed is indeed Brunswick, the op-ed would appear to be another example of IE's Republican-focused entryist tactics.
+
+## Ain't No Threat Like An Insider Threat
+
+The sad tale of Mr Vespa also sheds light on IE's operational insecurity. We don't know how Unicorn Riot got the transcripts, but it seems more likely that it was through weaknesses in IE's vetting process than through an intrusion (on the internet, nobody knows you're an antifa). Their process remains opaque, but their mistakes are easy to see:
+
+  * IE's leadership has an inadequate procedure for vetting members.
+  * Members are nonetheless confident enough in IE vetting to either use their real names as their server handles or to mention them in group chat.
+
+Insider threat is hard to mitigate, but it can be managed.  Even if the leadership's vetting was poor, individual members might have avoided compromise by refraining from the use of real names and from sharing certain personally-identifiable data like profession or location.
+
+Those of us who oppose these jackwagons may profit from looking upon this as a cautionary tale.
