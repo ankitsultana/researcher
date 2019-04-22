@@ -11,7 +11,7 @@ When the [Identity Evropa Discord leaks](https://discordleaks.unicornriot.ninja/
 
 Identity Evropa's social media coordinator "Brunswick" is one Michael Vespa, formerly of Raritan Valley Community College, now at Rutgers.  He is a member of the Rutgers College Republicans.  The leaked transcripts reveal that IE had a coordinated plan to join College Republicans clubs to turn those organizations towards full-blown white nationalism.  It seems likely they will continue this project as the American Identity Movement.
 
-##Identifying Evropa
+## Identifying Evropa
 
 Michael Vespa was identifiable because he was not adequately concerned with infiltrators in the server.  He reveals his real name himself, in [a discussion from 9 November 2017](https://discordleaks.unicornriot.ninja/discord/view/1396913?q=#msg) about a dispute he's having with the administration at the community college he attends (reformatted for clarity):
 
@@ -49,7 +49,7 @@ The Pastebins link to Vespa's account of his dispute with the administration.  I
 
 A search for "Michael Vespa Raritan Valley Community College" will not bring up any further details of the incident, but it does reveal [an article in the college paper about Vespa's SGA campaign](http://www.rvcctherecord.com/2017/03/21/sga-election-results/) and [another about the College Republicans club he founded](http://www.rvcctherecord.com/2018/02/19/the-young-republicans-club-rvccs-first-political-club/).
 
-##How Do You Do Fellow Young Republicans
+## How Do You Do Fellow Young Republicans
 
 Vespa founded the RVCC College Republicans as part of IE's effort to target College Republican organizations with their entryist tactics.  Vespa appears to be involved both as a local operative, and nationally in his capacity as social media coordinator.  A search for "College Republicans" in the transcripts turns up several conversations about this project, [including one reproduced below](https://discordleaks.unicornriot.ninja/discord/view/1393950?q=#msg), which describes an IE Discord server disguised as a forum for young Republicans.
 
