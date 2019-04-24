@@ -17,5 +17,5 @@ First year AU-SIS GGPS.  I think about social media manipulation, the democratiz
 
 ## Writing
 
-[Government Shutdowns and Democratic Legitimacy](http://democratic-erosion.com/2019/02/12/government-shutdowns-and-democratic-legitimacy-by-h-upchurch-american-university/)  
-[Corruption and Constitutional Retrogression in Israel](http://democratic-erosion.com/2019/03/05/corruption-and-constitutional-retrogression-in-israel-by-h-upchurch/)
+[Government Shutdowns and Democratic Legitimacy](https://heupchurch.github.io/shutdowns-and-democracy)  
+[Corruption and Constitutional Retrogression in Israel](https://heupchurch.github.io/retrogression-israel)
