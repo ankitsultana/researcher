@@ -60,7 +60,7 @@ The ninth fascist is Justin Peek, AIM's Georgia coordinator and Director of Acti
 :-------------------------:|:-------------------------:
 ![](../assets/images/politics-and-prose-incident/videojustin.png)|![](../assets/images/politics-and-prose-incident/IDjustin.jpg)
 
-The tenth fascist's identity remains unconfirmed, but he might be [George Coiron](https://archive.is/yj1R7) with a new hairdo.
+The tenth fascist's identity remains unconfirmed, but he is almost certainly [George Coiron](https://archive.is/yj1R7) with a new hairdo.
 
 :-------------------------:|:-------------------------:
 ![](../assets/images/politics-and-prose-incident/fascistno10.png)|![I mean maybe?](../assets/images/politics-and-prose-incident/georgecoiron.png)
