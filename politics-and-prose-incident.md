@@ -11,6 +11,7 @@ On 27 April 2019, white nationalist thugs disrupted Johnathan Metzl's book talk 
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 The first clue to their identities was the AIM sticker on the bullhorn:
+
 :-------------------------:|:-------------------------:
 ![](../assets/images/politics-and-prose-incident/AIMsticker.png)|![From AIM Twitter](../assets/images/politics-and-prose-incident/AIMstickertwitter.jpg)
 
@@ -43,7 +44,7 @@ The fifth fascist is Jonathan Gould of Washington.  He is a member of the US Arm
 The sixth fascist is Jacalyn Thomas of Ohio. She has a charming habit of getting into fights at Richard Spencer events.  She appears with Peter Diezel in the photo taken at the University of Illinois, wearing the same coat.  Their exact relationship is unknown.  Further information at [Panic! In The Discord](https://panicinthediscord.noblogs.org/post/2019/03/11/nitrodubs-aka-jacalyn-grace-thomas-the-nitronazi/).
 
 :-------------------------:|:-------------------------:
-![](../assets/images/politics-and-prose-incident/videojacalyn.png)|![](../assets/images/politics-and-prose-incident/IDjacalyn.png)
+![](../assets/images/politics-and-prose-incident/videojacalyn.jpg)|![](../assets/images/politics-and-prose-incident/IDjacalyn.png)
 
 The seventh fascist is unidentified.
 
@@ -62,6 +63,6 @@ The ninth fascist is Justin Peek, AIM's Georgia coordinator and Director of Acti
 The tenth fascist's identity remains unconfirmed, but he might be [George Coiron](https://archive.is/yj1R7) with a new hairdo.
 
 :-------------------------:|:-------------------------:
-![](../assets/images/politics-and-prose-incident/fascistno10.png)|![I mean maybe?](../assets/images/politics-and-prose-incident/georgecoiron.jpg)
+![](../assets/images/politics-and-prose-incident/fascistno10.png)|![I mean maybe?](../assets/images/politics-and-prose-incident/georgecoiron.png)
 
 If you have any information about the unidentified thugs, please email me or send a Twitter DM and I will update this list.
