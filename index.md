@@ -18,6 +18,6 @@ First year AU-SIS GGPS.  I think about social media manipulation, the democratiz
 
 ## Writing
 
-[Enemies & Other Enemies: On Boosting Nazi Jurists to Own the Libs](https://heupchurch.github.io/enemies-and-other-enemies)
+[Enemies & Other Enemies: On Boosting Nazi Jurists to Own the Libs](https://heupchurch.github.io/enemies-and-other-enemies)  
 [Government Shutdowns and Democratic Legitimacy](https://heupchurch.github.io/shutdowns-and-democracy)  
 [Corruption and Constitutional Retrogression in Israel](https://heupchurch.github.io/retrogression-israel)
