@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="./assets/images/opsecface.jpg">
 
-First year AU-SIS GGPS.  I think about social media manipulation, the democratization of SIGINT and GEOINT, and halting the fascist advance.
+First year AU-SIS GGPS.  I think about social media manipulation, the democratization of SIGINT and GEOINT, and holding back the fascist creep.
 
 ## OSINT
 
