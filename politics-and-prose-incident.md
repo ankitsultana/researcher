@@ -15,7 +15,7 @@ The first clue to their identities was the AIM sticker on the bullhorn:
 :-------------------------:|:-------------------------:
 ![](../assets/images/politics-and-prose-incident/AIMsticker.png)|![From AIM Twitter](../assets/images/politics-and-prose-incident/AIMstickertwitter.jpg)
 
-The American Identity Movement (formerly Identity Evropa) is a white nationalist organization that seeks to mainstream fascism by taking over the American conservative movement from the inside.  Thanks to the [Identify Evropa project](https://identifyevropa.org/) and [Panic! In The Discord's masterlist](https://pad.riseup.net/p/r.f6c36916ae98317d351f6f1d817799fb) of known AIM/IE activists, all but three of the culprits were easy to identify.
+The American Identity Movement (formerly Identity Evropa) is a white nationalist organization that seeks to mainstream fascism by taking over the American conservative movement from the inside.  Thanks to the [Identify Evropa project](https://identifyevropa.org/) and [Panic! In The Discord's masterlist](https://pad.riseup.net/p/r.f6c36916ae98317d351f6f1d817799fb) of known AIM/IE activists, all but three of the culprits were easy to identify.  There isn't much in the way of method to show here: I just trawled through the lists until I recognized a face.
 
 The fascist with the bullhorn is Patrick Casey, AIM/IE's leader.  He replaced Elliot Klein in 2018.  He lives in Northern Virginia.  Further information at [Identify Evropa](https://identifyevropa.org/patrick-casey-executive-director/).
 
