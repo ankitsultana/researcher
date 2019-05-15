@@ -14,9 +14,9 @@ Hit me up if you've got a cool idea regarding any of those and wish to collabora
 
 ## Present
 
-* Getting a quadcopter to fly using NEAT networks. NEAT is a special kind of genetic algorithm which evolves neural networks with extremely unconventional designs and find the optimal weights at the same time. At ARL, I'm currently trying to get quadcopters to hold position and change heights with unprecedented stability using reinforcement learning.
+* Preparing for IMAV 2019, a micro aerial vehicle competition. At ARL, I'm currently trying to autonomously detect helipads, navigate through a shelf and others to complete the IMAV challenge.
 
-* Figuring out the gender of Hindi words using Convolutional Neural Networks! This is being done in collaboration with [Samriddhi Sinha](https://www.linkedin.com/in/samriddhisinha/). An online demo of the network is [here](sangita-demo.html). Coded in Python using Keras and TensorFlow. A publication is expected soon.
+* Figuring out the gender of Hindi words using Convolutional Neural Networks! This is being done in collaboration with [Samriddhi Sinha](https://www.linkedin.com/in/samriddhisinha/). An online demo of the network is [here](sangita-demo.html). Coded in Python using Keras and TensorFlow.
 
 * Trying to measure the convergence of a chaotic sequence. The intended goal is to find suitable learning rates for gradient descent automatically and create a new class of optimizers. Based on Kullback–Leibler divergence and Logistic Distribution. 
 
@@ -24,7 +24,7 @@ Hit me up if you've got a cool idea regarding any of those and wish to collabora
 
 ## Past
 
-* Made a glove that uses IMU sensor to map the entire hand with all its motions. As a sample use, created neural networks to learn sign language symbols and interpret. The project was coded in C++ and Python.  [Video demonstration](https://youtu.be/Rl1C584UrW0).
+* Made a glove with Shreyansh Darshan that uses IMU sensor to map the entire hand with all its motions. As a sample use, created neural networks to learn sign language symbols and interpret. The project was coded in C++ and Python.  [Video demonstration](https://youtu.be/Rl1C584UrW0).
 
 * Had a stint with PoW cryptocurrency miners. Wrote the first [GPU miner for Keccak PoW](https://bitcointalk.org/index.php?topic=453573.0). Collaborated with [Dr. Dave Anderson](https://www.cs.cmu.edu/~dga/) from CMU to port his Linux CUDA miner for Momentum to Windows. Also wrote one of the first two Monero mining pools. 
 
