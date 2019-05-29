@@ -122,4 +122,4 @@ Those of us who oppose these jackwagons may profit from looking upon this as a c
 
 Michael Vespa believes that this has blown over and that he can safely remake [his LinkedIn](https://www.linkedin.com/in/michael-vespa-74aa28174/), but [T. Callum](https://twitter.com/pennst1855) was watching.  The new page provides additional evidence that he is the author of the Daily Targum op-ed.
 
-[Screenshot 29 May 2019](../assets/images/ie-entryism.md/mikeys-linkedin.png)
+![Screenshot 29 May 2019](../assets/images/ie-entryism.md/mikeys-linkedin.png)
