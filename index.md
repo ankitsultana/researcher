@@ -8,15 +8,13 @@ layout: default
 
 <img class="profile-picture" src="archit.jpg">
 
-Hi! I am Archit, a freshman at Indian Institute of Technology, Kharagpur currently completing a BS+MS in Mathematics and Computing. I've had stints with competetive programming and software development.  Currently, I'm a software team member at Aerial Robotics Lab, Kharagpur and an independent researcher into NLP, Reinforcement Learning and Image Processing.
+Hi! I am Archit, a sophomore at Indian Institute of Technology, Kharagpur currently completing a BS+MS in Mathematics and Computing. I've had stints with competetive programming and software development.  Currently, I'm a software team member at Aerial Robotics Lab, Kharagpur and an independent researcher into NLP, Reinforcement Learning and Image Processing.
 
 Hit me up if you've got a cool idea regarding any of those and wish to collaborate!
 
 ## Present
 
 * Preparing for IMAV 2019, a micro aerial vehicle competition. At ARL, I'm currently trying to autonomously detect helipads, navigate through a shelf and others to complete the IMAV challenge.
-
-* Figuring out the gender of Hindi words using Convolutional Neural Networks! This is being done in collaboration with [Samriddhi Sinha](https://www.linkedin.com/in/samriddhisinha/). An online demo of the network is [here](sangita-demo.html). Coded in Python using Keras and TensorFlow.
 
 * Trying to measure the convergence of a chaotic sequence. The intended goal is to find suitable learning rates for gradient descent automatically and create a new class of optimizers. Based on Kullback–Leibler divergence and Logistic Distribution. 
 
