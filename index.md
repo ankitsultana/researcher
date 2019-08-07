@@ -8,7 +8,7 @@ layout: default
 
 <img class="profile-picture" src="archit.jpg">
 
-Hi! I am Archit, a sophomore at Indian Institute of Technology, Kharagpur currently completing a BS+MS in Mathematics and Computing. I've had stints with competetive programming and software development.  Currently, I'm a software team member at Aerial Robotics Lab, Kharagpur and an independent researcher into NLP, Reinforcement Learning and Image Processing.
+Hi! I am Archit, a sophomore at Indian Institute of Technology, Kharagpur currently completing a BS+MS in Mathematics and Computing. I've had stints with competetive programming and software development.  Currently, I'm a perception team member at Aerial Robotics Lab, Kharagpur and an independent researcher into NLP, Reinforcement Learning and Image Processing.
 
 Hit me up if you've got a cool idea regarding any of those and wish to collaborate!
 
