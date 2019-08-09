@@ -17,7 +17,7 @@ First year AU-SIS GGPS.  I think about social media manipulation, the democratiz
 
 ## Info Ops
 
-[Twitter Disinfo Is A Supply Chain Attack](twitter-supply-chain-attacks)  
+[Twitter Disinfo Is A Supply Chain Attack](https://heupchurch.github.io/twitter-supply-chain-attacks)  
 
 ## Other Writing
 
