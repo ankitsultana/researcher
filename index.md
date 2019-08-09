@@ -5,7 +5,7 @@ layout: default
 <img class="profile-picture" src="./assets/images/opsecface.jpg">
 
 St John's College Annapolis '14   
-Master's candidate American University School of International Service
+@ American University School of International Service
 
 Working on social media manipulation, signals and geospatial OSINT, and transnational far-right extremists.
 
