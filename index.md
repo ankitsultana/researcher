@@ -13,9 +13,13 @@ First year AU-SIS GGPS.  I think about social media manipulation, the democratiz
 [Identity Evropa’s Social Media Coordinator & His Entryist Tactics](https://heupchurch.github.io/ie-entryism)  
 
 ### Tools
-[Instaspy](https://github.com/heupchurch/instaspy-quick)
+[Instaspies](https://github.com/heupchurch/instaspies)
 
-## Writing
+## Info Ops
+
+[Twitter Disinfo Is A Supply Chain Attack](twitter-supply-chain-attacks.md)  
+
+## Other Writing
 
 [Enemies & Other Enemies: On Boosting Nazi Jurists to Own the Libs](https://heupchurch.github.io/enemies-and-other-enemies)  
 [Government Shutdowns and Democratic Legitimacy](https://heupchurch.github.io/shutdowns-and-democracy)  
