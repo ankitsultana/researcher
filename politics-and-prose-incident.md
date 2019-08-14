@@ -26,7 +26,7 @@ The second fascist is unidentified.
 
 ![I got nothing.](../assets/images/politics-and-prose-incident/fascistno2.png)
 
-The third fascist is David Fanelli of Pennsylvania.  He works at Boeing.  Perhaps Boeing wants to do something about this.  Perhaps call their Ethics Line at 1-888-970-7171.  Further information at [Panic! In The Discord](https://panicinthediscord.noblogs.org/post/2019/03/10/meet-david-fanelli-identity-evropa-fash-in-pennsylvania/).
+The third fascist is David Fanelli of Pennsylvania.  Further information at [Panic! In The Discord](https://panicinthediscord.noblogs.org/post/2019/03/10/meet-david-fanelli-identity-evropa-fash-in-pennsylvania/).
 
 :-------------------------:|:-------------------------:
 ![](../assets/images/politics-and-prose-incident/videodavid.png)|![](../assets/images/politics-and-prose-incident/IDdavid.jpg)
