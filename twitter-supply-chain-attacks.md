@@ -3,7 +3,7 @@ layout: default
 title: Twitter Disinfo Is A Supply Chain Attack
 description: If you have a bright idea on how to operationalize this, hit me up.
 ---
-## Twitter Disinfo Is A Supply Chain Attack | 8 August 2018
+## Twitter Disinfo Is A Supply Chain Attack | 8 August 2019
 
 _An expansion of [a thread from April](https://twitter.com/heupchurch/status/1121169702821203968). Epistemic status: high confidence but requires further research._
 
