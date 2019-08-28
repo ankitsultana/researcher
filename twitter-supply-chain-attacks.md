@@ -16,3 +16,4 @@ Back in April [Yascha Mounk scolded everyone for paying so much attention to Twi
 I suspect that this is a boomerang.  The next step, presumably, is that when the rank-and-file hear “members of our group think this”, opinion shifts because political affiliation is about identity maintenance, not policy.  Even if identity maintenance processes do not eventually move the median, it's probably still dangerous to have such a large gap between actual rank-and-file opinion and elite perception of rank-and-file opinion.
 
 I'm wise to you, Valeriy.
+   

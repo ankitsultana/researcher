@@ -66,3 +66,4 @@ The tenth fascist's identity remains unconfirmed, but he is almost certainly [Ge
 ![](../assets/images/politics-and-prose-incident/fascistno10.png)|![I mean maybe?](../assets/images/politics-and-prose-incident/georgecoiron.png)
 
 If you have any information about the unidentified thugs, please email me or send a Twitter DM and I will update this list.
+   

@@ -68,3 +68,4 @@ I can’t begin to answer either the original Schmitt or Dr Greenwald Smith’s 
 It’s Sarah or the fascists, lads — or Sarah and the fascists.
 
 And then after all that cryptofascist handwringing we find out that she is, herself, still wearing a slogan shirt. How can she stand to go out in public? What if someone sees her and thinks that her "politics" are entirely performative?
+   
