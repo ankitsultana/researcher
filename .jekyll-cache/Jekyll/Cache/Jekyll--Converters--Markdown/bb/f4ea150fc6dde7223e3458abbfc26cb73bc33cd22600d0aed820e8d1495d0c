@@ -1,0 +1,31 @@
+I"Ö<ul>
+  <li>
+    <p>Email: <a href="mailto:foo@xyz.com">foo@xyz.com</a></p>
+  </li>
+  <li>
+    <p>Phone: <a href="tel:+91-123123">+91-123123</a></p>
+  </li>
+</ul>
+
+<hr />
+
+<h2 id="mailing-address">Mailing Address</h2>
+
+<blockquote>
+  <p>221B, Baker Street</p>
+
+  <p>London</p>
+
+  <p>United Kingdom</p>
+</blockquote>
+
+<hr />
+
+<h2 id="social">Social</h2>
+
+<ol>
+  <li><a href="#">Facebook</a></li>
+  <li><a href="#">Twitter</a></li>
+  <li><a href="#">Google+</a></li>
+</ol>
+:ET
