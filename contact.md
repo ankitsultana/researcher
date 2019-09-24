@@ -3,7 +3,7 @@ layout: default
 is_contact: true
 ---
 
-[h.e.upchurch@gmail.com](mailto:h.e.upchurch@gmail.com)
+[h.e.upchurch@gmail.com](mailto:h.e.upchurch@gmail.com)   
 DED3 CC39 A86D 475C FFEF 4042 8462 8388 C4C4 8309 [(x)](https://keys.openpgp.org/search?q=h.e.upchurch%40gmail.com)
 
 * irc: upchurch @ irc.perl.org
