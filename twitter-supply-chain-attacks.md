@@ -5,7 +5,7 @@ description: If you have a bright idea on how to operationalize this, hit me up.
 ---
 ## Twitter Disinfo Is A Supply Chain Attack | 8 August 2019
 
-_An expansion of [a thread from April](https://twitter.com/heupchurch/status/1121169702821203968). Epistemic status: high confidence but requires further research._
+_An expansion of [a thread from April](https://twitter.com/heupchurch/status/1121169702821203968). I'm quite sure about this but I don't know how to test it._
 
 The dominant theory is that disinformation breaks down The People's conception of objective reality while deluging fact checkers in a sea of lies they can't keep up with.  Amplification, on the other hand, worsens ideological divisions by using true information to drive people apart.  This isn't the right frame.  Both are meant to accelerate negative partisanship.  Disinformation and amplification do the same thing, but they're used for different targets.
 
@@ -16,4 +16,3 @@ Back in April [Yascha Mounk scolded everyone for paying so much attention to Twi
 I suspect that this is a boomerang.  The next step, presumably, is that when the rank-and-file hear “members of our group think this”, opinion shifts because political affiliation is about identity maintenance, not policy.  Even if identity maintenance processes do not eventually move the median, it's probably still dangerous to have such a large gap between actual rank-and-file opinion and elite perception of rank-and-file opinion.
 
 I'm wise to you, Valeriy.
-   
