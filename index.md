@@ -7,7 +7,7 @@ layout: default
 St John's College Annapolis '14   
 @ American University School of International Service
 
-Working on social media manipulation, signals and geospatial OSINT, and transnational far-right extremists.
+Working on social media manipulation, social media and geospatial OSINT, and transnational far-right extremists.
 
 ## Writing
 [Twitter Disinfo Is A Supply Chain Attack | 8 August 2019](https://heupchurch.github.io/twitter-supply-chain-attacks)   
