@@ -7,11 +7,10 @@ layout: default
 St John's College Annapolis '14   
 @ American University School of International Service
 
-Working on social media manipulation, social media and geospatial OSINT, and transnational far-right extremists.
+Thinking about the nexus between Russian information operations and transnational fascist extremism.  Also thinking about social media and geospatial OSINT.
 
 ## Writing
 [Twitter Disinfo Is A Supply Chain Attack | 8 August 2019](https://heupchurch.github.io/twitter-supply-chain-attacks)   
-[Fascists at Politics & Prose | 29 April 2019](https://heupchurch.github.io/politics-and-prose-incident)   
 [Identity Evropa’s Social Media Coordinator & His Entryist Tactics | 14 March 2019](https://heupchurch.github.io/ie-entryism)   
 [Corruption and Constitutional Retrogression in Israel | 5 March 2019](https://heupchurch.github.io/retrogression-israel)   
 [Government Shutdowns and Democratic Legitimacy | 12 February 2019](https://heupchurch.github.io/shutdowns-and-democracy)   
