@@ -11,7 +11,7 @@ When the [Identity Evropa Discord leaks](https://discordleaks.unicornriot.ninja/
 
 Identity Evropa's social media coordinator "Brunswick" is one Michael Vespa, formerly of Raritan Valley Community College, now at Rutgers.  He is a member of the Rutgers College Republicans.  The leaked transcripts reveal that IE had a coordinated plan to join College Republicans clubs to turn those organizations towards fascism and white nationalism.  It seems likely they will continue this project as the American Identity Movement.
 
-After I identified Michael Vespa, I attempted to contact the Rutgers College Republicans hoping to give them an opportunity to take action against this fascist infiltrator before I exposed him publicly.  I never received an answer.
+After I identified Michael Vespa, I attempted to contact the Rutgers College Republicans hoping to give them an opportunity to take action against this neo-Nazi infiltrator before I exposed him publicly.  I never received an answer.  If you're a college or other Republican concerned about this kind of fascist entryism, please reach out.  I'd like to help you however I can.
 
 ## Identifying Evropa
 
