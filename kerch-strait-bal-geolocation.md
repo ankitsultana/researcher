@@ -56,4 +56,3 @@ So far no evidence has emerged to conclusively verify that the footage was shot 
 Recut into its proper order, the footage looks like this:
 
 <iframe width="935" height="526" src="https://www.youtube.com/embed/hRD8v4YAVTI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   
