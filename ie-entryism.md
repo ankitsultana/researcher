@@ -9,7 +9,7 @@ _No bloody thanks at all to Medium._
 
 When the [Identity Evropa Discord leaks](https://discordleaks.unicornriot.ninja/discord/server/34) dropped at Unicorn Riot last week, I went straight for [the social media coordinator](https://discordleaks.unicornriot.ninja/discord/view/1364518?q=#msg), expecting him to suffer, as do most social media coordinators, from the Awlaki Dilemma, and I was not disappointed.
 
-Identity Evropa's social media coordinator "Brunswick" is one Michael Vespa, formerly of Raritan Valley Community College, now at Rutgers.  He is a member of the Rutgers College Republicans.  The leaked transcripts reveal that IE had a coordinated plan to join College Republicans clubs to turn those organizations towards full-blown white nationalism.  It seems likely they will continue this project as the American Identity Movement.
+Identity Evropa's social media coordinator "Brunswick" is one Michael Vespa, formerly of Raritan Valley Community College, now at Rutgers.  He is a member of the Rutgers College Republicans.  The leaked transcripts reveal that IE had a coordinated plan to join College Republicans clubs to turn those organizations towards fascism and white nationalism.  It seems likely they will continue this project as the American Identity Movement.
 
 ## Identifying Evropa
 
@@ -123,4 +123,3 @@ Those of us who oppose these jackwagons may profit from looking upon this as a c
 Michael Vespa believes that this has blown over and that he can safely remake [his LinkedIn](https://www.linkedin.com/in/michael-vespa-74aa28174/), but [T. Callum](https://twitter.com/pennst1855) was watching.  The new page provides additional evidence that he is the author of the Daily Targum op-ed.
 
 ![Screenshot 29 May 2019](../assets/images/ie-entryism.md/mikeys-linkedin.png)
-   
