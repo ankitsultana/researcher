@@ -11,7 +11,8 @@ First of all I want to say that these lads are a major-league gluteus maximus cr
 
 Fortunately, the trees speak for themselves.
 
-I had to consult Science for this one, but between my skull mask knowledge and their tree knowledge, we were able to narrow it down to a few likely bioregions... on two separate continents, but we work with what we have.  
+I had to consult Science for this one, but between my skull mask knowledge and their tree knowledge, we were able to narrow it down to a few likely bioregions... on two separate continents, but we work with what we have.
+
   * **High confidence:** The vid could have been filmed in the Carpathians, the Northern Great Lakes, or the Catskills.
   * **Medium confidence:** The vid was not filmed anywhere in the US South.
   * **Low confidence:** The vid was not filmed in the Pacific Northwest or in the UK.
@@ -23,9 +24,11 @@ There wasn't much for me to get my teeth into before turning this over to Scienc
 ![thanks for the overhead imagery](../assets/images/fission-preliminary/fission_scaling.jpg)
 
 Science came to a consensus that the video was filmed in a dry-mesic mixed broadleaf-coniferous forest, likely in a mountainous area, based on a few key features:
+
       * Spruce, fir, and maple trees. Spruce is the pioneer species, appearing in high concentrations along the road.
       * There is little to no moss, ruling out temperate rainforests in the PNW and southern Appalachia.
       * The soil is pale, probably sandy.
+      
 They also both observed that the forest is young and has recently experienced some kind of disruption, based on the unusual number of dead branches on the conifers.  This could be the result of a range of diseases that come with unusually heavy rainfall, or of insects.
 
 Several plants stood out: the ferns and an ash tree...
