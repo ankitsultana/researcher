@@ -28,7 +28,7 @@ Science came to a consensus that the video was filmed in a dry-mesic mixed broad
       * Spruce, fir, and maple trees. Spruce is the pioneer species, appearing in high concentrations along the road.
       * There is little to no moss, ruling out temperate rainforests in the PNW and southern Appalachia.
       * The soil is pale, probably sandy.
-      
+
 They also both observed that the forest is young and has recently experienced some kind of disruption, based on the unusual number of dead branches on the conifers.  This could be the result of a range of diseases that come with unusually heavy rainfall, or of insects.
 
 Several plants stood out: the ferns and an ash tree...
@@ -40,7 +40,7 @@ Ferns from the ground.|Ferns at left, ash at right.
 ... and the maple:
 ![The mystery maple.](../assets/images/fission-preliminary/maple.png)
 
-The filter makes species identification extremely uncertain, but nevertheless we were able to settle on some likely candidates.
+The filter prevents conclusive species identification, but nevertheless we were able to settle on some likely candidates.
 
 |   |American species|European species|
 |---|---|---|
