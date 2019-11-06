@@ -35,7 +35,7 @@ Several plants stood out: the ferns and an ash tree...
 Ferns from the ground.|Ferns at left, ash at right.
 
 ... and the maple:
-![The mystery maple.](../assets/images/fission-preliminary/maple.jpg)
+![The mystery maple.](../assets/images/fission-preliminary/maple.png)
 
 The filter makes species identification extremely uncertain, but nevertheless we were able to settle on some likely candidates.
 
