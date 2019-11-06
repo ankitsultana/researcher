@@ -14,7 +14,7 @@ Fortunately, the trees speak for themselves.
 I had to consult Science for this one, but between my skull mask knowledge and their tree knowledge, we were able to narrow it down to a few likely bioregions... on two separate continents, but we work with what we have.  
   * **High confidence:** The vid could have been filmed in the Carpathians, the Northern Great Lakes, or the Catskills.
   * **Medium confidence:** The vid was not filmed anywhere in the US South.
-  * **Low confidence:** The vid was not filmed in the Pacific Northwest.
+  * **Low confidence:** The vid was not filmed in the Pacific Northwest or in the UK.
 
 ## The Signatures, Such As They Are
 
