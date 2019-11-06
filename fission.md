@@ -29,6 +29,7 @@ Science came to a consensus that the video was filmed in a dry-mesic mixed broad
 They also both observed that the forest is young and has recently experienced some kind of disruption, based on the unusual number of dead branches on the conifers.  This could be the result of a range of diseases that come with unusually heavy rainfall, or of insects.
 
 Several plants stood out: the ferns and an ash tree...
+
 :-------------------------:|:-------------------------:
 ![](../assets/images/fission-preliminary/fern.png)|![](../assets/images/fission-preliminary/overhead_fern.png)
 Ferns from the ground.|Ferns at left, ash at right.
@@ -37,6 +38,7 @@ Ferns from the ground.|Ferns at left, ash at right.
 ![The mystery maple.](../assets/images/fission-preliminary/fission_scaling.jpg)
 
 The filter makes species identification extremely uncertain, but nevertheless we were able to settle on some likely candidates.
+
 |   |American species|European species|
 |---|---|---|
 |ferns|Athyrium filix-femina, Dennstaedtia punctilobula|Osmunda regalis, Dryopteris filix-mas|
