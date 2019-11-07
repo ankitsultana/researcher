@@ -11,7 +11,9 @@ First of all I want to say that these lads are a major-league gluteus maximus cr
 
 Fortunately, the trees speak for themselves.
 
-I had to consult Science for this one, but between my skull mask knowledge and their tree knowledge, we were able to narrow it down to a few likely bioregions... on two separate continents, but we work with what we have.
+On 10 October 2019, some skull-masked flecktarn-swathed freaks purporting to be with Atomwaffen Division released a propaganda video called "Fission".  It is far from clear that the video in fact originates with AWD: the camera work does not match past productions, nor does the double release in English and Russian, and some individuals associated with AWD have questioned its authenticity.  The best I can say on attribution is that it wasn't the feds, as some of the Nazi set would have you believe.
+
+I had to consult Science for this one, but between my Nazi knowledge and their tree knowledge, we were able to narrow it down to a few likely bioregions... on two separate continents, but we work with what we have.
 
   * **High confidence:** The vid could have been filmed in the Carpathians, the Northern Great Lakes, or the Catskills.
   * **Medium confidence:** The vid was not filmed anywhere in the US South.
