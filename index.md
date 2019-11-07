@@ -9,7 +9,6 @@ St John's College Annapolis '14
 
 Thinking about the nexus between Russian information operations and transnational fascist extremism.  Also thinking about social media and geospatial OSINT.
 
-## Writing
 [A Preliminary Geospatial Look at the "AWD" Fission Video | 21 October 2019](https://heupchurch.github.io/fission)   
 [Twitter Disinfo Is A Supply Chain Attack | 8 August 2019](https://heupchurch.github.io/twitter-supply-chain-attacks)   
 [Identity Evropa’s Social Media Coordinator & His Entryist Tactics | 14 March 2019](https://heupchurch.github.io/ie-entryism)   
