@@ -3,7 +3,7 @@ layout: default
 title: A Preliminary Geospatial Look at the "AWD" Fission Video
 description:
 ---
-# A Preliminary Geospatial Look at the "AWD" Fission Video | 21 October 2019
+# Down In The Weeds: Signatures in the "AWD" Fission Video | 21 October 2019
 
 _With thanks to the two unsuspecting dendrologists to whom I texted a terrorist propaganda video without warning at a truly unholy hour.  Y'all will remain nameless for your own safety, but America is grateful._
 
