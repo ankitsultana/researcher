@@ -7,7 +7,7 @@ description:
 
 _With thanks to the two unsuspecting dendrologists to whom I texted a terrorist propaganda video without warning at a truly unholy hour.  Y'all will remain nameless for your own safety, but America is grateful._
 
-First of all I want to say that these lads are a major-league gluteus maximus cramp and they could have had the common terrorist decency to film their propaganda somewhere with better signatures.  That damn glitch filter is also extremely annoying.  Good job boys, you got my geospatial goat.
+First of all I want to say that these lads are a major-league gluteus maximus cramp and they could have had the common terrorist decency to film their propaganda somewhere with better signatures.  That glitch filter is also extremely annoying.  Good job boys, you got my geospatial goat.
 
 Fortunately, the trees speak for themselves.
 
