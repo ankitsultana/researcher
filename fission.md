@@ -27,9 +27,9 @@ There wasn't much for me to get my teeth into before turning this over to Scienc
 
 Science came to a consensus that the video was filmed in a dry-mesic mixed broadleaf-coniferous forest, likely in a mountainous area, based on a few key features:
 
-      * Spruce, fir, and maple trees. Spruce is the pioneer species, appearing in high concentrations along the road.
-      * There is little to no moss, ruling out temperate rainforests in the PNW and southern Appalachia.
-      * The soil is pale, probably sandy.
+  * Spruce, fir, and maple trees. Spruce is the pioneer species, appearing in high concentrations along the road.
+  * There is little to no moss, ruling out temperate rainforests in the PNW and southern Appalachia.
+  * The soil is pale, probably sandy.
 
 They also both observed that the forest is young and has recently experienced some kind of disruption, based on the unusual number of dead branches on the conifers.  This could be the result of a range of diseases that come with unusually heavy rainfall, or of insects.
 
