@@ -51,3 +51,11 @@ The filter prevents conclusive species identification, but nevertheless we were 
 |ash|Fraxinus latifolia, Fraxinus americana|Fraxinus excelsior|
 
 It's not much, but it's better than nothing.  As usual if you know anything, I'd love an email.
+
+## Update
+
+Here in the accelerationist community, we are occasionally dumb as hell, or perhaps liars, but in this case I think dumb as hell is rather more likely.
+
+![Idiots.](../assets/images/fission-preliminary/redacted_tg_kristallnacht.jpg)
+
+The video in question appears to use footage filmed on the same occasion as Fission.  This screenshot was taken in UTC-5, where the post time displays as 1702.  Counting forward, it is 7 hours to midnight, so OP is in UTC+2.  UTC+2 includes Bulgaria, Finland, Latvia, Lithuania, Moldova, Romania, and Ukraine.  Put this together with the botanical signatures and draw your own conclusions.
