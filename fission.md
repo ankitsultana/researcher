@@ -23,7 +23,7 @@ I had to consult Science for this one, but between my Nazi knowledge and their t
 
 There wasn't much for me to get my teeth into before turning this over to Science.  The geospatialest thing I was able to do was use the humans to get an approximate measurement of the road in the drone shots, which in turn gave Science something off which to scale the trees. On average, male humans are about 0.45m across the shoulders, which gives us a road that's about 2.25m across.
 
-![thanks for the overhead imagery](../assets/images/fission-preliminary/fission_scaling.jpg)
+![thanks for the overhead imagery](../assets/images/fission/fission_scaling.jpg)
 
 Science came to a consensus that the video was filmed in a dry-mesic mixed broadleaf-coniferous forest, likely in a mountainous area, based on a few key features:
 
@@ -36,11 +36,11 @@ They also both observed that the forest is young and has recently experienced so
 Several plants stood out: the ferns and an ash tree...
 
 :-------------------------:|:-------------------------:
-![](../assets/images/fission-preliminary/fern.png)|![](../assets/images/fission-preliminary/overhead_fern.png)
+![](../assets/images/fission/fern.png)|![](../assets/images/fission/overhead_fern.png)
 Ferns from the ground.|Ferns at left, ash at right.
 
 ... and the maple:
-![The mystery maple.](../assets/images/fission-preliminary/maple.png)
+![The mystery maple.](../assets/images/fission/maple.png)
 
 The filter prevents conclusive species identification, but nevertheless we were able to settle on some likely candidates.
 
@@ -56,6 +56,6 @@ It's not much, but it's better than nothing.  As usual if you know anything, I'd
 
 Here in the accelerationist community, we are occasionally dumb as hell, or perhaps liars, but in this case I think dumb as hell is rather more likely.
 
-![Idiots.](../assets/images/fission-preliminary/redacted_tg_kristallnacht.jpg)
+![Idiots.](../assets/images/fission/redacted_tg_kristallnacht.jpg)
 
 The video in question appears to use footage filmed on the same occasion as Fission.  This screenshot was taken in UTC-5, where the post time displays as 1702.  Counting forward, it is 7 hours to midnight, so OP is in UTC+2.  UTC+2 includes Bulgaria, Finland, Latvia, Lithuania, Moldova, Romania, and Ukraine.  Put this together with the botanical signatures and draw your own conclusions.
