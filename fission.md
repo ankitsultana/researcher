@@ -54,7 +54,7 @@ It's not much, but it's better than nothing.  As usual if you know anything, I'd
 
 ## Update
 
-Here in the accelerationist community, we are occasionally dumb as hell, or perhaps liars, but in this case I think dumb as hell is rather more likely.
+It is up to you to decide whether the accelerationist community is lying to you about the time zone in which this video was posted, or whether opsec is hard.  It could go either way.
 
 ![Idiots.](../assets/images/fission/redacted_tg_kristallnacht.jpg)
 
