@@ -4,7 +4,7 @@ layout: default
 
 <img class="profile-picture" src="./assets/images/opsecface.jpg">
 
-Sitting at the nexus of information operations and transnational fascist extremism, screaming.  To my fascist detractors: get some high-res screenshots, your videos look like garbage.
+Sitting at the intersection of information operations and transnational fascist extremism, screaming.  To my fascist detractors: get some high-res screenshots, your videos look like garbage.
 
 St John's College Annapolis '14   
 @ American University School of International Service
