@@ -4,10 +4,10 @@ layout: default
 
 <img class="profile-picture" src="./assets/images/opsecface.jpg">
 
-Sitting at the intersection of information operations and transnational fascist extremism, screaming.  To my fascist detractors: get some high-res screenshots, your videos look like garbage.
-
 St John's College Annapolis '14   
 @ American University School of International Service
+
+Sitting at the intersection of information operations and transnational fascist extremism, screaming.  To my fascist detractors: get some high-res screenshots, your videos look like garbage.
 
 [Down In The Weeds: Signatures in the "AWD" Fission Video \| 21 October 2019](https://heupchurch.github.io/fission)   
 [Twitter Disinfo Is A Supply Chain Attack \| 8 August 2019](https://heupchurch.github.io/twitter-supply-chain-attacks)   
