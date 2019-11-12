@@ -1,6 +1,6 @@
 ---
 layout: default
-title: A Preliminary Geospatial Look at the "AWD" Fission Video
+title: Down In The Weeds: Signatures in the "AWD" Fission Video
 description:
 ---
 # Down In The Weeds: Signatures in the "AWD" Fission Video | 21 October 2019
