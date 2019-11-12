@@ -3,7 +3,7 @@ layout: default
 title: Corruption & Constitutional Retrogression in Israel
 description: At the end of February, Benjamin Netanyahu drew condemnations from all over the world for a deal that would bring a Kahanist party into the Knesset if his coalition prevails in the coming elections.  The inclusion of an openly genocidal party is appalling: nevertheless, Otzma Yehudit itself is less a threat to Israeli democracy than are Netanyahu’s machinations to avoid accountability for his mounting corruption scandals.
 ---
-# Corruption & Constitutional Retrogression in Israel | 5 March 2019
+# Constitutional Retrogression in Israel | 5 March 2019
 
 *Originally posted at [Democratic Erosion.](http://democratic-erosion.com/2019/03/05/corruption-and-constitutional-retrogression-in-israel-by-h-upchurch/)*
 
@@ -20,4 +20,3 @@ To squeeze a few more Knesset seats out of the right wing, Netanyahu has persuad
 The left-wing parties are likely to ask that Otzma Yehudit be banned under Section 7a of the Basic Law on elections.  Section 7a, passed in 1984 expressly to keep Kach out of the Knesset, bans anti-system parties and parties whose purpose is to incite racism from competing in elections.  In practice, implicit incitement is tolerated— in 2015 Netanyahu’s campaign used anti-Arab tropes liberally in both speeches and ads, and Likud has not been banned— but the law has been used repeatedly to exclude Kahanist parties.  On the few occasions in the past when Kahanists have succeeded in entering the Knesset, they have always been boycotted by mainstream right-wing parties.  Netanyahu has decided to embrace them.  At best, he is engaged in pure opportunism: if HaBayit HaYehudi and Otzma Yehudit ran separately, it is likely that neither party would meet the 3.25% electoral threshhold necessary to enter the Knesset.  At worst, he shares their views in private.
 
 A bill to that would amend the Basic Law on government to protect sitting PMs from indictment is presently up before the Knesset, but [it is unclear right now whether Netanyahu will be able to assemble a coalition willing to pass it](https://www.haaretz.com/israel-news/elections/bennett-new-right-party-won-t-support-bill-to-protect-netanyahu-from-indictment-1.6982551).  Naftali Bennett, who recently split from HaBayit HaYehudi to form his own party HaYamin Hehadash, says he will not support a version which would apply retroactively, while Tkuma’s Bezalel Smotrich says that the law is necessary to permit Netanyahu to serve if the people reelect him.  All the parties in the current coalition are willing to form a government with Likud if Netanyahu prevails on April 9.
-   
