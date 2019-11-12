@@ -3,7 +3,7 @@ layout: default
 title: Enemies & Other Enemies
 description: On boosting Nazi jurists to own the libs.
 ---
-# Enemies & Other Enemies | 12 February 2019
+# Enemies & Other Enemies | 12 February 2018
 
 _Relocated from a previously pseudonymous account._
 
