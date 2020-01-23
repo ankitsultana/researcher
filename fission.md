@@ -7,13 +7,13 @@ description:
 
 _With thanks to the two unsuspecting dendrologists to whom I texted a terrorist propaganda video without warning at a truly unholy hour.  Y'all will remain nameless for your own safety, but America is grateful._
 
-First of all I want to say that these lads are a major-league gluteus maximus cramp and they could have had the common terrorist decency to film their propaganda somewhere with better signatures.  That glitch filter is also extremely annoying.  Good job boys, you got my geospatial goat.
+First of all I want to say that these lads could have had the common terrorist decency to film their propaganda somewhere with better signatures.  That glitch filter is also extremely annoying.  Good job boys, you got my geospatial goat.
 
 Fortunately, the trees speak for themselves.
 
-On 10 October 2019, some skull-masked flecktarn-swathed freaks purporting to be with Atomwaffen Division released a propaganda video called "Fission" (no I am not posting it, no I will not send it to you, I am not taking questions at this time).  It is far from clear that the video in fact originates with AWD: the camera work does not match past productions, nor does the double release in English and Russian, and some individuals associated with AWD have questioned its authenticity.  The best I can say on attribution is that it wasn't the feds, as some of the Nazi set would have you believe.
+On 10 October 2019, some flecktarn-swathed clowns purporting to be with Atomwaffen Division released a propaganda video called "Fission" (no I am not posting it, no I will not send it to you, I am not taking questions at this time).  It is far from clear that the video in fact originates with AWD: the camera work does not match past productions, nor does the double release in English and Russian, and some individuals associated with AWD have questioned its authenticity.  The best I can say on attribution is that it doesn't glow in the dark.
 
-I had to consult Science for this one, but between my Nazi knowledge and their tree knowledge, we were able to narrow it down to a few likely bioregions... on two separate continents, but we work with what we have.
+I had to consult Science for this one, but between my Nazi knowledge and their tree knowledge, we were able to narrow it down to a few likely bioregions... on two separate continents.
 
   * **High confidence:** The vid could have been filmed in the Carpathians, the Northern Great Lakes, or the Catskills.
   * **Medium confidence:** The vid was not filmed anywhere in the US South.
