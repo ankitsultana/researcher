@@ -27,6 +27,8 @@ Karpatska Sich|AWD Fission
 
 There is also a shot at the beginning of the KS video of sparks coming off a bonfire.  The styling resembles the styling of the bonfire shots in Fission, but it's impossible to tell if they come from the same footage.  Unfortunately the shot gifs poorly and screencaps worse.
 
+None of this is conclusive, but it wants close watching.
+
 ### Geolocations
 
 There is a lot of old B-roll of protests in the video.  For my purposes, only the recent footage of the march was particularly useful, as it may help narrow down the location of future videos.  The drone footage was filmed in Uzhhorod along Ploshcha Koryatovycha Street.
