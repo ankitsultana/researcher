@@ -65,7 +65,7 @@ The insignia on the monologue artist and his friends also serve as affliation cl
 
 ![Yes yes you're very scary.](../assets/images/carpathia/awd_galizien.png)
 
-The UPA flag is common across Ukrainian nationalist groups, and is not very informative on its own.  The hat patc (green) on the third skullmask from the left appears to be Praviy Sektor insignia. Something white and symmetrical has been blurred out of the center, most likely the white tryzub that distinguishes the Praviy Sektor flag from the UPA flag.  The last skullmask on the right is wearing a poorly-blurred Azov patch (purple).
+The UPA flag is common across Ukrainian nationalist groups, and is not very informative on its own.  The hat patch (green) on the third skullmask from the left appears to be Praviy Sektor insignia. Something white and symmetrical has been blurred out of the center, most likely the white tryzub that distinguishes the Praviy Sektor flag from the UPA flag.  The last skullmask on the right is wearing a poorly-blurred Azov patch (purple).
 
 :-------------------------:|:-------------------------:
 ![](../assets/images/carpathia/praviy_sektor.jpeg)|![](../assets/images/carpathia/azov.png)
