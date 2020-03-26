@@ -68,7 +68,7 @@ The insignia on the monologue artist and his friends also serve as affliation cl
 The UPA flag is common across Ukrainian nationalist groups, and is not very informative on its own.  The hat patc (green) on the third skullmask from the left appears to be Praviy Sektor insignia. Something white and symmetrical has been blurred out of the center, most likely the white tryzub that distinguishes the Praviy Sektor flag from the UPA flag.  The last skullmask on the right is wearing a poorly-blurred Azov patch (purple).
 
 :-------------------------:|:-------------------------:
-![](../assets/images/carpathia/praviy_sektor)|![](../assets/images/carpathia/azov.png)
+![](../assets/images/carpathia/praviy_sektor.jpeg)|![](../assets/images/carpathia/azov.png)
 Praviy Sektor flag|Azov patch
 
 Regardless of whether we choose to believe it, by using these insignia and blurring them out just enough to draw attention but not enough to make them unidentifiable, the makers of "AWD Galizien: Grey Zone" wish us to believe that they have Karpatska Sich, Praviy Sektor, and Azov members among their ranks.
