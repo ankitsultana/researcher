@@ -63,7 +63,7 @@ The lion shield on the banner is the insignia of the 14th SS-Volunteer Division 
 
 The insignia on the monologue artist and his friends also serve as affliation claims.  Whether they should be taken at face value remains to be seen.
 
-![](../assets/images/carpathia/awd galizien.png)
+![](../assets/images/carpathia/awd-galizien.png)
 
 The UPA flag is common across Ukrainian nationalist groups, and is not very informative on its own.  The hat patc (green) on the third skullmask from the left appears to be Praviy Sektor insignia. Something white and symmetrical has been blurred out of the center, most likely the white tryzub that distinguishes the Praviy Sektor flag from the UPA flag.  The last skullmask on the right is wearing a poorly-blurred Azov patch (purple).
 
