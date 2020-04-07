@@ -72,6 +72,15 @@ hr {
     min-height: 100%;
 }
 
+/* Institute Image */
+
+#ins-logo {
+	margin: auto;
+	display: block;
+	max-height: 100px;
+	text-align: center;
+}
+
 /* Mobile */
 
 @media (max-width: 800px) {
@@ -90,10 +99,32 @@ hr {
     }
 }
 
-@media (max-width: 580px) {
-    #author-name {
-        display: inline-block;
-    }
+@media (max-width: 500px) {
+	.navbar {
+		text-align: center;
+		padding: 50px 0px 0px 0px;
+	}
+	#author-name {
+		width: 100%;
+		float: none;
+	}
+	#navlist {
+		padding: 10px 0 10px 0;
+		margin: 0;
+		display: block;
+		float: none;
+		text-align: center;
+		width: 100%;
+	}
+	#navlist li.alignable {
+		display: inline-block;
+	}
+	#navlist li.pull-left {
+		float: none;
+	}
+	#navlist li.nav-list {
+		margin: 0;
+	}
 }
 
 @import "typography";

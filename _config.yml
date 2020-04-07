@@ -4,6 +4,7 @@ baseurl: ""
 
 markdown: kramdown
 highlighter: rouge
+#ins_logo: "./bits-logo.png"
 
 kramdown:
     input: GFM
@@ -14,8 +15,16 @@ tracking_id: UA-122038209-1
 
 footer: yes
 footer_url: "https://github.com/giqles/giqles.github.io"
-footer_text: "Forked from a design by Ankit Sultana"
+# footer_text: "Forked from a design by Ankit Sultana"
 
 sass:
     style: compressed
     sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
