@@ -19,13 +19,11 @@ On 21 October 2019, I had come out with an [assessment](https://heupchurch.githu
 
 ### Why I Tweeted Something I Shouldn't Have
 
-On 13 November 2019, Karpatska Sich released a video with camerawork that might look suspiciously familiar to anyone who has seen the AWD Fission video: the HD camera and tracking drone shots stand out.  Not only does the equipment feel familiar, but the composition of the overhead shots tracks across the videos: both feature a high overhead shot of people marching through a narrow space.
+On 13 November 2019, Karpatska Sich released a video with camerawork that might look suspiciously familiar to anyone who has seen the AWD Fission video: the HD camera and tracking drone shots stand out.  Not only does the equipment appear similar, but the composition of the overhead shots tracks across the videos: both feature a high overhead shot of people marching through a narrow space.
 
 :-------------------------:|:-------------------------:
 ![](../assets/images/carpathia/karpatska-drone.png)|![](../assets/images/carpathia/fission-drone.png)
 Karpatska Sich|AWD Fission
-
-There is also a shot at the beginning of the KS video of sparks coming off a bonfire.  The styling resembles the styling of the bonfire shots in Fission, but it's impossible to tell if they come from the same footage.  Unfortunately the shot gifs poorly and screencaps worse.
 
 None of this is conclusive, but it wants close watching.
 
