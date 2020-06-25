@@ -13,7 +13,7 @@ Back in November I [tweeted](https://twitter.com/heupchurch/status/1195026730131
 
 This time I do not know for sure if the boys are winding me in particular up or if I actually saw something important, but you go to war with the imagery you have.
 
-On 21 October 2019, I had come out with an [assessment](https://heupchurch.github.io/fission) that, between the botanical signatures and the bilingual release, Fission was likely filmed in western Ukraine.  Fission was most notable because of the enormous leap in production value, up from the grainy stuff put out by original AWD and more recently by the Base to a Peak ISIS slickness.  This implies both financial resources and freedom to operate: the video is professional-quality and likely was produced professionally.  AWD in the US is under heavy scrutiny from law enforcement and is unlikely to have the operational breathing-room to be hiring a quadcopter videographer to make fancy propaganda.  Between the Russian invasion of the Donbass, the weakness of Ukrainian state apparatus, and that bastard Avakov, however, Ukrainian neofascists have much more room to operate openly.
+On 21 October 2019, I had come out with an [assessment](https://heupchurch.github.io/fission) that, between the botanical signatures and the bilingual release, Fission was likely filmed in western Ukraine.  Fission was most notable because of the enormous leap in production value, up from the grainy stuff put out by original AWD and more recently by the Base to a Peak ISIS slickness.  This suggests both financial resources and freedom to operate: the video is professional-quality and likely was produced professionally.  AWD in the US is under heavy scrutiny from law enforcement and is unlikely to have the operational breathing-room to be hiring a quadcopter videographer to make fancy propaganda.  Between the Russian invasion of the Donbass, the weakness of Ukrainian state apparatus, and that bastard Avakov, however, Ukrainian neofascists have much more room to operate openly.
 
 ## Karpatska Sich
 
@@ -43,7 +43,7 @@ The rally was held nearby, in Yevhena Fentsyka Square.
 ![](../assets/images/carpathia/karpatska-geo2.png)|![](../assets/images/carpathia/medicine_uzhhorod.png)
 Karpatska Sich footage|(48.622285,22.2976368)
 
-There is also a shot of some mountain hiking which I have been unable to find.  If any of you nerds who are really good at finding mountain peaks have a shot at it and get something, let me know, because there's a dry-mesic broadleaf forest I'd really like to find if possible.
+There is also a shot of some mountain hiking which I have been unable to geolocate.  If any of you who are really good at finding mountain peaks have a shot at it and get something, let me know, because there's a dry-mesic broadleaf forest I'd really like to find if possible.
 
 ![Far over the misty mountains cold...](../assets/images/carpathia/mystery-mountain.png)
 
@@ -51,7 +51,7 @@ There is also a shot of some mountain hiking which I have been unable to find.  
 
 ### Footage
 
-On 10 December, the same channel that released Fission put out a video called "AWD Galizien: Grey Zone", in which some skullmasks stand in front of a wall monologuing, intercut with footage of various Ukrainian militants.  Much hay was made of the fact that some of the guns appear to be airsoft, leading to some amusing assmad as the terrorwave gang found out they'd been Calibre Obscura'd.  However, amidst the airsoft of it all, the most interesting feature of 'Grey Zone' was overlooked: the slick new footage from the Karpatska Sich video made an appearance at the end.
+On 10 December, the same channel that released Fission put out a video called "AWD Galizien: Grey Zone", in which some skullmasks stand in front of a wall monologuing, intercut with footage of various Ukrainian militants.  Much hay was made of the fact that some of the guns appear to be airsoft, leading to some amusing butthurt as the terrorwave guys found out they'd been Calibre Obscura'd.  However, amidst the airsoft of it all, the most interesting feature of 'Grey Zone' was overlooked: the slick new footage from the Karpatska Sich video made an appearance at the end.
 
 I will spare you all of the comparison shots and just pull out the one that I find most interesting:
 
@@ -59,7 +59,7 @@ I will spare you all of the comparison shots and just pull out the one that I fi
 ![](../assets/images/carpathia/karpatska-galizien.png)|![](../assets/images/carpathia/fission-galizien.png)
 Karpatska Sich|AWD Galizien - Sira Zona
 
-The lion shield on the banner is the insignia of the 14th SS-Volunteer Division "Galizien", which was composed primarily of ethnically Ukrainian recruits from Galicia.  The makers of the video clearly intend to associate AWD Galizien with the Karpatska Sich demonstrators, hoping to piggyback their new division to legitimacy.  Also of interest is the Praviy Sektor Volunteer Battalion flag (red-and-black banner with rifle emblem) at the left.
+The lion shield on the banner is the insignia of the 14th SS-Volunteer Division "Galizien", which was composed primarily of ethnically Ukrainian recruits from Galicia.  The makers of the video clearly intend to associate AWD Galizien with the Karpatska Sich demonstrators.  Also of interest is the Praviy Sektor Volunteer Battalion flag (red-and-black banner with rifle emblem) at the left.
 
 ### Insignia
 
@@ -77,4 +77,4 @@ Regardless of whether we choose to believe it, by using these insignia and blurr
 
 ## Message To De West: Get Sillay
 
-One last thing: if you read this, you boys better tell Mason I said to pack it in.  You're not fooling anybody.  If I could work this out with three videos, a botanist, and tourist-tier Ukrainian, you and your extensive European networks know damn well where Fission is coming from.  So do the glow-in-the-darks.  Stop playing coy.  It's just embarrassing.
+One last thing: if you boys read this, you can tell Mason he needn't bother.  If I could get this far with three videos, a botanist, and tourist-tier Ukrainian, you and your extensive European networks know damn well where Fission is coming from.  Stop playing coy.  It's just embarrassing.

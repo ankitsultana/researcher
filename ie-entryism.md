@@ -111,7 +111,7 @@ The extent of his activism with the College Republicans is unclear.  [An op-ed b
 
 ## Ain't No Threat Like An Insider Threat
 
-The sad tale of Mr Vespa also sheds light on IE's operational insecurity. We don't know how Unicorn Riot got the transcripts, but it seems more likely that it was through weaknesses in IE's vetting process than through an intrusion (on the internet, nobody knows you're an antifa). Their process remains opaque, but their mistakes are easy to see:
+The sad tale of Mr Vespa also sheds light on IE's operational insecurity. We don't know how Unicorn Riot got the transcripts, but it seems more likely that it was through weaknesses in IE's vetting process than through an intrusion (on the internet, nobody knows you're an antifa). IE's process remains opaque, but their mistakes are easy to see:
 
   * IE's leadership has an inadequate procedure for vetting members.
   * Members are nonetheless confident enough in IE vetting to either use their real names as their server handles or to mention them in group chat.

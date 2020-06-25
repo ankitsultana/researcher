@@ -54,8 +54,6 @@ It's not much, but it's better than nothing.  As usual if you know anything, I'd
 
 ## Update
 
-It is up to you to decide whether the accelerationist community is lying to you about the time zone in which this video was posted, or whether opsec is hard.  It could go either way.
-
 ![Idiots.](../assets/images/fission/redacted_tg_kristallnacht.jpg)
 
-The video in question appears to use footage filmed on the same occasion as Fission.  This screenshot was taken in UTC-5, where the post time displays as 1702.  Counting forward, it is 7 hours to midnight, so OP is in UTC+2.  UTC+2 includes Bulgaria, Finland, Latvia, Lithuania, Moldova, Romania, and Ukraine.  Put this together with the botanical signatures and draw your own conclusions.
+The video in this post appears to use footage filmed on the same occasion as Fission.  This screenshot was taken in UTC-5, where the post time displays as 1702.  Counting forward, it is 7 hours to midnight, so OP is in UTC+2.  UTC+2 includes Bulgaria, Finland, Latvia, Lithuania, Moldova, Romania, and Ukraine.  This seems to suggest that the Carpathians are the most likely candidate, although it is of course possible that the Telegram channel in question has their time zone set to UTC+2 to obscure their actual location.
