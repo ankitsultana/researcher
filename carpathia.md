@@ -19,7 +19,7 @@ On 21 October 2019, I had come out with an [assessment](https://heupchurch.githu
 
 ### Why I Tweeted Something I Shouldn't Have
 
-On 13 November 2019, Karpatska Sich released a video with camerawork that might look suspiciously familiar to anyone who has seen the AWD Fission video: the HD camera and tracking drone shots stand out.  Not only does the equipment appear similar, but the composition of the overhead shots tracks across the videos: both feature a high overhead shot of people marching through a narrow space.
+On 13 November 2019, Karpatska Sich released a video with camerawork that might look suspiciously familiar to anyone who has seen the AWD Fission video: the HD camera and tracking drone shots stand out.  Not only does the equipment appear similar, but the composition of the overhead shots tracks across the videos: both feature a high overhead shot of people marching through a narrow space.  The similarities don't translate well to screenshots unfortunately, but I will not be embedding terrorist propaganda videos in this post so the screenshots will have to do for now.
 
 :-------------------------:|:-------------------------:
 ![](../assets/images/carpathia/karpatska-drone.png)|![](../assets/images/carpathia/fission-drone.png)
