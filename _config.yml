@@ -3,7 +3,7 @@ url: "https://ejjpweb.github.io"
 baseurl: ""
 
 markdown: kramdown
-ins_logo: "./bits-logo.png"
+#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
