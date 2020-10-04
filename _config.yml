@@ -1,9 +1,9 @@
 title: Emilio J. Juarez-Perez
 url: "ejjpweb.github.io"
-baseurl: "/"
+baseurl: "ejjpweb.github.io"
 
 markdown: kramdown
-ins_logo: "./bits-logo.png"
+#ins_logo: "./bits-logo.png"
 
 tracking_id: #
 
