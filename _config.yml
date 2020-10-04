@@ -16,6 +16,8 @@ sass:
     sass_dir: _sass
 
 nav:
+ - name: "Blog"
+   link: "contact"
  - name: "About"
    link: "researcher"
  - name: "Resume"
