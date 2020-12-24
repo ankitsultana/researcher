@@ -4,22 +4,22 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="QUT Day3 HR-39.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
-
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+PhD student with a demonstrated history of working in various multi-disciplinary projects within the field of robotics. I am particularly interested in methods and techniques that can allow reinforcement learning agents to effectively leverage prior knowledge for sample efficient training and safe, real-world deployment of robotic systems.
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research focuses on methods which combine classicalrobotic control strategies with deep reinforcement learning to improve the sample efficiency of these algorithms during trainingwhile allowing the system to improve beyond the abilities of the base controller. As we strive to solve real-world problems usingrobots acting in the real world, it is imperative that we can effectively leverage the large body of classical research which alreadysolves parts of the tasks and bootstrap the RL learning process to quickly build up from this base as opposed to learning fromscratch. I am additionally interested in exploring ways in which we can ensure the safety and robustness of these trained systemswhen acting in the real world
 
 ## Publications
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
+1. Rana, K., Talbot, B., Milford, M., & Sünderhauf, N. (2020). Residual Reactive Navigation: Combining Classical and Learned Navigation Strategies For Deployment in Unknown Environments. 2020 IEEE International Conference on Robotics and Automation (ICRA), 11493-11499.
+2. Rana, K., Dasagi, V., Talbot, B., Milford, M., & Sunderhauf, N. (2020). Multiplicative Controller Fusion: Leveraging Algorithmic Priors for Sample-efficient Reinforcement Learning and Safe Sim-To-Real Transfer. arXiv: Robotics.
+3. Palmer, D.W., Coppin, T., Rana, K., Dansereau, D., Suheimat, M., Maynard, M., Atchison, D., Roberts, J., Crawford, R., & Jaiprakash, A. (2018). Glare-free retinal imaging using a portable light field fundus camera. Biomedical Optics Express, 9, 3178 - 3192.
 
 ## Typography
+
 
 This is a [link](http://google.com). Something *italics* and something **bold**.
 
