@@ -1,4 +1,4 @@
-# Researcher
+# Krishan Rana
 
 ### [Demo Website](http://ankitsultana.com/researcher)
 
