@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="QUT Day3 HR-39.jpg">
+<img class="profile-picture" src="profile.jpg">
 
 PhD student with a demonstrated history of working in various multi-disciplinary projects within the field of robotics. I am particularly interested in methods and techniques that can allow reinforcement learning agents to effectively leverage prior knowledge for sample efficient training and safe, real-world deployment of robotic systems.
 
@@ -20,7 +20,7 @@ PhD student with a demonstrated history of working in various multi-disciplinary
 UA-DAAD Australia-Germany Joint Research Cooperation Scheme
 Project: Sample-efficient learning for autonomous agents in complex hierarchical, and sparse environments
 
-## Education
+
 
 
 
