@@ -17,11 +17,11 @@ PhD student with a demonstrated history of working in various multi-disciplinary
 
 ## Patents
 
-1. Ophthalmic Imaging Apparatus and System
-   Patent Number au2017901153
-   A. Jaiprakash, D. Palmer, D. G. Dansereau, T. Coppin, K. Rana, J. Roberts, R. Crawford
-2. Method and System for Calibrating an Ophthalmic Imager}\\
-   Patent Number au2018900513
+1. Ophthalmic Imaging Apparatus and System  
+   Patent Number au2017901153  
+   A. Jaiprakash, D. Palmer, D. G. Dansereau, T. Coppin, K. Rana, J. Roberts, R. Crawford  
+2. Method and System for Calibrating an Ophthalmic Imager  
+   Patent Number au2018900513  
    D. Palmer, T. Coppin, K. Rana
    
 ## Grants
