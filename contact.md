@@ -3,24 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [krishan.rana@hdr.qut.edu.au](mailto:krishan.rana@hdr.qut.edu.au)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+61-31583292](tel:+61-31583292)
 
 ---
 
-## Social
-
-1. [Facebook](#)
-2. [Twitter](#)
-3. [Google+](#)
