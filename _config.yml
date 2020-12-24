@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/krishanrana"
-footer_text: "Page maintained by Krishan Rana"
+footer_text: "Teaching robots how to learn"
 
 sass:
     style: compressed
