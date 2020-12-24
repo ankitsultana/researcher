@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/researcher/"
+   link: "/krishanrana.github.io/"
  - name: "Resume"
    link: "resume.pdf"
  - name: "Contact"
