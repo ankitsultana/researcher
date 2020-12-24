@@ -1,5 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Krishan Rana
+url: "https://krishanrana.github.io/"
 baseurl: "/krishanrana.github.io"
 
 markdown: kramdown
@@ -9,7 +9,7 @@ tracking_id: #
 
 footer: yes
 footer_url: "https://github.com/krishanrana"
-footer_text: "Page design by Ankit Sultana"
+footer_text: "Page maintained by Krishan Rana"
 
 sass:
     style: compressed
