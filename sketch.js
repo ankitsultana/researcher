@@ -1,8 +1,8 @@
 var canvas;
 
 function setup() {
-  canvas=createCanvas(400, 400);
-  canvas.positions(0,0);
+  createCanvas(400, 400);
+  //canvas.positions(0,0);
   //canvas.style('z-index', '-1');
 }
 
