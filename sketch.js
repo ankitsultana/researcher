@@ -1,5 +1,9 @@
+var canvas;
+
 function setup() {
-  createCanvas(400, 400);
+  canvas=createCanvas(400, 400);
+  canvas.positions(0,0);
+  canvas.style('z-index', '-1');
 }
 
 function draw() {
