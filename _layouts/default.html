@@ -58,7 +58,7 @@
 </head>
 <body>
     <div class="wrapper">
-        <script src="sketch.js"></script>
+        
         <div class="navbar container">
             {% if site.ins_logo %}
                 <img id="ins-logo" src="{{ site.ins_logo }}" />
@@ -84,6 +84,7 @@
             <div class="container content contact">
         {% else %}
             <div class="container content">
+                <script src="sketch.js"></script>
         {% endif %}
                 {{ content }}
                 {% if site.footer == true %}
