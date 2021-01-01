@@ -19,6 +19,8 @@ function draw() {
     // if (rep_vel < range) {
     //   let rep = map(rep_vel, 0, range, -1, 0);
     // }
+    
+    p.update();
     for (q of particle) {
       let d = p.loc.dist(q.loc);
       if (d < 150) {
@@ -26,7 +28,6 @@ function draw() {
         stroke(0, 0, 0, a);
         line(p.loc.x, p.loc.y, q.loc.x, q.loc.y);
       }
-      p.update();
       p.show();
     }
   }
