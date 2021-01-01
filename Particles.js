@@ -2,7 +2,7 @@ class Particles {
 
   constructor(x,y){
     this.loc = createVector(x,y);
-    this.vel = createVector(random(-0.1,0.1), random(-0.1,0.1));
+    this.vel = createVector(random(-0.2,0.2), random(-0.2,0.2));
     this.offsetX = random(0,500);
     this.offsetY = random(0,500);
   }
@@ -13,9 +13,6 @@ class Particles {
   }
   
   update(){
-    //this.vel_res = this.vel.add(this.vel_rep);
-    //this.vel.x = this.vel.x + this.vel_rep.x;
-    //this.vel.y = this.vel.y + this.vel_rep.y;
     
     //check that it is in bounds
     if (this.loc.x < 0 || this.loc.x > width) {
