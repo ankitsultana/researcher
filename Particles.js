@@ -2,7 +2,7 @@ class Particles {
 
   constructor(x,y){
     this.loc = createVector(x,y);
-    this.vel = createVector(random(-0.2,0.2), random(-0.2,0.2));
+    this.vel = createVector(random(-0.1,0.1), random(-0.1,0.1));
     this.offsetX = random(0,500);
     this.offsetY = random(0,500);
   }
