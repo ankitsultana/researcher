@@ -1,6 +1,6 @@
 
 let particle = [];
-let num_p = 60;
+let num_p = 40;
 let canvas;
 
 function setup() {
