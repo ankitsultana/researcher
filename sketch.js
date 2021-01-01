@@ -1,20 +1,37 @@
-var canvas;
+
+let particle = [];
+let num_p = 25;
+let canvas;
 
 function setup() {
   canvas = createCanvas(windowWidth, windowHeight);
-  canvas.position(0,50);
+  canvas.position(0,0);
   canvas.style('z-index', '-2');
+  for(let x=0; x<num_p; x++){
+      particle.push(new Particles(random(0,width), random(0,height)));  
+  }
 }
 
 function draw() {
-  background(255);
-  
-  let x = random(width);
-  
-  //let x = map(noise(frameCount*0.01), 0, 1, 0, width);
-  
-  //let x = map(sin(frameCount*0.01), -1, 1, 0, width);
-  
-  ellipse(x,200,24,24);
-  
+  background(0, 45);
+  for (p of particle) {
+    // let rep_vel = dist(mouseX, mouseY, p.loc.x, p.loc.y);
+    // if (rep_vel < range) {
+    //   let rep = map(rep_vel, 0, range, -1, 0);
+    // }
+    p.update();
+    p.show();
+    for (q of particle) {
+      let d = p.loc.dist(q.loc);
+      if (d < 150) {
+        let a = map(d, 0, 150, 100, 0);
+        stroke(255, 255, 255, a);
+        line(p.loc.x, p.loc.y, q.loc.x, q.loc.y);
+      }
+    }
+  }
+}
+
+function mousePressed() {
+  particle.push(new Particles(mouseX, mouseY));
 }
