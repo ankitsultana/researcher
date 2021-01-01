@@ -21,6 +21,7 @@ function draw() {
     // }
     
     p.update();
+    p.show();
     for (q of particle) {
       let d = p.loc.dist(q.loc);
       if (d < 150) {
@@ -28,7 +29,7 @@ function draw() {
         stroke(0, 0, 0, a);
         line(p.loc.x, p.loc.y, q.loc.x, q.loc.y);
       }
-      p.show();
+      
     }
   }
 }
