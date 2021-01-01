@@ -25,7 +25,7 @@ function draw() {
     for (q of particle) {
       let d = p.loc.dist(q.loc);
       if (d < 150) {
-        let a = map(d, 0, 150, 100, 0);
+        let a = map(d, 0, 150, 50, 0);
         stroke(0, 0, 0, a);
         line(p.loc.x, p.loc.y, q.loc.x, q.loc.y);
       }
