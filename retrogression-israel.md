@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Corruption & Constitutional Retrogression in Israel
-description: At the end of February, Benjamin Netanyahu drew condemnations from all over the world for a deal that would bring a Kahanist party into the Knesset if his coalition prevails in the coming elections.  The inclusion of an openly genocidal party is appalling: nevertheless, Otzma Yehudit itself is less a threat to Israeli democracy than are Netanyahu’s machinations to avoid accountability for his mounting corruption scandals.
+title: Constitutional Retrogression in Israel
+description: Making corruption pay at the expense of constitutional government.
 ---
 # Constitutional Retrogression in Israel | 5 March 2019
 

@@ -4,10 +4,10 @@ layout: default
 
 <img class="profile-picture" src="./assets/images/opsecface.jpg">
 
-St John's College Annapolis '14   
-@ American University School of International Service
+St John's College Annapolis 2014   
+American University School of International Service 2020
 
-Sitting at the intersection of information operations and transnational fascist extremism, screaming.  To my fascist detractors: get some high-res screenshots, your videos look like garbage.
+I do geospatial things to bad people.
 
 * 25 Mar 2020 \| [AWD Fission & the Carpathian Connection](https://heupchurch.github.io/carpathia)
 * 21 Oct 2019 \| [Down In The Weeds: Signatures in the "AWD" Fission Video](https://heupchurch.github.io/fission)
