@@ -6,7 +6,7 @@ var Q_grid;
 var Q_array = [];
 
 function setup() {
-  canvas = createCanvas( windowWidth/10, windowWidth/10+20);
+  canvas = createCanvas( windowWidth/2, windowWidth/2+20);
   canvas.position(0,0);
   canvas.style('z-index', '-1');
   reset();
