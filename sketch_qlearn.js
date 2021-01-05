@@ -7,7 +7,7 @@ var Q_array = [];
 
 function setup() {
   canvas = createCanvas( windowWidth/2, windowWidth/2+20);
-  canvas.position(windowWidth/40, windowHeight/50);
+  canvas.position(windowWidth/30, windowHeight/50);
   canvas.style('z-index', '-1');
   reset();
 }
