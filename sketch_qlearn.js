@@ -18,10 +18,10 @@ function draw() {
     agent.train();
     env.render_all();
     fill(50, 90, 158);
-    rect(0, env.grid_spacing * size, Progress, 20)
+    rect(0, env.grid_spacing * size, Progress, width/120);
     stroke(50, 90, 158);
     noFill();
-    rect(0, env.grid_spacing * size, env.grid_spacing * size, 20)
+    rect(0, env.grid_spacing * size, env.grid_spacing * size, width/120);
 
   } else {
     env.timeout = 10;
