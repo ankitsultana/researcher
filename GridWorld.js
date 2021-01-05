@@ -4,7 +4,7 @@ class GridWorld {
     this.location = [int(random(0, this.size)), int(random(0, this.size))];
     this.location_prev = [];
     this.size = size
-    this.grid_spacing = 150;
+    this.grid_spacing = width/50;
     this.counter = 0;
     this.done = false;
     this.timeout = 15;
