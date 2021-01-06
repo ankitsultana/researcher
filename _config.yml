@@ -16,7 +16,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "About"
-   link: "/krishanrana.github.io/"
+ - name: "Google Scholar"
+   link: "https://scholar.google.com.au/citations?user=-hYjPxsAAAAJ&hl=en&oi=ao"
  - name: "Resume"
    link: "resume.pdf"
