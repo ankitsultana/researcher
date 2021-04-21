@@ -1,6 +1,7 @@
 title: Krishan Rana
 url: "https://krishanrana.github.io/"
 baseurl: "/krishanrana.github.io"
+remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
