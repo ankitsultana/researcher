@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}<iframe style="width: 100px; height: 107px; overflow: hidden;"  frameborder="0" scrolling="no" src="https://editor.p5js.org/krishanrana/embed/1bngpYaRU"></iframe></title> 
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title> 
 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -61,7 +61,7 @@
         
         <div class="navbar container">
             
-            <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}">{{ site.title }}</a>
+            <a id="author-name" class="alignable pull-left" href="{{ site.baseurl }}">{{ site.title }}<iframe style="width: 100px; height: 107px; overflow: hidden;"  frameborder="0" scrolling="no" src="https://editor.p5js.org/krishanrana/embed/1bngpYaRU"></iframe></a>
             <ul id="navlist" class="alignable pull-right navbar-ul">
                 {% for x in site.nav %}
                     {% if x.name == "Resume" %}
