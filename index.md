@@ -6,7 +6,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-I am a PhD researcher at the Australian Centre for Robotic Vision working on control and machine learning for robotics. My research focuses on deep reinforcement learning and how we can effectively utilise prior knowledge within the framework to guide and accelerate training, and allow for safe real-world deployment of robotic systems. 
+I am a PhD researcher at the Australian Centre for Robotic Vision working on control and machine learning for robotics. My research focuses on deep reinforcement learning and how we can effectively exploit prior and structural knowledge within the framework to guide and accelerate training, and to allow for safe real-world deployment of learnt policies. 
 
 
 ## Publications
