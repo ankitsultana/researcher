@@ -2,3 +2,4 @@ _site
 .sass-cache
 .sass-cache/
 .DS_Store
+.jekyll-cache
