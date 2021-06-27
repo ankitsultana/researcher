@@ -1,5 +1,5 @@
 ---
-title: PAGE TITLE HERE
+title: Bayesian Controller Fusion: Leveraging Control Priors in Deep Reinforcement Learning for Robotics
 layout: template
-filename: NAME OF THIS .md FILE HERE
+filename: bcf
 --- 
