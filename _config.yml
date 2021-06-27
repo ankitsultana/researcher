@@ -21,3 +21,5 @@ nav:
    link: "https://scholar.google.com.au/citations?user=-hYjPxsAAAAJ&hl=en&oi=ao"
  - name: "Resume"
    link: "resume.pdf"
+
+theme: jekyll-theme-cayman
