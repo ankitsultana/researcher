@@ -5,40 +5,8 @@ theme: jekyll-theme-cayman
 layout: jekyll-theme-cayman
 --- 
 
-## Welcome to GitHub Pages
+## Bayesian Controller Fusion
 
-You can use the [editor on GitHub](https://github.com/krishanrana/ranak.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+We present Bayesian Controller Fusion (BCF): a hybrid control strategy that combines the strengths of traditional hand-crafted controllers and model-free deep reinforcement learning. BCF thrives in the robotics domain, where reliable but suboptimal control priors exist. In this setting, reinforcement learning from scratch remains unsafe and data-inefficient, and leveraging the structure provided by existing controllers can help address these limitations.  We study BCF on two real-world robotics tasks involving navigation in a vast and long-horizon environment, and a more complex reaching task that involves manipulability maximisation. For both these domains, there exists simple handcrafted controllers that can solve the task at hand in a risk-averse manner, however do not necessarily exhibit the optimal solution given limitations in analytical modelling, controller miscalibration, and task variation. We show that by composing uncertainty-aware action outputs from these control algorithms, together with an RL policy, we can learn to both safely explore and deploy RL agents in unknown environments, while significantly improving the sample efficiency during training. More importantly, we find that BCF consistently and substantially improves beyond the performance of the control priors. We additionally show BCF's applicability to the sim-to-real setting as a reliable control strategy for robotics. BCF is a promising approach for combining the complementary strengths of deep RL and robotic control, surpassing what either can achieve independently.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/krishanrana/ranak.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
