@@ -1,7 +1,8 @@
 ---
-title: Bayesian Controller Fusion - Leveraging Control Priors in Deep Reinforcement Learning for Robotics
+title: Bayesian Controller Fusion
 filename: bcf/
-layout: post
+layout: default_cayman
+tagline: A responsive theme for your project on GitHub Pages
 --- 
 
 ## Bayesian Controller Fusion

@@ -22,21 +22,3 @@ nav:
  - name: "Resume"
    link: "resume.pdf"
 
-
-
-# Setup
-tagline:      A responsive theme for your project on GitHub Pages
-paginate:     1
-locale:       "en"
-
-# About/contact
-author:
-  name:       Krishan Rana
-  url:        "https://krishanrana.github.io/"
-
-# Gems
-gems:
-  - jekyll-paginate
-
-#Others
-markdown: kramdown
