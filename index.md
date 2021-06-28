@@ -11,7 +11,7 @@ I am a PhD researcher at the Australian Centre for Robotic Vision working on con
 
 ## Publications
 
-1. <b>Rana, K.</b>, Talbot, B., Milford, M., & Sünderhauf, N. (2020). "Residual Reactive Navigation: Combining Classical and Learned Navigation Strategies For Deployment in Unknown Environments". 2020 IEEE International Conference on Robotics and Automation (ICRA), 11493-11499. <br />
+![image-title-here](profile.jpg){:class="img-responsive"} 1. <b>Rana, K.</b>, Talbot, B., Milford, M., & Sünderhauf, N. (2020). "Residual Reactive Navigation: Combining Classical and Learned Navigation Strategies For Deployment in Unknown Environments". 2020 IEEE International Conference on Robotics and Automation (ICRA), 11493-11499. <br />
 [[Paper]](https://arxiv.org/pdf/1909.10972.pdf) [[Code]](https://github.com/krishanrana/2D_SRRN) [[Site]](https://sites.google.com/view/srrn/home)
 
 2. <b>Rana, K.</b>, Dasagi, V., Talbot, B., Milford, M., & Sunderhauf, N. (2020). "Multiplicative Controller Fusion: Leveraging Algorithmic Priors for Sample-efficient Reinforcement Learning and Safe Sim-To-Real Transfer". 2020 International Conference on Intelligent Robots and Systems (IROS) <br />
