@@ -1,7 +1,7 @@
 ---
 title: Bayesian Controller Fusion - Leveraging Control Priors in Deep Reinforcement Learning for Robotics
 filename: bcf/
-layout: default
+layout: default_cayman
 --- 
 
 ## Bayesian Controller Fusion
