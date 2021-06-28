@@ -1,6 +1,6 @@
 title: Krishan Rana
 url: "https://krishanrana.github.io/bcf"
-baseurl: ""
+baseurl: "https://krishanrana.github.io/bcf"
 #remote_theme: ankitsultana/researcher@gem
 
 markdown: kramdown
