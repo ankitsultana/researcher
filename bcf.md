@@ -1,7 +1,7 @@
 ---
 title: Bayesian Controller Fusion
 filename: bcf/
-layout: default_cayman
+layout: post
 tagline: A responsive theme for your project on GitHub Pages
 --- 
 
