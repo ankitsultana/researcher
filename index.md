@@ -21,7 +21,7 @@ I am a PhD researcher at the Australian Centre for Robotic Vision working on con
 3. Palmer, D.W., Coppin, T., <b>Rana, K.</b>, Dansereau, D., Suheimat, M., Maynard, M., Atchison, D., Roberts, J., Crawford, R., & Jaiprakash, A. (2018). "Glare-free retinal imaging using a portable light field fundus camera". Biomedical Optics Express, 9, 3178 - 3192. <br />
 [[Paper]](https://www.osapublishing.org/DirectPDFAccess/0E261C73-2334-447F-B56AC34C610A1844_392666/boe-9-7-3178.pdf?da=1&id=392666&seq=0&mobile=no)
 
-4. Melnik, A., Harter, A., Limberg, C., </b>Rana, K.</b>, Sünderhauf, N., & Ritter, H. "Critic Guided Segmentation of Rewarding Objects in First Person Views". German Conference of Artificial Intelligence, 2021. <br/>
+4. Melnik, A., Harter, A., Limberg, C., <b>Rana, K.</b>, Sünderhauf, N., & Ritter, H. "Critic Guided Segmentation of Rewarding Objects in First Person Views". German Conference of Artificial Intelligence, 2021. <br/>
 [[Paper]](#)
 
 5. <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sünderhauf, N. "Bayesian Controller Fusion" [In preparation for IJRR] <br />
@@ -29,7 +29,7 @@ I am a PhD researcher at the Australian Centre for Robotic Vision working on con
 
 ## Patents
 
-1. Ophthalmic Imaging Apparatus and System  
+1. Ophthalmic Imaging Apparatus and System  s
    Patent Number au2017901153  
    A. Jaiprakash, D. Palmer, D. G. Dansereau, T. Coppin, K. Rana, J. Roberts, R. Crawford  
    
