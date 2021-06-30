@@ -29,7 +29,7 @@ I am a PhD researcher at the Australian Centre for Robotic Vision working on con
 
 ## Patents
 
-1. Ophthalmic Imaging Apparatus and System  s
+1. Ophthalmic Imaging Apparatus and System
    Patent Number au2017901153  
    A. Jaiprakash, D. Palmer, D. G. Dansereau, T. Coppin, K. Rana, J. Roberts, R. Crawford  
    
