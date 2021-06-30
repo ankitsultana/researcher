@@ -41,7 +41,7 @@
         width: $image-size;
         position: relative;
         margin: -10px 0 0 15px;
-        float: right;
+        float: left;
         border-radius: 50%;
         p & {
             padding: 0;
@@ -58,7 +58,7 @@
         width: $image-size;
         position: relative;
         margin: -10px 0 0 15px;
-        float: left;
+        float: right;
         border-radius: 10%;
         p & {
             padding: 0;
