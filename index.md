@@ -21,7 +21,11 @@ I am a PhD researcher at the Australian Centre for Robotic Vision working on con
 3. Palmer, D.W., Coppin, T., <b>Rana, K.</b>, Dansereau, D., Suheimat, M., Maynard, M., Atchison, D., Roberts, J., Crawford, R., & Jaiprakash, A. (2018). "Glare-free retinal imaging using a portable light field fundus camera". Biomedical Optics Express, 9, 3178 - 3192. <br />
 [[Paper]](https://www.osapublishing.org/DirectPDFAccess/0E261C73-2334-447F-B56AC34C610A1844_392666/boe-9-7-3178.pdf?da=1&id=392666&seq=0&mobile=no)
 
-4. <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sunderhauf, N. "Bayesian Controller Fusion" [In preparation for IJRR]
+4. Melnik, A., Harter, A., Limberg, C., </b>Rana, K.</b>, Sünderhauf, N., & Ritter, H. "Critic Guided Segmentation of Rewarding Objects in First Person Views". German Conference of Artificial Intelligence, 2021
+[[Paper]](#)
+
+5. <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sünderhauf, N. "Bayesian Controller Fusion" [In preparation for IJRR]
+[[Paper]](#) [[Code]](#) [[Site]](https://krishanrana.github.io/bcf)
 
 ## Patents
 
