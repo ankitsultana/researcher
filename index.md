@@ -12,30 +12,19 @@ I am a PhD researcher at the Australian Centre for Robotic Vision working on con
 
 ## Publications
 
-
-
 1. <img class="project-picture" src="images/rrn.png"> <b>Rana, K.</b>, Talbot, B., Milford, M., & Sünderhauf, N. (2020). "Residual Reactive Navigation: Combining Classical and Learned Navigation Strategies For Deployment in Unknown Environments". 2020 IEEE International Conference on Robotics and Automation (ICRA), 11493-11499. <br />
 [[Paper]](https://arxiv.org/pdf/1909.10972.pdf) [[Code]](https://github.com/krishanrana/2D_SRRN) [[Site]](https://sites.google.com/view/srrn/home)
 
-
-<img class="project-picture" src="images/mcf.png">
-
-2. <b>Rana, K.</b>, Dasagi, V., Talbot, B., Milford, M., & Sunderhauf, N. (2020). "Multiplicative Controller Fusion: Leveraging Algorithmic Priors for Sample-efficient Reinforcement Learning and Safe Sim-To-Real Transfer". 2020 International Conference on Intelligent Robots and Systems (IROS) <br />
+2. <img class="project-picture" src="images/mcf.png"> <b>Rana, K.</b>, Dasagi, V., Talbot, B., Milford, M., & Sunderhauf, N. (2020). "Multiplicative Controller Fusion: Leveraging Algorithmic Priors for Sample-efficient Reinforcement Learning and Safe Sim-To-Real Transfer". 2020 International Conference on Intelligent Robots and Systems (IROS) <br />
 [[Paper]](https://arxiv.org/abs/2003.05117) [[Code]](https://github.com/krishanrana/multiplicative_controller_fusion) [[Site]](https://sites.google.com/view/mcf-nav/home)
 
-<img class="project-picture" src="images/plen.png">
-
-3. Palmer, D.W., Coppin, T., <b>Rana, K.</b>, Dansereau, D., Suheimat, M., Maynard, M., Atchison, D., Roberts, J., Crawford, R., & Jaiprakash, A. (2018). "Glare-free retinal imaging using a portable light field fundus camera". Biomedical Optics Express, 9, 3178 - 3192. <br />
+3. <img class="project-picture" src="images/plen.png"> Palmer, D.W., Coppin, T., <b>Rana, K.</b>, Dansereau, D., Suheimat, M., Maynard, M., Atchison, D., Roberts, J., Crawford, R., & Jaiprakash, A. (2018). "Glare-free retinal imaging using a portable light field fundus camera". Biomedical Optics Express, 9, 3178 - 3192. <br />
 [[Paper]](https://www.osapublishing.org/viewmedia.cfm?seq=0&uri=boe-9-7-3178)
 
-<img class="project-picture" src="images/seg.png">
-
-4. Melnik, A., Harter, A., Limberg, C., <b>Rana, K.</b>, Sünderhauf, N., & Ritter, H. "Critic Guided Segmentation of Rewarding Objects in First Person Views". German Conference of Artificial Intelligence, 2021. <br/>
+4. <img class="project-picture" src="images/seg.png"> Melnik, A., Harter, A., Limberg, C., <b>Rana, K.</b>, Sünderhauf, N., & Ritter, H. "Critic Guided Segmentation of Rewarding Objects in First Person Views". German Conference of Artificial Intelligence, 2021. <br/>
 [[Paper]](#)
 
-<img class="project-picture" src="images/bcf.png">
-
-5. <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sünderhauf, N. "Bayesian Controller Fusion" [In preparation for IJRR] <br />
+5. <img class="project-picture" src="images/bcf.png"> <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sünderhauf, N. "Bayesian Controller Fusion" [In preparation for IJRR] <br />
 [[Paper]](#) [[Code]](#) [[Site]](https://krishanrana.github.io/bcf)
 
 ## Patents
