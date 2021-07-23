@@ -7,7 +7,7 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-I am a PhD researcher at the Australian Centre for Robotic Vision working on control and machine learning for robotics. My research focuses on deep reinforcement learning and how to effectively exploit prior and structural knowledge within the framework to guide and accelerate training. I am also interested in the safe deployment of RL policies on real robots. Feel free to contact me on [[Site]](krishan.rana@hdr.qut.edu.au)
+I am a PhD researcher at the Australian Centre for Robotic Vision working on control and machine learning for robotics. My research focuses on how to effectively exploit prior and structural knowledge in deep reinforcement learning inorder to guide and accelerate training. I am also interested in the safe deployment of RL policies on real robots. Feel free to contact me on [[Site]](krishan.rana@hdr.qut.edu.au).
 
 
 ## Publications
