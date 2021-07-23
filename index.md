@@ -7,12 +7,12 @@ layout: default
 
 <img class="profile-picture" src="profile.jpg">
 
-I am a PhD researcher at the Australian Centre for Robotic Vision working on control and machine learning for robotics. My research focuses on deep reinforcement learning and how we can effectively exploit prior and structural knowledge within the framework to guide and accelerate training, and to allow for safe real-world deployment of learnt policies. 
+I am a PhD researcher at the Australian Centre for Robotic Vision working on control and machine learning for robotics. My research focuses on deep reinforcement learning and how to effectively exploit prior and structural knowledge within the framework to guide and accelerate training. I am also interested in the safe deployment of RL policies on real robots. Feel free to contact me on [[Site]](krishan.rana@hdr.qut.edu.au)
 
 
 ## Publications
 
-1. <img class="project-picture" src="images/bcf.png"> <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sünderhauf, N. <em>"Bayesian Controller Fusion"</em> [Under review for The International Journal of Robotics Research (IJRR)] <br />
+1. <img class="project-picture" src="images/bcf.png"> <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sünderhauf, N. <em>"Bayesian Controller Fusion: Leveraging Control Priors in Deep Reinforcement Learning for Robotics"</em> [Under review for The International Journal of Robotics Research (IJRR)] <br />
 [[Paper]](https://arxiv.org/abs/2107.09822) [[Code]](#) [[Site]](https://krishanrana.github.io/bcf)
 
 2. <img class="project-picture" src="images/mcf.png"> <b>Rana, K.</b>, Dasagi, V., Talbot, B., Milford, M., & Sunderhauf, N. (2020). <em>"Multiplicative Controller Fusion: Leveraging Algorithmic Priors for Sample-efficient Reinforcement Learning and Safe Sim-To-Real Transfer"</em>. 2020 International Conference on Intelligent Robots and Systems (IROS) <br />
