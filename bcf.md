@@ -6,7 +6,7 @@ youtubeId: NjOz7-TqVlk
 tagline: Leveraging Control Priors in Deep Reinforcement Learning for Robotics
 --- 
 
-## Abstract
+## Summary
 
 <p align="center">
   <img src="/images/bcf_system.png" />
