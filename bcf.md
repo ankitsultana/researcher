@@ -8,8 +8,6 @@ tagline: Leveraging Control Priors in Deep Reinforcement Learning for Robotics
 
 ## Abstract
 
-<br/><br/>
-
 <p align="center">
   <img src="/images/bcf_system.png" />
 </p>
