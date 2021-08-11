@@ -26,7 +26,6 @@ We present Bayesian Controller Fusion (BCF): a hybrid control strategy that comb
 </p>
 <br/><br/>
 ## Citation
-
 ```
   @article{rana2021bayesian,
     title={Bayesian Controller Fusion: Leveraging Control Priors in Deep Reinforcement Learning for Robotics},
