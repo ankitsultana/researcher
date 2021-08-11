@@ -2,6 +2,7 @@
 title: Bayesian Controller Fusion
 filename: bcf/
 layout: post
+youtubeId: NjOz7-TqVlk
 tagline: Leveraging Control Priors in Deep Reinforcement Learning for Robotics
 --- 
 
@@ -13,3 +14,6 @@ We present Bayesian Controller Fusion (BCF): a hybrid control strategy that comb
   <img src="/images/bcf.png" />
 </p>
 
+<p align="center">
+{% include youtubePlayer.html id=page.youtubeId %}
+</p>
