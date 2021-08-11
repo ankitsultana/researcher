@@ -24,7 +24,7 @@ We present Bayesian Controller Fusion (BCF): a hybrid control strategy that comb
 <p align="center">
   {% include youtubePlayer.html id=page.youtubeId %}
 </p>
-
+<br/><br/>
 ## Citation
 
 ```
@@ -35,7 +35,7 @@ We present Bayesian Controller Fusion (BCF): a hybrid control strategy that comb
     year={2021}
   }
 ```
-
+<br/><br/>
 ## Research Support
 
 <p align="center">
