@@ -4,6 +4,7 @@ filename: bcf/
 layout: post
 youtubeId: NjOz7-TqVlk
 tagline: Leveraging Control Priors in Deep Reinforcement Learning for Robotics
+authors: Krishan Rana*, Vibhavari Dasagi, Jesse Haviland, Ben Talbot, Michael Milford and Niko Suenderhauf
 --- 
 
 ## Summary
