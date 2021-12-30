@@ -17,7 +17,3 @@ I do geospatial things to bad people.
 * 12 Feb 2019 \| [Government Shutdowns & Democratic Legitimacy](https://heupchurch.github.io/shutdowns-and-democracy)
 * 29 Nov 2018 \| [Geolocating Russian Anti-Ship Missiles in Occupied Crimea](https://heupchurch.github.io/kerch-strait-bal-geolocation)
 * 12 Feb 2018 \| [Enemies & Other Enemies](https://heupchurch.github.io/enemies-and-other-enemies)
-
-## Tools
-[Social Media Collections](https://github.com/heupchurch/social-media-collections)   
-[Overpass Turbo Queries](https://github.com/heupchurch/overpass_turbo_queries)
