@@ -18,10 +18,16 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Google Scholar"
-   link: "https://scholar.google.com.au/citations?user=-hYjPxsAAAAJ&hl=en&oi=ao"
  - name: "Resume"
    link: "resume.pdf"
+ - name: "Google Scholar"
+   link: "https://scholar.google.com.au/citations?user=-hYjPxsAAAAJ&hl=en&oi=ao"
+ - name: "LinkedIn"
+   link: "https://www.linkedin.com/in/krishanrana/"
+ - name: "Twitter"
+   link: "https://twitter.com/krishanranaa"
+ 
+ 
 
 # author:
 #   name:       Krishan Rana
