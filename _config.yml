@@ -1,6 +1,6 @@
-title: Elecapp
+title: Eleonora Cappuccio
 url: "http://elecapp.github.io"
-baseurl: "/Elecapp"
+baseurl: ""
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
@@ -17,7 +17,7 @@ sass:
 
 nav:
  - name: "About"
-   link: "/Elecapp/"
+   link: "http://elecapp.github.io"
  - name: "CV"
    link: "cv.pdf"
  - name: "Contact"
