@@ -1,5 +1,5 @@
-title: Researcher
-url: "https://ankitsultana.com"
+title: Elecapp
+url: "http://elecapp.github.io"
 baseurl: "/researcher"
 
 markdown: kramdown
@@ -18,7 +18,7 @@ sass:
 nav:
  - name: "About"
    link: "/researcher/"
- - name: "Resume"
-   link: "resume.pdf"
+ - name: "CV"
+   link: "cv.pdf"
  - name: "Contact"
    link: "contact"
