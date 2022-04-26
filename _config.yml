@@ -1,6 +1,6 @@
 title: Elecapp
 url: "http://elecapp.github.io"
-baseurl: "/researcher"
+baseurl: "/Elecapp"
 
 markdown: kramdown
 #ins_logo: "./bits-logo.png"
