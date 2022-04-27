@@ -30,7 +30,7 @@ Year | Institution | Cathegory | Description
 2020 | University of Amsterdam | Summer School | Tutor during the summer school organized by the [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/SummerSchool2020) 
 2020 | Politecnico di Milano | Master Degree | Master Thesis on user-generated data visualizations on Wikipedia and Commons
 2021 | Università di Pisa | Master Program | Master in Big Data Analytics and Social Mining
-2021-Ongoing | Università di Pisa | Ph.D | Ph.D students in Artificial Intelligence
+2021-Ongoing | Università di Pisa | Ph.D. | Ph.D. students in Artificial Intelligence
 
 ---
 
