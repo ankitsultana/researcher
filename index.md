@@ -2,17 +2,17 @@
 layout: default
 ---
 
-## About Me
+## About
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="cv.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+I am a Ph.D Students in Italian National Doctoral Program in Artificial Intelligence at the University of Pisa and University of Bari "Aldo Moro".
+In 2020, I completed a Master Degree in Communication Design at the Polytechnic University of Milan, developing my thesis at the DensityDesign research lab. After that, I obtained a one-year Master Degree in Big Data Analytics and Social Mining at the University of Pisa.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
 
 ## Research Interest
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
+My research Interests focus on Human Centered AI, Explainable AI and Visual Analytics . I am currently working on developing Explainable User Interfaces.
 
 ## Publications
 
@@ -25,12 +25,17 @@ This is a [link](http://google.com). Something *italics* and something **bold**.
 
 Here is a table
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
+Year | Institution | Cathegory | Description
+-----|-------|--------|--------
+2017 | Politecnico di Milano | Bachelor Degree | Bachelor Degree in Communication Design
+2018 | Centennial College | Exchange | Exchange Student in Toronto between January and May 
+2019 | Politecnico di Milano/ Harvard University| Extra-Cv Project  | I took part in a data science joint project
+2019 | University of Amsterdam| Summer School | DMI
+2020 | UNA studio | Work | I worked as a Datavisualization designer for the Antarctic resolution project
+2020 | University of Amsterdam| Summer School | DMI
+2020 | Politecnico di Milano| Master Degree |
+2021 | Università di Pisa| Master Program |
+2021-Ongoing | Università di Pisa| Ph.D in AI|
 Here is a horizontal rule
 
 ---
