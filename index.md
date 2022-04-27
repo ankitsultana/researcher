@@ -16,20 +16,8 @@ I am a member  of the [XAI research Group](https://xai-project.eu/) and [IVU lab
 My research Interests focus on Human-Centered AI, Explainable AI and Visual Analytics. 
 I am currently working on developing Explainable User Interfaces.
 
-## Publications
 
-1. De Keulenaar E., Kisjes I., Smith R., Albercht C., Wilson J., Cappuccio E. *Authority and misinformation in the process of COVID-19 sensemaking"*, 2022, - part of Mainstreaming the Fringe, Rogers R. - Amsterdam University Press - **under revision**
-2. Cappuccio E., Mauri. M. *Visualization practices on Wikipedia and Wikimedia Commons*, 2022 - **under revision**
-
-## Selected Projects
-
-Selection of some projects developed throughout the years:
-
-- [Comizi d'Amore 2.0](https://masterbigdata.it/sites/default/files/projects/2020-2021/comizi_amore/) - Final project of the Master in Big Data Analytics and Social Mining at University of Pisa, 2021
-- [Predicting Travel Trends from Italy to Cuba](https://datashack2019.github.io/alpitour-datashack2019/) - Project developed with 2 students from the Institute for Applied Computational Science (IACS), Harvard University, and 1 student from the Computer Engineering Masters Degree at Politecnico di Milano, 2019
-- [Infopoetry](https://infopoetry.densitydesign.org/) - An archive for some of the projects developed by the Students during the Final Synthesis Studio held by DensityDesign Lab at Politecnico di Milano, 2019
-
-## Education and Experiences
+## Education, Academic and work experience
 
 Year | Institution | Cathegory | Description
 -----|-------|--------|-------
@@ -46,7 +34,20 @@ Year | Institution | Cathegory | Description
 
 ---
 
-## Conference and Talk
+## Publications
+
+1. De Keulenaar E., Kisjes I., Smith R., Albercht C., Wilson J., Cappuccio E. *Authority and misinformation in the process of COVID-19 sensemaking"*, 2022, - part of Mainstreaming the Fringe, Rogers R. - Amsterdam University Press - **under revision**
+2. Cappuccio E., Mauri. M. *Visualization practices on Wikipedia and Wikimedia Commons*, 2022 - **under revision**
+
+## Selected Projects
+
+Selection of some projects developed throughout the years:
+
+- [Comizi d'Amore 2.0](https://masterbigdata.it/sites/default/files/projects/2020-2021/comizi_amore/) - Final project of the Master in Big Data Analytics and Social Mining at University of Pisa, 2021
+- [Predicting Travel Trends from Italy to Cuba](https://datashack2019.github.io/alpitour-datashack2019/) - Project developed with 2 students from the Institute for Applied Computational Science (IACS), Harvard University, and 1 student from the Computer Engineering Masters Degree at Politecnico di Milano, 2019
+- [Infopoetry](https://infopoetry.densitydesign.org/) - An archive for some of the projects developed by the Students during the Final Synthesis Studio held by DensityDesign Lab at Politecnico di Milano, 2019
+
+## Conferences and Talks
 
 - [IUI Conference 2022](https://iui.acm.org/2022/),**As Audience**
 - [ItWikiCon2020](https://2020.itwikicon.org/), Talk: "La data visualization sui progetti Wikimedia", Speaker
