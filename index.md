@@ -4,7 +4,7 @@ layout: default
 
 ## About
 
-<img class="profile-picture" src="foto_cv.jpeg">
+<img class="profile-picture" src="foto.jpeg">
 
 I am a Ph.D. Student in the Italian National Doctoral Program in Artificial Intelligence at the University of Pisa and University of Bari "Aldo Moro".
 In 2020, I completed a Master's Degree in Communication Design at the Polytechnic University of Milan, developing my thesis at the DensityDesign research lab. After that, I obtained a one-year Master Degree in Big Data Analytics and Social Mining at the University of Pisa.
