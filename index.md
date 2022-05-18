@@ -8,13 +8,13 @@ layout: default
 
 I am a Ph.D. Student in the Italian National Doctoral Program in Artificial Intelligence at the University of Pisa and University of Bari "Aldo Moro".
 In 2020, I completed a Master's Degree in Communication Design at the Polytechnic University of Milan, developing my thesis at the DensityDesign research lab. After that, I obtained a one-year Master Degree in Big Data Analytics and Social Mining at the University of Pisa.
-I am a member  of the [XAI research Group](https://xai-project.eu/) and [IVU lab](http://ivu.di.uniba.it/)
+I am a member  of the [XAI research Group](https://xai-project.eu/) and [IVU lab](http://ivu.di.uniba.it/).
 
 
-## Research Interest
+## Research Interests
 
 My research Interests focus on Human-Centered AI, Explainable AI and Visual Analytics. 
-I am currently working on developing Explainable User Interfaces.
+I am currently working on Explainable User Interfaces.
 
 
 ## Education, Academic and work experience
@@ -30,7 +30,7 @@ Year | Institution | Cathegory | Description
 2020 | University of Amsterdam | Summer School | Tutor during the summer school organized by the [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/SummerSchool2020) 
 2020 | Politecnico di Milano | Master Degree | Master Thesis on user-generated data visualizations on Wikipedia and Commons
 2021 | Università di Pisa | Master Program | Master in Big Data Analytics and Social Mining
-2021-Ongoing | Università di Pisa | Ph.D. | Ph.D. students in Artificial Intelligence
+2021-Ongoing | Università di Pisa | Ph.D. | Ph.D. student in Artificial Intelligence
 
 ---
 
