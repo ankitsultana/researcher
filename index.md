@@ -48,6 +48,6 @@ Selection of some projects developed throughout the years:
 - [Infopoetry](https://infopoetry.densitydesign.org/) - An archive for some of the projects developed by the Students during the Final Synthesis Studio held by DensityDesign Lab at Politecnico di Milano, 2019
 
 ## Conferences and Talks
-
-- [IUI Conference 2022](https://iui.acm.org/2022/),**As Audience**
-- [ItWikiCon2020](https://2020.itwikicon.org/), Talk: "La data visualization sui progetti Wikimedia", Speaker
+- [EuroVis2022 Conference 2022](https://www.eurovis.org/), in presence **As Audience**
+- [IUI Conference 2022](https://iui.acm.org/2022/),online, **As Audience**
+- [ItWikiCon2020](https://2020.itwikicon.org/),online, Talk: "La data visualization sui progetti Wikimedia", Speaker
