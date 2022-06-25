@@ -21,7 +21,6 @@ I am currently studying and developing Explanation User Interfaces.
 
 Year | Institution | Cathegory | Description
 -----|-------|--------|-------
-
 2021-Ongoing | Università di Pisa | Ph.D. | Ph.D. student in Artificial Intelligence
 2021 | Università di Pisa | Master Program | Master in Big Data Analytics and Social Mining
 2020 | Politecnico di Milano | Master Degree | Master Thesis on user-generated data visualizations on Wikipedia and Commons
