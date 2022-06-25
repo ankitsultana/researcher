@@ -14,7 +14,7 @@ I am a member  of the [XAI research Group](https://xai-project.eu/) and [IVU lab
 ## Research Interests
 
 My research Interests focus on Human-Centered AI, Explainable AI and Visual Analytics. 
-I am currently working on Explainable User Interfaces.
+I am currently studying and developing Explanation User Interfaces.
 
 
 ## Education, Academic and work experience
