@@ -21,16 +21,17 @@ I am currently studying and developing Explanation User Interfaces.
 
 Year | Institution | Cathegory | Description
 -----|-------|--------|-------
-2017 | Politecnico di Milano | Bachelor Degree | Bachelor Degree in Communication Design
-2018 | Centennial College | Exchange | Exchange Student in Toronto, Interactive Media Management Master
-2019 | Politecnico di Milano/ Harvard University| Project  | Participated to a [joint data science project](http://datashack.deib.polimi.it/) between 4 students from the Institute for Applied Computational Science (IACS) of Harvard and 4 students from the Communication Design and Computer Engineering Masters Degree at Politecnico di Milano.
-2019 | Politecnico di Milano | Internship | Intern at [Density Design Research Lab](https://densitydesign.org/)
-2019 | University of Amsterdam | Summer School | Tutor during the summer school organized by the [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/SummerSchool2019)
-2020 | UNA studio | Work | Data visualization designer for the [Antarctic resolution project](https://www.lars-mueller-publishers.com/antarctic-resolution)
-2020 | University of Amsterdam | Summer School | Tutor during the summer school organized by the [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/SummerSchool2020) 
-2020 | Politecnico di Milano | Master Degree | Master Thesis on user-generated data visualizations on Wikipedia and Commons
-2021 | Università di Pisa | Master Program | Master in Big Data Analytics and Social Mining
+
 2021-Ongoing | Università di Pisa | Ph.D. | Ph.D. student in Artificial Intelligence
+2021 | Università di Pisa | Master Program | Master in Big Data Analytics and Social Mining
+2020 | Politecnico di Milano | Master Degree | Master Thesis on user-generated data visualizations on Wikipedia and Commons
+2020 | University of Amsterdam | Summer School | Tutor during the summer school organized by the [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/SummerSchool2020) 
+2020 | UNA studio | Work | Data visualization designer for the [Antarctic resolution project](https://www.lars-mueller-publishers.com/antarctic-resolution)
+2019 | University of Amsterdam | Summer School | Tutor during the summer school organized by the [Digital Methods Initiative](https://wiki.digitalmethods.net/Dmi/SummerSchool2019)
+2019 | Politecnico di Milano | Internship | Intern at [Density Design Research Lab](https://densitydesign.org/)
+2019 | Politecnico di Milano/ Harvard University| Project  | Participated to a [joint data science project](http://datashack.deib.polimi.it/) between 4 students from the Institute for Applied Computational Science (IACS) of Harvard and 4 students from the Communication Design and Computer Engineering Masters Degree at Politecnico di Milano.
+2018 | Centennial College | Exchange | Exchange Student in Toronto, Interactive Media Management Master
+2017 | Politecnico di Milano | Bachelor Degree | Bachelor Degree in Communication Design
 
 ---
 
