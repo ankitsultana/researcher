@@ -51,3 +51,8 @@ Selection of some projects developed throughout the years:
 - [EuroVis Conference 2022](https://www.eurovis.org/), in presence **As Audience**
 - [IUI Conference 2022](https://iui.acm.org/2022/),online, **As Audience**
 - [ItWikiCon2020](https://2020.itwikicon.org/),online, Talk: "La data visualization sui progetti Wikimedia", Speaker
+
+## Summer and Winter Schools
+- [AI & Society Summer School](https://phd-ai-society.di.unipi.it/summer-schools/ph-d-ai-society-summer-school-2022/), Pisa - July 2022
+- [Lipary Summer School 2022 on Data Science: Models, Algorithms, AI and Beyond](https://complex22.liparischool.it/), Lipari - July 2022
+- [AFIRMCHI 2022 -  secon biennial Franco-Italian young Researcher Meetup in Computer-Human Interaction](https://afirmchi2022.afihm.org/), Padova - August 2022
