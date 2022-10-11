@@ -9,13 +9,10 @@ authors: Krishan Rana*, Ming Xu, Brendan Tidd, Michael Milford and Niko Suenderh
 
 ## Summary
 
-<br/><br/>
 Skill-based reinforcement learning (RL) has emerged as a promising strategy to leverage prior knowledge for accelerated robot learning. Skills are typically extracted from expert demonstrations and are embedded into a latent space from which they can be sampled as actions by a high-level RL agent. However, this <it>skill space<\it> is expansive, and not all skills are relevant for a given robot state, making exploration difficult. Furthermore, the downstream RL agent is limited to learning structurally similar tasks to those used to construct the skill space. We firstly propose accelerating exploration in the skill space using state-conditioned generative models to directly bias the high-level agent towards <it>sampling<\it> skills relevant to a given state based on prior experience. Next, we propose a low-level residual policy for fine-grained <it>skill adaptation<\it> enabling downstream RL agents to adapt to unseen task variations. Finally, we validate our approach across four challenging manipulation tasks that differ from those used to build the skill space, demonstrating our ability to learn across task variations while significantly accelerating exploration, outperforming prior works.
 <br/><br/>
 
 ## Skill Extraction from Classical Controllers
-
-<br/><br/>
   
 <p align="center">
   <img src="/images/skill_extraction.png" />
@@ -38,10 +35,8 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 <br/><br/>
   
 ## Residual Skill Policies
-  
-<br/><br/>
-  
- <p align="center">
+    
+<p align="center">
   <img src="/images/reskill.png" />
 </p>
 <p align="center">
@@ -51,8 +46,6 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 <br/><br/>
  
 ## Results
-
-<br/><br/>
 
 
 <br/><br/>
