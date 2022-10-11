@@ -57,7 +57,7 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 
 <br/><br/>
 
-#### Skill Adaptation to Task Variations Using the Low-Level Residual Policy
+### Skill Adaptation to Task Variations Using the Low-Level Residual Policy
 
 
 <p align="center"> 
