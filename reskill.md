@@ -83,9 +83,9 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
     <img src="/images/stacking.gif" style="width:auto;height:30%;"/>
 </p>
 
-Solarized dark             |  Solarized Ocean          |    waqewq                 |      weweq               |
+Table-Cleanup         |  Slippery Push        |   Pyramid-Stack                 |      Complex-Hook               |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](/images/table_cleanup_no_res_2.gif)  |  ![](/images/table_cleanup_no_res_2.gif) | ![](/images/table_cleanup_no_res_2.gif)  |  ![](/images/table_cleanup_no_res_2.gif)
+![](/images/table_cleanup_no_res_2.gif)  |  ![](/images/slippery_push_no_res.gif) | ![](/images/stacking_no_res.gif)  |  ![](/images/stacking.gif)
 
 
 
