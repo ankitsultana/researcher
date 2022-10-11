@@ -91,15 +91,6 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 <img src="/images/complex_hook.gif" width="23%"/>
 </p>
 
-
-<!-- ![alt-text-2](/images/table-cleanup.gif "title-2" =75%x) -->
-
-<!--  Table-Cleanup         |  Slippery Push        |   Pyramid-Stack                 |      Complex-Hook               |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](/images/table-cleanup.gif)  |  ![](/images/slippery_push2.gif) | ![](/images/stacking.gif)  |  ![](/images/stacking.gif)
- -->
- 
-
 <p align="center"> 
   With Low-Level Residual Policy (ReSkill)
 </p>
@@ -125,8 +116,7 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 </div>
 </p>
  -->
-
-
+ 
 <p align="center">
 <img src="/images/table_cleanup_no_res_2.gif" width="23%"/>
 <img src="/images/slippery_push_no_res.gif" width="23%"/>
@@ -134,16 +124,10 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 <img src="/images/complex_hook_no_res.gif" width="23%"/>
 </p>
 
-
-<!-- Table-Cleanup         |  Slippery Push        |   Pyramid-Stack                 |      Complex-Hook               |
-:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](/images/table_cleanup_no_res_2.gif)  |  ![](/images/slippery_push_no_res.gif) | ![](/images/stacking_no_res.gif)  |  ![](/images/stacking.gif)
-
- -->
  
----
 
 ## Citation
+
 ```
   @article{rana2022reskill,
     title={Residual Skill Policies: Learning an Adaptable Skill-based Action Space for Reinforcement Learning for Robotics},
