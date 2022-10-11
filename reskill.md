@@ -106,7 +106,7 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 
 <p align="center">
 <div>
-    <div>
+    <div style="display: inline-block;">
         <h3>sample title</h3>
         <img src="/images/table_cleanup_no_res_2.gif" width="23%">
     </div>
@@ -116,6 +116,15 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 <img src="/images/stacking.gif" width="23%"/>
 </div>
 </p>
+
+
+
+<!-- <p align="center">
+<img src="/images/table_cleanup_no_res_2.gif" width="23%"/>
+<img src="/images/slippery_push_no_res.gif" width="23%"/>
+<img src="/images/stacking_no_res.gif" width="23%"/>
+<img src="/images/stacking.gif" width="23%"/>
+</p> -->
 
 
 <!-- Table-Cleanup         |  Slippery Push        |   Pyramid-Stack                 |      Complex-Hook               |
