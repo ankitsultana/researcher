@@ -22,8 +22,8 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
     <em>We decompose trajectories produced by a classical controller into task agnostic skills. To increase the diversity of skills extracted we add smooth, correlated Perlin noise to the action outputs from the controller.</em>
 </p>
   
-
- ## Learning a State-Conditioned Skill Space
+  
+## Learning a State-Conditioned Skill Space
   
  <p align="center">
   <img src="/images/skill_module.png" />
@@ -32,7 +32,7 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
     <em>We train a VAE embedding module that encodes skills into a latent embedding space Z. This module is comprised of an encoder and closed-loop decoder, where the decoder recovers atomic actions from a latent skill embedding z. The state-conditioned skill prior module is used to generate relevant skills for a given robot state which the downstream Rl agent can directly sample from. This conditional density is multimodal in the skill-space and we estimate it using normalising flows. Both modules are trained jointly with the coloured arrows illustrating the gradient flow between them.</em>
 </p>
   
- ## Residual Skill Policies
+## Residual Skill Policies
   
  <p align="center">
   <img src="/images/reskill.png" />
