@@ -66,9 +66,12 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 </p>
 
 <table style="border:1px solid black;margin-left:auto;margin-right:auto;">
-    <tr>
+<tr>
     <td style="padding:10px">
 	    <img src="/images/table-cleanup.gif" width="200"/>
+    </td>
+    <td style="padding:10px">
+	<img src="/images/table-cleanup.gif" width="200"/>
     </td>
     <td style="padding:10px">
 	<img src="/images/table-cleanup.gif" width="200"/>
