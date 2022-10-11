@@ -65,9 +65,9 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
   Without Low-Level Residual Policy
 </p>
 
-![alt-text-1](/images/table-cleanup.gif)
+![alt-text-1](/images/table-cleanup.gif "title-1" =20%x)
 
-<!-- "title-1" =20%x) ![alt-text-2](/images/table-cleanup.gif "title-2" =75%x) -->
+<!-- ![alt-text-2](/images/table-cleanup.gif "title-2" =75%x) -->
 
 <!-- Table-Cleanup         |  Slippery Push        |   Pyramid-Stack                 |      Complex-Hook               |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
