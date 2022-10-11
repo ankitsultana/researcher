@@ -67,7 +67,7 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 
 Table-Cleanup         |  Slippery Push        |   Pyramid-Stack                 |      Complex-Hook               |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-![](/images/table_cleanup.gif)  |  ![](/images/slippery_push2.gif) | ![](/images/stacking.gif)  |  ![](/images/stacking.gif)
+![](/images/table-cleanup.gif)  |  ![](/images/slippery_push2.gif) | ![](/images/stacking.gif)  |  ![](/images/stacking.gif)
 
 <p align="center"> 
   With Low-Level Residual Policy (ReSkill)
