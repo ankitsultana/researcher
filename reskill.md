@@ -78,7 +78,6 @@ Table-Cleanup         |  Slippery Push        |   Pyramid-Stack                 
 ![](/images/table_cleanup_no_res_2.gif)  |  ![](/images/slippery_push_no_res.gif) | ![](/images/stacking_no_res.gif)  |  ![](/images/stacking.gif)
 
 
-
 ## Citation
 ```
   @article{rana2022reskill,
