@@ -55,8 +55,13 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
   <img src="/images/reskill_training_curves_ablation.png" />
 </p>
 
-
 <br/><br/>
+
+<p float="left">
+  <img src="/skill_extraction.png" width="100" />
+  <img src="/skill_extraction.png" width="100" /> 
+  <img src="/skill_extraction.png" width="100" />
+</p>
 
 ## Citation
 ```
