@@ -1,5 +1,5 @@
 ---
-title: Residual Skill Polcies
+title: Residual Skill Policies
 filename: reskill/
 layout: reskill
 youtubeId: NjOz7-TqVlk
