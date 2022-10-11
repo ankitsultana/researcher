@@ -75,15 +75,24 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 
 <!-- ![alt-text-2](/images/table-cleanup.gif "title-2" =75%x) -->
 
-<!-- Table-Cleanup         |  Slippery Push        |   Pyramid-Stack                 |      Complex-Hook               |
+<!--  Table-Cleanup         |  Slippery Push        |   Pyramid-Stack                 |      Complex-Hook               |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](/images/table-cleanup.gif)  |  ![](/images/slippery_push2.gif) | ![](/images/stacking.gif)  |  ![](/images/stacking.gif)
-
+ -->
+ 
 <p align="center"> 
   With Low-Level Residual Policy (ReSkill)
 </p>
 
-Table-Cleanup         |  Slippery Push        |   Pyramid-Stack                 |      Complex-Hook               |
+<p align="center">
+<img src="/images/table_cleanup_no_res.gif" width="200"/>
+<img src="/images/slippery_push_no_res.gif" width="200"/>
+<img src="/images/stacking_no_res.gif" width="200"/>
+<img src="/images/stacking.gif" width="200"/>
+</p>
+
+
+<!-- Table-Cleanup         |  Slippery Push        |   Pyramid-Stack                 |      Complex-Hook               |
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
 ![](/images/table_cleanup_no_res_2.gif)  |  ![](/images/slippery_push_no_res.gif) | ![](/images/stacking_no_res.gif)  |  ![](/images/stacking.gif)
 
