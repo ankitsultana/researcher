@@ -1,7 +1,7 @@
 ---
 title: Residual Skill Polcies
 filename: reskill/
-layout: post
+layout: reskill
 youtubeId: NjOz7-TqVlk
 tagline: Learning an Adaptable Skill-based Action Space for Reinforcement Learning for Robotics
 authors: Krishan Rana*, Ming Xu, Brendan Tidd, Michael Milford and Niko Suenderhauf
