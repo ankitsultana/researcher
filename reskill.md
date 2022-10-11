@@ -37,7 +37,7 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 ## Adaptable and Guided Skill Based Reinforcement Learning
     
 <p align="center">
-  <img src="/images/reskill.png" />
+  <img src="/images/reskill.png" width="800" />
 </p>
 <p align="center">
     <em>A skill-based learning framework for robotics. The skill prior guides exploration by transforming the agent's action space to a state-conditioned skill-space using normalising flows, where only the relevant skills for the current state are explored. The residual policy allows for fine-grained adaptation of the skills to environment variations and unseen tasks. The snowflake symbol signifies that the pre-trained weights for the skill modules are frozen during downstream task learning.</em>
