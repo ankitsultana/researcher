@@ -9,15 +9,7 @@
     <section class="main-content">
       
       {{ content }}
-
-     <section class="page-header">
-      <h1 class="project-name">{{ page.title }}</h1>
-      <h2 class="project-tagline"><b>{{ page.tagline }}</b></h2>
-      <h2 class="project-tagline">{{ page.authors }}</h2>
-      <a href="https://openreview.net/pdf?id=BVZdCKCy3W" class="btn">Paper</a>
-      <a href="https://github.com/krishanrana/reskill" class="btn">Code</a>
-    </section>
-
+      {% include page-footer.html %}
     </section>
 
   </body>
