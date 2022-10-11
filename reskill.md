@@ -14,6 +14,8 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 <br/><br/>
 
 ## Skill Extraction from Classical Controllers
+
+<br/><br/>
   
 <p align="center">
   <img src="/images/skill_extraction.png" />
@@ -32,7 +34,11 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
     <em>We train a VAE embedding module that encodes skills into a latent embedding space Z. This module is comprised of an encoder and closed-loop decoder, where the decoder recovers atomic actions from a latent skill embedding z. The state-conditioned skill prior module is used to generate relevant skills for a given robot state which the downstream Rl agent can directly sample from. This conditional density is multimodal in the skill-space and we estimate it using normalising flows. Both modules are trained jointly with the coloured arrows illustrating the gradient flow between them.</em>
 </p>
   
+<br/><br/>
+  
 ## Residual Skill Policies
+  
+<br/><br/>
   
  <p align="center">
   <img src="/images/reskill.png" />
@@ -40,10 +46,15 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 <p align="center">
     <em>A skill-based learning framework for robotics. The skill prior transforms the agent's action space to a state-conditioned skill-space using normalising flows, where only the relevant skills for the current state are explored. The residual policy allows for fine-grained adaptation of the skills to environment variations and unseen tasks. The snowflake symbol signifies that the pre-trained weights for the skill modules are frozen during downstream task learning.</em>
 </p>
+  
+<br/><br/>
  
 ## Results
 
+<br/><br/>
 
+
+<br/><br/>
 
 ## Citation
 ```
