@@ -65,7 +65,18 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
   Without Low-Level Residual Policy
 </p>
 
-![img|20%](/images/table-cleanup.gif) ![img|20%](/images/table-cleanup.gif) ![img|20%](/images/table-cleanup.gif) ![img|20%](/images/table-cleanup.gif)
+<div style="display:flex">
+     <div style="flex:1;padding-right:10px;">
+          <img src="/images/table-cleanup.gif" width="200"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="/images/table-cleanup.gif" width="300"/>
+     </div>
+     <div style="flex:1;padding-left:10px;">
+          <img src="/images/table-cleanup.gif" width="400"/>
+     </div>
+</div>
+
 
 <!-- ![alt-text-2](/images/table-cleanup.gif "title-2" =75%x) -->
 
