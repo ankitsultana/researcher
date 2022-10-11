@@ -1,10 +1,10 @@
 ---
-title: Bayesian Controller Fusion
-filename: bcf/
+title: Residual Skill Polcies
+filename: reskill/
 layout: post
 youtubeId: NjOz7-TqVlk
-tagline: Leveraging Control Priors in Deep Reinforcement Learning for Robotics
-authors: Krishan Rana*, Vibhavari Dasagi, Jesse Haviland, Ben Talbot, Michael Milford and Niko Suenderhauf
+tagline: Learning an Adaptable Skill-based Action Space for Reinforcement Learning for Robotics
+authors: Krishan Rana*, Ming Xu, Brendan Tidd, Michael Milford and Niko Suenderhauf
 --- 
 
 ## Summary
@@ -13,11 +13,11 @@ authors: Krishan Rana*, Vibhavari Dasagi, Jesse Haviland, Ben Talbot, Michael Mi
   <img src="/images/bcf_system.png" />
 </p>
 <p align="center">
-    <em>Bayesian Controller Fusion System Diagram</em>
+    <em>Residual Skill Policies Framework</em>
 </p>
 
 <br/><br/>
-We present Bayesian Controller Fusion (BCF): a hybrid control strategy that combines the strengths of traditional hand-crafted controllers and model-free deep reinforcement learning (RL). BCF thrives in the robotics domain, where reliable but suboptimal control priors exist for many tasks, but RL from scratch remains unsafe and data-inefficient. By fusing uncertainty-aware distributional outputs from each system, BCF arbitrates control between them, exploiting their respective strengths. We study BCF on two real-world robotics tasks involving navigation in a vast and long-horizon environment, and a complex reaching task that involves manipulability maximisation. For both these domains, there exist simple handcrafted controllers that can solve the task at hand in a risk-averse manner but do not necessarily exhibit the optimal solution given limitations in analytical modelling, controller miscalibration and task variation. As exploration is naturally guided by the prior in the early stages of training, BCF accelerates learning, while substantially improving beyond the performance of the control prior, as the policy gains more experience. More importantly, given the risk-aversity of the control prior, BCF ensures safe exploration and deployment, where the control prior naturally dominates the action distribution in states unknown to the policy. We additionally show BCF's applicability to the zero-shot sim-to-real setting and its ability to deal with out-of-distribution states in the real-world. BCF is a promising approach for combining the complementary strengths of deep RL and traditional robotic control, surpassing what either can achieve independently.
+Skill-based reinforcement learning (RL) has emerged as a promising strategy to leverage prior knowledge for accelerated robot learning. Skills are typically extracted from expert demonstrations and are embedded into a latent space from which they can be sampled as actions by a high-level RL agent. However, this <it>skill space<\it> is expansive, and not all skills are relevant for a given robot state, making exploration difficult. Furthermore, the downstream RL agent is limited to learning structurally similar tasks to those used to construct the skill space. We firstly propose accelerating exploration in the skill space using state-conditioned generative models to directly bias the high-level agent towards <it>sampling<\it> skills relevant to a given state based on prior experience. Next, we propose a low-level residual policy for fine-grained <it>skill adaptation<\it> enabling downstream RL agents to adapt to unseen task variations. Finally, we validate our approach across four challenging manipulation tasks that differ from those used to build the skill space, demonstrating our ability to learn across task variations while significantly accelerating exploration, outperforming prior works.
 <br/><br/>
 
 ## Supplementary Video
@@ -29,11 +29,11 @@ We present Bayesian Controller Fusion (BCF): a hybrid control strategy that comb
 
 ## Citation
 ```
-  @article{rana2021bayesian,
-    title={Bayesian Controller Fusion: Leveraging Control Priors in Deep Reinforcement Learning for Robotics},
-    author={Rana, Krishan and Dasagi, Vibhavari and Haviland, Jesse and Talbot, Ben and Milford, Michael and S{\"u}nderhauf, Niko},
-    journal={arXiv preprint arXiv:2107.09822},
-    year={2021}
+  @article{rana2022reskill,
+    title={Residual Skill Policies: Learning an Adaptable Skill-based Action Space for Reinforcement Learning for Robotics},
+    author={Rana, Krishan and Xu, Ming and Tidd, Brendan and Milford, Michael and S{\"u}nderhauf, Niko},
+    journal={Conference on Robot Learning (CoRL) 2022},
+    year={2022}
   }
 ```
 <br/><br/>
