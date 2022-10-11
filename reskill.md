@@ -15,7 +15,7 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 ## Skill Extraction from Classical Controllers
   
 <p align="center">
-  <img src="/images/skill_extraction.png" width="200" />
+  <img src="/images/skill_extraction.png" width="800" />
 </p>
 <p align="center">
     <em>We decompose trajectories produced by a classical controller into task agnostic skills. To increase the diversity of skills extracted we add smooth, correlated Perlin noise to the action outputs from the controller.</em>
