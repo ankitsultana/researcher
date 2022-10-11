@@ -62,6 +62,9 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 <p align="center">
   <img src="/images/exploration_trajectories_horizontal.png" />
 </p>
+  <p align="center">
+    <em> Exploratory Trajectories. We plot the trajectories taken by four different strategies used in skill-based and single-step RL approaches. Note how the skill prior significantly directs the exploratory trajectories towards the object in the environment while still allowing the agent to explore a diverse set of surrounding skills.</em>
+</p>
 
 
 ### Skill Adaptation to Task Variations Using the Low-Level Residual Policy
