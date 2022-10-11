@@ -57,6 +57,13 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 
 <br/><br/>
 
+### Guided Exploration Using the State-Conditioned Skill Prior
+
+<p align="center">
+  <img src="/images/exploration_trajectories_horizontal.png" />
+</p>
+
+
 ### Skill Adaptation to Task Variations Using the Low-Level Residual Policy
 
 <p align="center"> 
