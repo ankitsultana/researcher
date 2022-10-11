@@ -83,9 +83,9 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
     <img src="/images/stacking.gif" style="width:auto;height:30%;"/>
 </p>
 
-Solarized dark             |  Solarized Ocean
-:-------------------------:|:-------------------------:
-![](/images/table_cleanup_no_res_2.gif)  |  ![](/images/table_cleanup_no_res_2.gif)
+Solarized dark             |  Solarized Ocean          |    waqewq                 |      weweq               |
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](/images/table_cleanup_no_res_2.gif)  |  ![](/images/table_cleanup_no_res_2.gif) | ![](/images/table_cleanup_no_res_2.gif)  |  ![](/images/table_cleanup_no_res_2.gif)
 
 
 
