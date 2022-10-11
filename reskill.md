@@ -62,10 +62,6 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
   <img src="/images/slippery_push2.gif" width="200" height="200" /> 
   <img src="/images/stacking.gif" width="200" height="200"/>
   <img src="/images/stacking.gif" width="200" height="200"/>
-  
-  width: 100%;
-  height: auto;
-  
 </p>
 
 ## Citation
