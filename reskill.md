@@ -29,7 +29,7 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
   <img src="/images/skill_module.png" />
 </p>
 <p align="center">
-    <em>We train a VAE embedding module that encodes skills into a latent embedding space Z. This module is comprised of an encoder and closed-loop decoder, where the decoder recovers atomic actions from a latent skill embedding z. The state-conditioned skill prior module is used to generate relevant skills for a given robot state which the downstream Rl agent can directly sample from. This conditional density is multimodal in the skill-space and we estimate it using normalising flows. Both modules are trained jointly with the coloured arrows illustrating the gradient flow between them.</em>
+    We train a VAE embedding module that encodes skills into a latent embedding space Z. This module is comprised of an encoder and closed-loop decoder, where the decoder recovers atomic actions from a latent skill embedding z. The state-conditioned skill prior module is used to generate relevant skills for a given robot state which the downstream Rl agent can directly sample from. This conditional density is multimodal in the skill-space and we estimate it using normalising flows. Both modules are trained jointly with the coloured arrows illustrating the gradient flow between them.
 </p>
   
 <br/><br/>
@@ -40,7 +40,7 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
   <img src="/images/reskill.png" width="800" />
 </p>
 <p align="center">
-    <em>A skill-based learning framework for robotics. The skill prior guides exploration by transforming the agent's action space to a state-conditioned skill-space using normalising flows, where only the relevant skills for the current state are explored. The residual policy allows for fine-grained adaptation of the skills to environment variations and unseen tasks. The snowflake symbol signifies that the pre-trained weights for the skill modules are frozen during downstream task learning.</em>
+    A skill-based learning framework for robotics. The skill prior guides exploration by transforming the agent's action space to a state-conditioned skill-space using normalising flows, where only the relevant skills for the current state are explored. The residual policy allows for fine-grained adaptation of the skills to environment variations and unseen tasks. The snowflake symbol signifies that the pre-trained weights for the skill modules are frozen during downstream task learning.
 </p>
   
 <br/><br/>
@@ -63,7 +63,7 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
   <img src="/images/exploration_trajectories_horizontal.png" />
 </p>
   <p align="center">
-    <em> Exploratory Trajectories. We plot the trajectories taken by four different strategies used in skill-based and single-step RL approaches. Note how the skill prior significantly directs the exploratory trajectories towards the object in the environment while still allowing the agent to explore a diverse set of surrounding skills.</em>
+   Exploratory trajectories taken during the early stages of training. We plot the trajectories taken by four different strategies used in skill-based and single-step RL approaches. Note how the skill prior significantly directs the exploratory trajectories towards the object in the environment while still allowing the agent to explore a diverse set of surrounding skills.
 </p>
 <br/><br/>
 
