@@ -70,7 +70,7 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
     <td>
 	<figure>
 	<img src="/images/table-cleanup.gif" width="200"/>
-	    <figcaption>Fig.1 - Trulli, Puglia, Italy.</figcaption>
+	<figcaption>Table-Cleanup</figcaption>
 	</figure>
     </td>
     <td >
