@@ -23,7 +23,8 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 <p align="center">
     <em>We decompose trajectories produced by a classical controller into task agnostic skills. To increase the diversity of skills extracted we add smooth, correlated Perlin noise to the action outputs from the controller.</em>
 </p>
-  
+
+<br/><br/>
   
 ## Learning a State-Conditioned Skill Space
   
