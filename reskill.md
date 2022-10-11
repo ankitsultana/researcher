@@ -9,23 +9,41 @@ authors: Krishan Rana*, Ming Xu, Brendan Tidd, Michael Milford and Niko Suenderh
 
 ## Summary
 
-<p align="center">
-  <img src="/images/bcf_system.png" />
-</p>
-<p align="center">
-    <em>Residual Skill Policies Framework</em>
-</p>
-
 <br/><br/>
 Skill-based reinforcement learning (RL) has emerged as a promising strategy to leverage prior knowledge for accelerated robot learning. Skills are typically extracted from expert demonstrations and are embedded into a latent space from which they can be sampled as actions by a high-level RL agent. However, this <it>skill space<\it> is expansive, and not all skills are relevant for a given robot state, making exploration difficult. Furthermore, the downstream RL agent is limited to learning structurally similar tasks to those used to construct the skill space. We firstly propose accelerating exploration in the skill space using state-conditioned generative models to directly bias the high-level agent towards <it>sampling<\it> skills relevant to a given state based on prior experience. Next, we propose a low-level residual policy for fine-grained <it>skill adaptation<\it> enabling downstream RL agents to adapt to unseen task variations. Finally, we validate our approach across four challenging manipulation tasks that differ from those used to build the skill space, demonstrating our ability to learn across task variations while significantly accelerating exploration, outperforming prior works.
 <br/><br/>
 
-## Supplementary Video
-
+## Skill Extraction from Classical Controllers
+  
 <p align="center">
-  {% include youtubePlayer.html id=page.youtubeId %}
+  <img src="/images/skill_extraction.png" />
 </p>
-<br/><br/>
+<p align="center">
+    <em>We decompose trajectories produced by a classical controller into task agnostic skills. To increase the diversity of skills extracted we add smooth, correlated Perlin noise to the action outputs from the controller.</em>
+</p>
+  
+
+ ## Learning a State-Conditioned Skill Space
+  
+ <p align="center">
+  <img src="/images/skill_module.png" />
+</p>
+<p align="center">
+    <em>We train a VAE embedding module that encodes skills into a latent embedding space Z. This module is comprised of an encoder and closed-loop decoder, where the decoder recovers atomic actions from a latent skill embedding z. The state-conditioned skill prior module is used to generate relevant skills for a given robot state which the downstream Rl agent can directly sample from. This conditional density is multimodal in the skill-space and we estimate it using normalising flows. Both modules are trained jointly with the coloured arrows illustrating the gradient flow between them.</em>
+</p>
+  
+ ## Residual Skill Policies
+  
+ <p align="center">
+  <img src="/images/reskill.png" />
+</p>
+<p align="center">
+    <em>A skill-based learning framework for robotics. The skill prior transforms the agent's action space to a state-conditioned skill-space using normalising flows, where only the relevant skills for the current state are explored. The residual policy allows for fine-grained adaptation of the skills to environment variations and unseen tasks. The snowflake symbol signifies that the pre-trained weights for the skill modules are frozen during downstream task learning.</em>
+</p>
+ 
+## Results
+
+
 
 ## Citation
 ```
