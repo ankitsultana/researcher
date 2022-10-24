@@ -40,7 +40,7 @@ Skill-based reinforcement learning (RL) has emerged as a promising strategy to l
 
 ---
   
-## Adaptable and Guided Skill Based Reinforcement Learning
+## Adaptable and Guided Skill-Based Reinforcement Learning
     
 <p align="center">
   <img src="/images/reskill.png" width="800" />
