@@ -19,7 +19,7 @@ I am a PhD researcher at the Australian Centre for Robotic Vision working on con
 [[Paper]](https://arxiv.org/abs/2112.05299) [[Code]](https://github.com/krishanrana/bcf) [[Site]](https://krishanrana.github.io/bcf)
 
 3. <img class="project-picture" src="images/bcf.png"> <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sünderhauf, N. <em>"Bayesian Controller Fusion: Leveraging Control Priors in Deep Reinforcement Learning for Robotics"</em> [Under review for The International Journal of Robotics Research (IJRR)] <br />
-[[Paper]](https://arxiv.org/abs/2107.09822) [[Code]](#) [[Site]](https://krishanrana.github.io/bcf)
+[[Paper]](https://arxiv.org/abs/2107.09822) [[Code]](https://github.com/krishanrana/bcf) [[Site]](https://krishanrana.github.io/bcf)
 
 4. <img class="project-picture" src="images/mcf.png"> <b>Rana, K.</b>, Dasagi, V., Talbot, B., Milford, M., & Sunderhauf, N. (2020). <em>"Multiplicative Controller Fusion: Leveraging Algorithmic Priors for Sample-efficient Reinforcement Learning and Safe Sim-To-Real Transfer"</em>. 2020 International Conference on Intelligent Robots and Systems (IROS) <br />
 [[Paper]](https://arxiv.org/abs/2003.05117) [[Code]](https://github.com/krishanrana/multiplicative_controller_fusion) [[Site]](https://sites.google.com/view/mcf-nav/home)
