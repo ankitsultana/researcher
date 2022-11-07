@@ -12,11 +12,11 @@ I am a PhD researcher at the Australian Centre for Robotic Vision working on con
 
 ## Publications
 
-1. <img class="project-picture" src="images/rsp.png"> <b>Rana, K.</b>, Milford, M., & Sünderhauf, N. <em>"Residual Skill Policies: Learning an Adaptable Skill Space for Reinforcement Learning for Robotics"</em> Under Review Robotics and Automation Letters (RA-L)<br />
-[[Paper]](#) [[Code]](#) [[Site]]()
+1. <img class="project-picture" src="images/rsp.png"> <b>Rana, K.</b>, Milford, M., & Sünderhauf, N. <em>"Residual Skill Policies: Learning an Adaptable Skill Space for Reinforcement Learning for Robotics"</em> 2022 Conference on Robot Learning (CoRL)<br />
+[[Paper]](https://arxiv.org/abs/2211.02231) [[Code]](https://github.com/krishanrana/reskill) [[Site]](https://krishanrana.github.io/reskill)
 
 2. <img class="project-picture" src="images/sim_real.png"> <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sünderhauf, N. <em>"Zero-Shot Uncertainty-Aware Deployment of Simulation Trained Policies on Real-World Robots"</em> NeurIPS 2021 Workshop on Deployable Decision Making in Embodied Systems (DDM) | Spotlight <br />
-[[Paper]](#) [[Code]](#) [[Site]](https://krishanrana.github.io/bcf)
+[[Paper]](https://arxiv.org/abs/2112.05299) [[Code]](https://github.com/krishanrana/bcf) [[Site]](https://krishanrana.github.io/bcf)
 
 3. <img class="project-picture" src="images/bcf.png"> <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sünderhauf, N. <em>"Bayesian Controller Fusion: Leveraging Control Priors in Deep Reinforcement Learning for Robotics"</em> [Under review for The International Journal of Robotics Research (IJRR)] <br />
 [[Paper]](https://arxiv.org/abs/2107.09822) [[Code]](#) [[Site]](https://krishanrana.github.io/bcf)
