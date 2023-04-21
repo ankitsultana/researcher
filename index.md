@@ -12,7 +12,7 @@ I am postdoctoral researcher at the QUT Centre for Robotics working on control a
 
 ## Publications
 
-1. <img class="project-picture" src="images/CLASP.png", width="100", height="100"> <b>Rana, K.</b>, Melnik, A., & Sünderhauf, N. <em>"Contrastive Language, Action, and State
+1. <img class="project-picture" src="images/CLASP.png"> <b>Rana, K.</b>, Melnik, A., & Sünderhauf, N. <em>"Contrastive Language, Action, and State
 Pre-training for Robot Learning"</em> 2023 [under review]<br />
 [[Paper]](#)
 
