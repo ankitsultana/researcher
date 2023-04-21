@@ -14,7 +14,7 @@ I am postdoctoral researcher at the QUT Centre for Robotics working on control a
 
 1. <img class="project-picture" src="images/CLASP.png"> <b>Rana, K.</b>, Melnik, A., & Sünderhauf, N. <em>"Contrastive Language, Action, and State
 Pre-training for Robot Learning"</em> 2023 [under review]<br />
-[[Paper]](https://arxiv.org/abs/2211.02231) [[Code]](https://github.com/krishanrana/reskill) [[Site]](https://krishanrana.github.io/reskill)
+[[Paper]](#)
 
 2. <img class="project-picture" src="images/rsp.png"> <b>Rana, K.</b>, Milford, M., & Sünderhauf, N. <em>"Residual Skill Policies: Learning an Adaptable Skill Space for Reinforcement Learning for Robotics"</em> 2022 Conference on Robot Learning (CoRL)<br />
 [[Paper]](https://arxiv.org/abs/2211.02231) [[Code]](https://github.com/krishanrana/reskill) [[Site]](https://krishanrana.github.io/reskill)
