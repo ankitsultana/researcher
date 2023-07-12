@@ -13,8 +13,8 @@ I am postdoctoral researcher at the QUT Centre for Robotics working on control a
 ## Publications
 
 1. <img class="project-picture" src="images/CLASP.png"> <b>Rana, K.</b>, Melnik, A., & Sünderhauf, N. <em>"Contrastive Language, Action, and State
-Pre-training for Robot Learning"</em> 2023 [under review]<br />
-[[Paper]](#)
+Pre-training for Robot Learning"</em> ICRA 2023 Pretraining for Robotics Workshop <br />
+[[Paper]](https://openreview.net/pdf?id=sxKR6zhBDH)
 
 2. <img class="project-picture" src="images/rsp.png"> <b>Rana, K.</b>, Milford, M., & Sünderhauf, N. <em>"Residual Skill Policies: Learning an Adaptable Skill Space for Reinforcement Learning for Robotics"</em> 2022 Conference on Robot Learning (CoRL)<br />
 [[Paper]](https://arxiv.org/abs/2211.02231) [[Code]](https://github.com/krishanrana/reskill) [[Site]](https://krishanrana.github.io/reskill)
@@ -22,8 +22,8 @@ Pre-training for Robot Learning"</em> 2023 [under review]<br />
 3. <img class="project-picture" src="images/sim_real.png"> <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sünderhauf, N. <em>"Zero-Shot Uncertainty-Aware Deployment of Simulation Trained Policies on Real-World Robots"</em> NeurIPS 2021 Workshop on Deployable Decision Making in Embodied Systems (DDM) | Spotlight <br />
 [[Paper]](https://arxiv.org/abs/2112.05299) [[Code]](https://github.com/krishanrana/bcf) [[Site]](https://krishanrana.github.io/bcf)
 
-4. <img class="project-picture" src="images/bcf.png"> <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sünderhauf, N. <em>"Bayesian Controller Fusion: Leveraging Control Priors in Deep Reinforcement Learning for Robotics"</em> [Under review for The International Journal of Robotics Research (IJRR)] <br />
-[[Paper]](https://arxiv.org/abs/2107.09822) [[Code]](https://github.com/krishanrana/bcf) [[Site]](https://krishanrana.github.io/bcf)
+4. <img class="project-picture" src="images/bcf.png"> <b>Rana, K.</b>, Dasagi, V., Haviland, J., Milford, M., & Sünderhauf, N. <em>"Bayesian Controller Fusion: Leveraging Control Priors in Deep Reinforcement Learning for Robotics"</em> The International Journal of Robotics Research (IJRR) <br />
+[[Paper]](https://journals.sagepub.com/doi/full/10.1177/02783649231167210) [[Code]](https://github.com/krishanrana/bcf) [[Site]](https://krishanrana.github.io/bcf)
 
 5. <img class="project-picture" src="images/mcf.png"> <b>Rana, K.</b>, Dasagi, V., Talbot, B., Milford, M., & Sunderhauf, N. (2020). <em>"Multiplicative Controller Fusion: Leveraging Algorithmic Priors for Sample-efficient Reinforcement Learning and Safe Sim-To-Real Transfer"</em>. 2020 International Conference on Intelligent Robots and Systems (IROS) <br />
 [[Paper]](https://arxiv.org/abs/2003.05117) [[Code]](https://github.com/krishanrana/multiplicative_controller_fusion) [[Site]](https://sites.google.com/view/mcf-nav/home)
